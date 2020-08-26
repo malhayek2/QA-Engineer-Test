@@ -1,0 +1,3150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header adminlang="en-US" creationdate="2020-08-25T23:30:03" creationtool="Onyx: Dictionary Strings Util" creationtoolversion="1.0" datatype="unknown" o-tmf="unknown" segtype="sentence" srclang="en"/>
+  <body>
+    <tu tuid="0">
+      <tuv xml:lang="en"><seg> of </seg></tuv>
+      <tuv xml:lang="de"><seg> von </seg></tuv>
+    </tu>
+    <tu tuid="1">
+      <tuv xml:lang="en"><seg>% of Patches0</seg></tuv>
+      <tuv xml:lang="de"><seg>% der Patches</seg></tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="en"><seg>%.2lf sq m000</seg></tuv>
+      <tuv xml:lang="de"><seg>%.2lf QM</seg></tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="en"><seg>%d Color</seg></tuv>
+      <tuv xml:lang="de"><seg>%d Farbe</seg></tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="en"><seg>%d sec</seg></tuv>
+      <tuv xml:lang="de"><seg>%d Sek.</seg></tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="en"><seg>%s &amp;Help</seg></tuv>
+      <tuv xml:lang="de"><seg>%s &amp;Hilfe</seg></tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="en"><seg>%s Job/Image Files|*.onx;*.tif;*.tiff;*.tga;*.bmp;*.dib;*.ct;*.sct;*.jpg;*.jpe;*.jpeg;*.jfif;*.jp2;*.psd;*.gif;*.pcx;*.pcd;*.ps;*.eps;*.pdf;*.rpf;*.sid;*.ils;*.png;*.ocw|</seg></tuv>
+      <tuv xml:lang="de"><seg>%s Auftrags-/Bild- Dateien|*.onx;*.tif;*.tiff;*.tga;*.bmp;*.dib;*.ct;*.sct;*.jpg;*.jpe;*.jpeg;*.jfif;*.jp2;*.psd;*.gif;*.pcx;*.pcd;*.ps;*.eps;*.pdf;*.rpf;*.sid;*.ils;*.png;*.ocw|</seg></tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="en"><seg>%s Server Configuration</seg></tuv>
+      <tuv xml:lang="de"><seg>%s Serverkonfiguration</seg></tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="en"><seg>%s is not a valid job path.</seg></tuv>
+      <tuv xml:lang="de"><seg>%s ist kein gültiger Auftragspfad.</seg></tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="en"><seg>%s:%u</seg></tuv>
+      <tuv xml:lang="de"><seg>%s:%u</seg></tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="en"><seg>&amp;About CADPrint...</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Über CADPrint...</seg></tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="en"><seg>&amp;Archive</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Archivieren</seg></tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="en"><seg>&amp;Calibrate Unit</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Einheit kalibrieren</seg></tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="en"><seg>&amp;Column Number</seg></tuv>
+      <tuv xml:lang="de"><seg>Spaltennummer</seg></tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="en"><seg>&amp;Cutting Method:</seg></tuv>
+      <tuv xml:lang="de"><seg>S&amp;chneideverfahren:</seg></tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="en"><seg>&amp;Edit</seg></tuv>
+      <tuv xml:lang="de"><seg>B&amp;earbeiten</seg></tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="en"><seg>&amp;Finish</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Fertigstellen</seg></tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="en"><seg>&amp;Inches</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Zoll</seg></tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="en"><seg>&amp;Maximum Percent Ink Printed:</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Maximal zu druckende Tinte (in Prozent):</seg></tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="en"><seg>&amp;Nest with other jobs</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Mit anderen Aufträgen verschachteln</seg></tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="en"><seg>&amp;Page Sizes...</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Seitengrößen ...</seg></tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="en"><seg>&amp;Print Swatch</seg></tuv>
+      <tuv xml:lang="de"><seg>Swatch drucken (&amp;P)</seg></tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="en"><seg>&amp;Red</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Rot</seg></tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="en"><seg>&amp;Roll</seg></tuv>
+      <tuv xml:lang="de"><seg>R&amp;olle</seg></tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="en"><seg>&amp;Set Factor</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Faktor einstellen</seg></tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="en"><seg>&amp;Tiling</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Kachelung</seg></tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="en"><seg>&amp;View</seg></tuv>
+      <tuv xml:lang="de"><seg>Ansicht (&amp;V)</seg></tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="en"><seg>(</seg></tuv>
+      <tuv xml:lang="de"><seg>(</seg></tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="en"><seg>(3 x 4 color)</seg></tuv>
+      <tuv xml:lang="de"><seg>(2 x 4 Farbe)</seg></tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="en"><seg>(Date:</seg></tuv>
+      <tuv xml:lang="de"><seg>(Datum:</seg></tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="en"><seg>(Order #:</seg></tuv>
+      <tuv xml:lang="de"><seg>(Auftragsnummer:</seg></tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="en"><seg>(Total Time:</seg></tuv>
+      <tuv xml:lang="de"><seg>(Gesamtzeit:</seg></tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="en"><seg>*** No predefined modes for this resolution ***</seg></tuv>
+      <tuv xml:lang="de"><seg>*** Keine vordefinierten Modi für diese Auflösung ***</seg></tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="en"><seg>, Alignment:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Ausrichtung:</seg></tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="en"><seg>, Center Heater:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Zentrales Heizelement:</seg></tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="en"><seg>, Double Ink:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Doppeltinte:</seg></tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="en"><seg>, Drying Time Between Scans:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Trockenzeit zwischen Scans:</seg></tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="en"><seg>, Feed Up To Dryer:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Dem Trockner zuführen:</seg></tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="en"><seg>, Heater Status:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Erhitzerstatus:</seg></tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="en"><seg>, Interleave Mode:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Verschachtelungsmodus:</seg></tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="en"><seg>, Left (Inner - Middle):</seg></tuv>
+      <tuv xml:lang="de"><seg>, Links (Innen – Mitte):</seg></tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="en"><seg>, Media Feed Mode:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Medienzufuhrmodus:</seg></tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="en"><seg>, Multilayer:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Mehrschichtig:</seg></tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="en"><seg>, Paper Size:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Papierformat:</seg></tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="en"><seg>, Pen Tolerances: K:%u, C:%u, M:%u, Y:%u</seg></tuv>
+      <tuv xml:lang="de"><seg>, Stifttoleranzen: K:%u, C:%u, M:%u, Y:%u</seg></tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="en"><seg>, Print Direction: %s</seg></tuv>
+      <tuv xml:lang="de"><seg>, Druckrichtung: %s</seg></tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="en"><seg>, Rear Heater:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Hinterer Erhitzer</seg></tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="en"><seg>, Scan Speed:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Scan-Geschwindigkeit:</seg></tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="en"><seg>, Spot Color Print Mode:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Druckmodus für Sonderfarbe:</seg></tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="en"><seg>, Use Control Panel Settings:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Einstellungen für Bedienfeld verwenden:</seg></tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="en"><seg>, Weaving:</seg></tuv>
+      <tuv xml:lang="de"><seg>, Weaving:</seg></tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="en"><seg>- You have non zero paper value(s) in the output curves.\n</seg></tuv>
+      <tuv xml:lang="de"><seg>- Ihre Ausgabekurven enthalten Papierwert(e) ungleich Null.\n</seg></tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="en"><seg>00:00:00</seg></tuv>
+      <tuv xml:lang="de"><seg>00:00:00</seg></tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="en"><seg>1) &amp;Cyan Limit:</seg></tuv>
+      <tuv xml:lang="de"><seg>1) Cyan-Schwelle:</seg></tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="en"><seg>100% Cyan DeltaE00</seg></tuv>
+      <tuv xml:lang="de"><seg>100 % Cyan DeltaE00</seg></tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="en"><seg>120.5 in</seg></tuv>
+      <tuv xml:lang="de"><seg>120,5 Zoll</seg></tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="en"><seg>2 Pass None 2</seg></tuv>
+      <tuv xml:lang="de"><seg>2 Durchläufe Keine 2</seg></tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="en"><seg>2-Sided Printing</seg></tuv>
+      <tuv xml:lang="de"><seg>2-seitiges Drucken</seg></tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="en"><seg>3 Step Cut (High)</seg></tuv>
+      <tuv xml:lang="de"><seg>3-Schritt-Schnitt (Hoch)</seg></tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="en"><seg>3.25 in./sec</seg></tuv>
+      <tuv xml:lang="de"><seg>3,25 Zoll/Sekunde</seg></tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="en"><seg>315 - Mode Options</seg></tuv>
+      <tuv xml:lang="de"><seg>315 - Moduseinstellungen</seg></tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="en"><seg>4 Pass Wave 1</seg></tuv>
+      <tuv xml:lang="de"><seg>4 Durchläufe Welle 1</seg></tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="en"><seg>4.00 in./sec</seg></tuv>
+      <tuv xml:lang="de"><seg>4,00 Zoll/Sekunde</seg></tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="en"><seg>5) &amp;Green Limit:</seg></tuv>
+      <tuv xml:lang="de"><seg>5) Grün-Schwelle:</seg></tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="en"><seg>6 pass</seg></tuv>
+      <tuv xml:lang="de"><seg>6 Durchläufe</seg></tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="en"><seg>720-FD Mode</seg></tuv>
+      <tuv xml:lang="de"><seg>720-FD Modus</seg></tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="en"><seg>8 Pass / 4 Pass</seg></tuv>
+      <tuv xml:lang="de"><seg>8 Durchläufe/ 4 Durchläufe</seg></tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="en"><seg>&lt;&lt;</seg></tuv>
+      <tuv xml:lang="de"><seg>&lt;&lt;</seg></tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="en"><seg>&lt;None&gt;</seg></tuv>
+      <tuv xml:lang="de"><seg>&lt;Keine&gt;</seg></tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="en"><seg>&lt;b&gt;Dark inks only:&lt;/b&gt; Disabled</seg></tuv>
+      <tuv xml:lang="de"><seg>&lt;b&gt;Nur dunkle Tinten:&lt;/b&gt; Deaktiviert</seg></tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="en"><seg>&lt;b&gt;Transition:&lt;/b&gt; If your ink configuration has multiple ink levels per channel (e.g. Dark ink, plus light ink) this setting controls the rate of the transition between the two levels. It can be observed within the plot as a change in the angle of the curves.</seg></tuv>
+      <tuv xml:lang="de"><seg>&lt;b&gt;Übergang:&lt;/b&gt; Wenn Ihre Tintenkonfiguration über mehr als einen Tintenwert pro Kanal verfügt (z. B. dunkle Tinte und helle Tinte), wird mit dieser Einstellung der Anteil für den Übergang zwischen den beiden Werten gesteuert. Dies kann im Plot als Änderung im Winkel der Kurven erkannt werden.</seg></tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="en"><seg>&lt;html&gt;Select the cutter(s) to use.&lt;br&gt;This list may be changed later in the Application Settings dialog.&lt;/html&gt;</seg></tuv>
+      <tuv xml:lang="de"><seg>&lt;html&gt;Wählen Sie die zu verwendende(n) Schneideeinrichtung(en).&lt;br&gt;Diese Liste kann im Dialogfenster Anwendungseinstellungen später geändert werden.&lt;/html&gt;</seg></tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="en"><seg>&gt;&gt;&gt;&gt; Interpreter Output and Errors &lt;&lt;&lt;&lt;</seg></tuv>
+      <tuv xml:lang="de"><seg>&gt;&gt;&gt;&gt; Interpreter - Ausgabe und Fehler &lt;&lt;&lt;&lt;</seg></tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="en"><seg>A Mode is a name that represents a method of printing. A Mode determines Resolution, Dot Pattern, Ink Configuration, and other settings.</seg></tuv>
+      <tuv xml:lang="de"><seg>Ein Modus ist ein Name, der die Druckmethode widerspiegelt. Ein Modus legt Auflösung, Punktraster, Tintenkonfiguration und andere Einstellungen fest.</seg></tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="en"><seg>A filter with this name already exists.  Please enter a name other than %s for this filter.</seg></tuv>
+      <tuv xml:lang="de"><seg>Ein Filter mit diesem Namen existiert bereits. Geben Sie einen anderen Namen als %s an.</seg></tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="en"><seg>A mode with this name already exists in the media.</seg></tuv>
+      <tuv xml:lang="de"><seg>In diesem Medium besteht bereits ein Modus mit diesem Namen.</seg></tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="en"><seg>A skew jam.\n</seg></tuv>
+      <tuv xml:lang="de"><seg>Schräglaufstau.\n</seg></tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="en"><seg>A:</seg></tuv>
+      <tuv xml:lang="de"><seg>A:</seg></tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="en"><seg>Abort installation</seg></tuv>
+      <tuv xml:lang="de"><seg>Installation abbrechen</seg></tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="en"><seg>Above Normal</seg></tuv>
+      <tuv xml:lang="de"><seg>Höher als normal</seg></tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="en"><seg>AccuPhoto GSX Job Options</seg></tuv>
+      <tuv xml:lang="de"><seg>AccuPhoto GSX Auftragsoptionen</seg></tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="en"><seg>Activation</seg></tuv>
+      <tuv xml:lang="de"><seg>Aktivierung</seg></tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="en"><seg>Adapter</seg></tuv>
+      <tuv xml:lang="de"><seg>Adapter</seg></tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="en"><seg>Add Font</seg></tuv>
+      <tuv xml:lang="de"><seg>Schrift hinzufügen</seg></tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="en"><seg>Add More Red</seg></tuv>
+      <tuv xml:lang="de"><seg>Mehr Rot hinzufügen</seg></tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="en"><seg>Add Resolution</seg></tuv>
+      <tuv xml:lang="de"><seg>Auflösung hinzufügen</seg></tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="en"><seg>Add a resolution to the list of available resolutions\n\\Add Resolution</seg></tuv>
+      <tuv xml:lang="de"><seg>Fügen Sie eine Auflösung zur Liste vorhandener Auflösungen dazu\n\\Hinzufügen von Auflösung</seg></tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="en"><seg>Added</seg></tuv>
+      <tuv xml:lang="de"><seg>Hinzugefügt</seg></tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="en"><seg>Adjust if dark areas of rows D and E appear gray</seg></tuv>
+      <tuv xml:lang="de"><seg>Anpassen, wenn dunkle Bereiche der Zeilen D und E grau erscheinen</seg></tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="en"><seg>Adv. Black&amp;White Photo</seg></tuv>
+      <tuv xml:lang="de"><seg>Adv. Schwarz&amp;Weiss-Foto</seg></tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="en"><seg>Advanced Path Generation</seg></tuv>
+      <tuv xml:lang="de"><seg>Erweiterte Wegerzeugung</seg></tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="en"><seg>After deleting this print mode, the substrate will be also deleted. Are you sure that you want to delete the print mode?</seg></tuv>
+      <tuv xml:lang="de"><seg>Nach Löschen des Druckmodus wird auch das Druckmaterial gelöscht. Möchten Sie den Druckmodus wirklich löschen?</seg></tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="en"><seg>Agfa Montana XII / 62</seg></tuv>
+      <tuv xml:lang="de"><seg>Agfa Montana XII / 62</seg></tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="en"><seg>All %s Job/Image Files|*.onx;*.onc;*.tif;*.tiff;*.tga;*.bmp;*.dib;*.ct;*.sct;*.jpg;*.jpe;*.jpeg;*.jfif;*.jp2;*.psd;*.psb;*.gif;*.pcx;*.pcd;*.sid;*.ps;*.eps;*.pdf;*.rpf;*.ils;*.png|</seg></tuv>
+      <tuv xml:lang="de"><seg>Alle %s Auftrags-/Bild- Dateien|*.onx;*.onc;*.tif;*.tiff;*.tga;*.bmp;*.dib;*.ct;*.sct;*.jpg;*.jpe;*.jpeg;*.jfif;*.jp2;*.psd;*.psb;*.gif;*.pcx;*.pcd;*.sid;*.ps;*.eps;*.pdf;*.rpf;*.ils;*.png|</seg></tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="en"><seg>All Medias</seg></tuv>
+      <tuv xml:lang="de"><seg>Alle Medien</seg></tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="en"><seg>All data for station %s will be deleted and cannot be undone. Do you want to continue?</seg></tuv>
+      <tuv xml:lang="de"><seg>Alle Daten für Station %s werden gelöscht und können nicht wieder abgerufen werden. Möchten Sie fortfahren?</seg></tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="en"><seg>Allow Infinite Length Rolls</seg></tuv>
+      <tuv xml:lang="de"><seg>Rollen unbegrenzter Länge erlauben</seg></tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="en"><seg>Almost empty</seg></tuv>
+      <tuv xml:lang="de"><seg>Fast leer</seg></tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="en"><seg>An appropriate set of options is generally preselected automatically based on your ink setup for the media. For most users it is recommended that you simply click &lt;b&gt;Build&lt;/b&gt; to complete the profiling process. Advanced users can access the Build Options by clicking &lt;b&gt;Edit&lt;/b&gt;. The down arrow on the Edit button allows users to configure and save custom setups. These will appear in the Predefined Build Options drop-down menu. &lt;b&gt;NOTE:&lt;/b&gt; Custom built option presets are not auto-selected based on the ink setup of your media.</seg></tuv>
+      <tuv xml:lang="de"><seg>Die entsprechenden Optionen werden i. d. R. automatisch anhand der Tinteneinstellung für das Medium ausgewählt. Daher wird für die meisten Benutzer empfohlen, auf &lt;b&gt;Erstellen&lt;/b&gt; zu klicken, um den Profilprozess abzuschließen. Fortgeschrittene Benutzer können auf &lt;b&gt;Bearbeiten&lt;/b&gt; klicken, um die Buildoptionen aufzurufen. Der Pfeil nach unten auf der Schaltfläche &lt;b&gt;Bearbeiten&lt;/b&gt; ermöglicht das Konfigurieren und Bearbeiten von benutzerdefinierten Setups. Diese werden im Dropdownmenü für vordefinierte Generierungsoptionen angezeigt. &lt;b&gt;HINWEIS:&lt;/b&gt; Voreinstellungen für benutzerdefinierte Generierungsoptionen werden nicht automatisch anhand der Tinteneinstellung für das Medium ausgewählt.</seg></tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="en"><seg>An error occurred trying to open a tile for job &quot;%s%s&quot;.\n%s</seg></tuv>
+      <tuv xml:lang="de"><seg>Beim Versuch, eine Kachel für den Auftrag &quot;%s%s&quot; zu öffnen, ist ein Fehler aufgetreten.\n%s</seg></tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="en"><seg>An error occurred while processing a command from the client.</seg></tuv>
+      <tuv xml:lang="de"><seg>Ein Fehler trat während der Ausführung eines Befehls des Clients auf.</seg></tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="en"><seg>An invalid field in the command data block has been sent to the printer.</seg></tuv>
+      <tuv xml:lang="de"><seg>An den Drucker wurde ein ungültiges Befehlsdatenblock-Feld geschickt.</seg></tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="en"><seg>Animate cut paths</seg></tuv>
+      <tuv xml:lang="de"><seg>Zuschnittpfade animieren</seg></tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="en"><seg>Apply Changes</seg></tuv>
+      <tuv xml:lang="de"><seg>Änderungen übernehmen</seg></tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="en"><seg>Archive Job Indefinitely</seg></tuv>
+      <tuv xml:lang="de"><seg>Unbeschränktes Archivieren des Auftrages</seg></tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="en"><seg>Are you sure you want to delete %s?</seg></tuv>
+      <tuv xml:lang="de"><seg>Soll %s wirklich gelöscht werden?</seg></tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="en"><seg>Are you sure you want to delete this color: (</seg></tuv>
+      <tuv xml:lang="de"><seg>Möchten Sie diese Farbe wirklich löschen: (</seg></tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="en"><seg>Arial</seg></tuv>
+      <tuv xml:lang="de"><seg>Arial</seg></tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="en"><seg>Assign output channels to process channels</seg></tuv>
+      <tuv xml:lang="de"><seg>Ausgabekanäle Verarbeitungskanälen zuweisen</seg></tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="en"><seg>Auto Adjust</seg></tuv>
+      <tuv xml:lang="de"><seg>Automatische Anpassung</seg></tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="en"><seg>Auto drying</seg></tuv>
+      <tuv xml:lang="de"><seg>Automatische Trocknung</seg></tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="en"><seg>Automatic Even Tiling</seg></tuv>
+      <tuv xml:lang="de"><seg>Automatische gerade Kachelung</seg></tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="en"><seg>Automatically import the media currently loaded on the printer</seg></tuv>
+      <tuv xml:lang="de"><seg>Automatisch die gerade im Drucker geladenen Medien importieren</seg></tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="en"><seg>Average ΔE</seg></tuv>
+      <tuv xml:lang="de"><seg>Durchschn. ΔE</seg></tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="en"><seg>Background</seg></tuv>
+      <tuv xml:lang="de"><seg>Hintergrund</seg></tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="en"><seg>Band Reduction:</seg></tuv>
+      <tuv xml:lang="de"><seg>Bahnverringerung:</seg></tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="en"><seg>Banner 2, 6p, bi, 320 cps</seg></tuv>
+      <tuv xml:lang="de"><seg>Banner 2, 6p, bi , 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="en"><seg>Banner 4, 4p, bi, 320 cps</seg></tuv>
+      <tuv xml:lang="de"><seg>Banner 4, 4p, bi , 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="en"><seg>Barcode Properties</seg></tuv>
+      <tuv xml:lang="de"><seg>Strichcode-Eigenschaften</seg></tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="en"><seg>Basic Contone</seg></tuv>
+      <tuv xml:lang="de"><seg>Contone einfach</seg></tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="en"><seg>Be sure to export the Zund CutCenter cutter materials</seg></tuv>
+      <tuv xml:lang="de"><seg>Stellen Sie sicher, dass Sie die Zund CutCenter-Schneidevorrichtungsmaterialien exportieren.</seg></tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="en"><seg>Beta Version: %s</seg></tuv>
+      <tuv xml:lang="de"><seg>Beta Version: %s</seg></tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="en"><seg>BiDirectional Printing,</seg></tuv>
+      <tuv xml:lang="de"><seg>Bidirektionales Drucken,</seg></tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="en"><seg>Black Generation Profile Selection</seg></tuv>
+      <tuv xml:lang="de"><seg>Auswahl Schwarzaufbauprofil</seg></tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="en"><seg>Black Width:</seg></tuv>
+      <tuv xml:lang="de"><seg>Schwarz Breite:</seg></tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="en"><seg>Bleed Right: %s</seg></tuv>
+      <tuv xml:lang="de"><seg>Beschnitt rechts: %s</seg></tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="en"><seg>Blue Limit</seg></tuv>
+      <tuv xml:lang="de"><seg>Blau-Schwelle</seg></tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="en"><seg>Borderless</seg></tuv>
+      <tuv xml:lang="de"><seg>Randlos</seg></tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="en"><seg>Bottom Right Corner</seg></tuv>
+      <tuv xml:lang="de"><seg>Ecke unten rechts</seg></tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="en"><seg>BuffLen value is too small.</seg></tuv>
+      <tuv xml:lang="de"><seg>BuffLen-Wert ist zu klein.</seg></tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="en"><seg>Build Profile - %s</seg></tuv>
+      <tuv xml:lang="de"><seg>Profilgenerierung - %s</seg></tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="en"><seg>By &amp;Copies</seg></tuv>
+      <tuv xml:lang="de"><seg>Nach &amp;Exemplaren</seg></tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="en"><seg>C&amp;alibrate...</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Kalibrieren...</seg></tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="en"><seg>CCX Files (*.proflist)|*.proflist|</seg></tuv>
+      <tuv xml:lang="de"><seg>CCX Dateien (*.proflist)|*.proflist|</seg></tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="en"><seg>CMY Gray Generation</seg></tuv>
+      <tuv xml:lang="de"><seg>CMY Grau-Generierung</seg></tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="en"><seg>CMYK Curves</seg></tuv>
+      <tuv xml:lang="de"><seg>CMYK-Kurven</seg></tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="en"><seg>CMYK scanned images not supported!</seg></tuv>
+      <tuv xml:lang="de"><seg>CMYK gescanntes Bilder nicht unterstützt!</seg></tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="en"><seg>CMYK+White+White</seg></tuv>
+      <tuv xml:lang="de"><seg>CMYK+Weiß+Weiß</seg></tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="en"><seg>CMYKcmSS</seg></tuv>
+      <tuv xml:lang="de"><seg>CMYKcmSS</seg></tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="en"><seg>Calcomp 50</seg></tuv>
+      <tuv xml:lang="de"><seg>Calcomp 50</seg></tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="en"><seg>Calibration ID is NOT available</seg></tuv>
+      <tuv xml:lang="de"><seg>Kalibrierungs-ID ist NICHT verfügbar</seg></tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="en"><seg>Can not install the medias. The Onyx software is not installed.</seg></tuv>
+      <tuv xml:lang="de"><seg>Die Medien können nicht installiert werden. Die Onyx Software ist nicht installiert.</seg></tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="en"><seg>Canceling after current mode...</seg></tuv>
+      <tuv xml:lang="de"><seg>Abbruch nach aktuellem Modus...</seg></tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="en"><seg>Cannot create swatch!</seg></tuv>
+      <tuv xml:lang="de"><seg>Swatch kann nicht erstellt werden.</seg></tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="en"><seg>Cannot open USB port - busy getting status.</seg></tuv>
+      <tuv xml:lang="de"><seg>USB-Anschluss kann nicht geöffnet werden - der Anschluss ist mit dem Abrufen des Status ausgelastet.</seg></tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="en"><seg>Cannot run key updates: No key accessible.</seg></tuv>
+      <tuv xml:lang="de"><seg>Schlüsselaktualisierungen laufen nicht: Kein Schlüssel verfügbar.</seg></tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="en"><seg>Canon FireWire</seg></tuv>
+      <tuv xml:lang="de"><seg>Canon FireWire</seg></tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="en"><seg>Carriage Temperature:</seg></tuv>
+      <tuv xml:lang="de"><seg>Wagentemperatur:</seg></tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="en"><seg>Category</seg></tuv>
+      <tuv xml:lang="de"><seg>Kategorie</seg></tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="en"><seg>Certificate invalid.</seg></tuv>
+      <tuv xml:lang="de"><seg>Zertifikat ungültig.</seg></tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="en"><seg>Change ZCC Material Selection...</seg></tuv>
+      <tuv xml:lang="de"><seg>ZCC-Materialauswahl ändern...</seg></tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="en"><seg>Channel</seg></tuv>
+      <tuv xml:lang="de"><seg>Kanal</seg></tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="en"><seg>Chart Mode:</seg></tuv>
+      <tuv xml:lang="de"><seg>Diagrammmodus:</seg></tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="en"><seg>Checking Spooler Status...</seg></tuv>
+      <tuv xml:lang="de"><seg>Spooler-Status wird überprüft...</seg></tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="en"><seg>Choose Calibration</seg></tuv>
+      <tuv xml:lang="de"><seg>Kalibrierung wählen</seg></tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="en"><seg>Choose Recent Folder:</seg></tuv>
+      <tuv xml:lang="de"><seg>Vorherigen Ordner auswählen:</seg></tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="en"><seg>Choose the workflow to use:</seg></tuv>
+      <tuv xml:lang="de"><seg>Zu verwendenden Arbeitsfluss wählen:</seg></tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="en"><seg>Cleaning Liquid Cartridge Is Unset</seg></tuv>
+      <tuv xml:lang="de"><seg>Reinigungsflüssigkeitspatrone ist nicht befestigt</seg></tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="en"><seg>Click + to create a new Media Group. Clicking this button will open a new dialog. Choose a name that will help you organize your media effectively, such as UV, Dye or a Media Manufacturer name.</seg></tuv>
+      <tuv xml:lang="de"><seg>Klicken Sie auf &quot;+&quot;, um eine neue Mediengruppe zu erstellen. Durch Klicken auf diese Schaltfläche wird ein neues Dialogfenster geöffnet. Wählen Sie einen Namen aus, mit dem eine effektive Gliederung der Medien möglich ist, beispielsweise UV, Färbung oder ein Media Manufacturer-Name.</seg></tuv>
+    </tu>
+    <tu tuid="159">
+      <tuv xml:lang="en"><seg>Click Print Swatch to print the Calibration swatch.</seg></tuv>
+      <tuv xml:lang="de"><seg>Klicken Sie auf Swatch drucken, um den Kalibrierungsswatch zu drucken.</seg></tuv>
+    </tu>
+    <tu tuid="160">
+      <tuv xml:lang="en"><seg>Click the Read Swatch button to read in the swatch using the selected color device.&lt;br&gt;&lt;br&gt;Once the swatch has been read in, a report will display indicating if there is conformance to the G7® Grayscale specification.</seg></tuv>
+      <tuv xml:lang="de"><seg>Klicken Sie auf die Schaltfläche „Swatch lesen“, um das Swatch mit dem gewählten Farbgerät einzulesen.&lt;br&gt;&lt;br&gt;Nach dem Einlesen des Swatch wird ein Bericht angezeigt, der angibt, ob die G7® Grayscale-Spezifikation eingehalten wird.</seg></tuv>
+    </tu>
+    <tu tuid="161">
+      <tuv xml:lang="en"><seg>Closed Communication</seg></tuv>
+      <tuv xml:lang="de"><seg>Geschlossene Kommunikation</seg></tuv>
+    </tu>
+    <tu tuid="162">
+      <tuv xml:lang="en"><seg>Collated</seg></tuv>
+      <tuv xml:lang="de"><seg>Sortiert</seg></tuv>
+    </tu>
+    <tu tuid="163">
+      <tuv xml:lang="en"><seg>Color -&gt; White -&gt; White</seg></tuv>
+      <tuv xml:lang="de"><seg>Farbe -&gt; Weiß -&gt; Weiß</seg></tuv>
+    </tu>
+    <tu tuid="164">
+      <tuv xml:lang="en"><seg>Color Display:</seg></tuv>
+      <tuv xml:lang="de"><seg>Farbanzeige:</seg></tuv>
+    </tu>
+    <tu tuid="165">
+      <tuv xml:lang="en"><seg>Color Order: %s</seg></tuv>
+      <tuv xml:lang="de"><seg>Farbreihenfolge: %s</seg></tuv>
+    </tu>
+    <tu tuid="166">
+      <tuv xml:lang="en"><seg>Color Table Enabled</seg></tuv>
+      <tuv xml:lang="de"><seg>Farbtabelle aktiviert</seg></tuv>
+    </tu>
+    <tu tuid="167">
+      <tuv xml:lang="en"><seg>Color/&amp;Gray Levels</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Farb-/Grauwerte</seg></tuv>
+    </tu>
+    <tu tuid="168">
+      <tuv xml:lang="en"><seg>ColorSpan DisplayMaker, Giclée PrintMakerFA, and DesignWinder Printers</seg></tuv>
+      <tuv xml:lang="de"><seg>ColorSpan DisplayMaker, Giclée PrintMakerFA und DesignWinder-Drucker</seg></tuv>
+    </tu>
+    <tu tuid="169">
+      <tuv xml:lang="en"><seg>Colorways (*.ocw)</seg></tuv>
+      <tuv xml:lang="de"><seg>Colorways (*.ocw)</seg></tuv>
+    </tu>
+    <tu tuid="170">
+      <tuv xml:lang="en"><seg>Communication driver did not initialize.</seg></tuv>
+      <tuv xml:lang="de"><seg>Kommunikationstreiber wurde nicht initialisiert.</seg></tuv>
+    </tu>
+    <tu tuid="171">
+      <tuv xml:lang="en"><seg>Completed:</seg></tuv>
+      <tuv xml:lang="de"><seg>Abgeschlossen:</seg></tuv>
+    </tu>
+    <tu tuid="172">
+      <tuv xml:lang="en"><seg>Configure &amp;Adobe RIP...</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Adobe RIP konfigurieren...</seg></tuv>
+    </tu>
+    <tu tuid="173">
+      <tuv xml:lang="en"><seg>Configure Elitron Cutter Marks</seg></tuv>
+      <tuv xml:lang="de"><seg>Elitron-Schnittmarken konfigurieren</seg></tuv>
+    </tu>
+    <tu tuid="174">
+      <tuv xml:lang="en"><seg>Configure Light Ink Termination</seg></tuv>
+      <tuv xml:lang="de"><seg>Konfiguration Helle Tinte abstellen</seg></tuv>
+    </tu>
+    <tu tuid="175">
+      <tuv xml:lang="en"><seg>Configure PostScript RIP\nConfigure RIP</seg></tuv>
+      <tuv xml:lang="de"><seg>Konfiguriert PostScript-RIP\nRIP konfigurieren</seg></tuv>
+    </tu>
+    <tu tuid="176">
+      <tuv xml:lang="en"><seg>Configure SummaCut Cutter Marks</seg></tuv>
+      <tuv xml:lang="de"><seg>SummaCut-Schnittmarken konfigurieren</seg></tuv>
+    </tu>
+    <tu tuid="177">
+      <tuv xml:lang="en"><seg>Configured in Media Layers</seg></tuv>
+      <tuv xml:lang="de"><seg>In Medienschichten konfiguriert</seg></tuv>
+    </tu>
+    <tu tuid="178">
+      <tuv xml:lang="en"><seg>Connecting to server...</seg></tuv>
+      <tuv xml:lang="de"><seg>Verbindung zum Server wird hergestellt...</seg></tuv>
+    </tu>
+    <tu tuid="179">
+      <tuv xml:lang="en"><seg>Continuing in %d seconds</seg></tuv>
+      <tuv xml:lang="de"><seg>Fortfahren in %d Sekunden</seg></tuv>
+    </tu>
+    <tu tuid="180">
+      <tuv xml:lang="en"><seg>Control Panel</seg></tuv>
+      <tuv xml:lang="de"><seg>Systemsteuerung</seg></tuv>
+    </tu>
+    <tu tuid="181">
+      <tuv xml:lang="en"><seg>Copies Tool</seg></tuv>
+      <tuv xml:lang="de"><seg>Kopier-Tool</seg></tuv>
+    </tu>
+    <tu tuid="182">
+      <tuv xml:lang="en"><seg>Copy Options</seg></tuv>
+      <tuv xml:lang="de"><seg>Optionen kopieren</seg></tuv>
+    </tu>
+    <tu tuid="183">
+      <tuv xml:lang="en"><seg>Copy:</seg></tuv>
+      <tuv xml:lang="de"><seg>Kopieren:</seg></tuv>
+    </tu>
+    <tu tuid="184">
+      <tuv xml:lang="en"><seg>Correction Factor</seg></tuv>
+      <tuv xml:lang="de"><seg>Korrekturfaktor</seg></tuv>
+    </tu>
+    <tu tuid="185">
+      <tuv xml:lang="en"><seg>Could not load color info, check your printer configuration</seg></tuv>
+      <tuv xml:lang="de"><seg>Farbinformation konnte nicht geladen werden, bitte Druckerkonfiguration überprüfen</seg></tuv>
+    </tu>
+    <tu tuid="186">
+      <tuv xml:lang="en"><seg>Could not open TCP/IP connection to %s!</seg></tuv>
+      <tuv xml:lang="de"><seg>TCP/IP-Verbindung zu %s konnte nicht geöffnet werden!</seg></tuv>
+    </tu>
+    <tu tuid="187">
+      <tuv xml:lang="en"><seg>Count Pixels</seg></tuv>
+      <tuv xml:lang="de"><seg>Pixel zählen</seg></tuv>
+    </tu>
+    <tu tuid="188">
+      <tuv xml:lang="en"><seg>Create Ink Limit</seg></tuv>
+      <tuv xml:lang="de"><seg>Tintenlimit erstellen</seg></tuv>
+    </tu>
+    <tu tuid="189">
+      <tuv xml:lang="en"><seg>Create Proof Automatically</seg></tuv>
+      <tuv xml:lang="de"><seg>Automatisch Prüfung erstellen</seg></tuv>
+    </tu>
+    <tu tuid="190">
+      <tuv xml:lang="en"><seg>Create a new Linearization:</seg></tuv>
+      <tuv xml:lang="de"><seg>Neue Linearisierung erstellen:</seg></tuv>
+    </tu>
+    <tu tuid="191">
+      <tuv xml:lang="en"><seg>Created</seg></tuv>
+      <tuv xml:lang="de"><seg>Erstellt am</seg></tuv>
+    </tu>
+    <tu tuid="192">
+      <tuv xml:lang="en"><seg>Creekside Printer Configuration</seg></tuv>
+      <tuv xml:lang="de"><seg>Creekside Druckerkonfiguration</seg></tuv>
+    </tu>
+    <tu tuid="193">
+      <tuv xml:lang="en"><seg>Crop to page</seg></tuv>
+      <tuv xml:lang="de"><seg>Auf Seite zuschneiden</seg></tuv>
+    </tu>
+    <tu tuid="194">
+      <tuv xml:lang="en"><seg>Current File:</seg></tuv>
+      <tuv xml:lang="de"><seg>Aktuelle Datei:</seg></tuv>
+    </tu>
+    <tu tuid="195">
+      <tuv xml:lang="en"><seg>Current Week</seg></tuv>
+      <tuv xml:lang="de"><seg>Aktuelle Woche</seg></tuv>
+    </tu>
+    <tu tuid="196">
+      <tuv xml:lang="en"><seg>Custom Channel</seg></tuv>
+      <tuv xml:lang="de"><seg>Benutzerdefinierter Kanal</seg></tuv>
+    </tu>
+    <tu tuid="197">
+      <tuv xml:lang="en"><seg>Custom Setting</seg></tuv>
+      <tuv xml:lang="de"><seg>Benutzerdefinierte Einstellung</seg></tuv>
+    </tu>
+    <tu tuid="198">
+      <tuv xml:lang="en"><seg>Custom...</seg></tuv>
+      <tuv xml:lang="de"><seg>Benutzerdefiniert...</seg></tuv>
+    </tu>
+    <tu tuid="199">
+      <tuv xml:lang="en"><seg>Customer Order ID: %ls</seg></tuv>
+      <tuv xml:lang="de"><seg>Kundenauftrags-ID: %ls</seg></tuv>
+    </tu>
+    <tu tuid="200">
+      <tuv xml:lang="en"><seg>Cut File Folder</seg></tuv>
+      <tuv xml:lang="de"><seg>Schnittdateiordner</seg></tuv>
+    </tu>
+    <tu tuid="201">
+      <tuv xml:lang="en"><seg>Cut Path Tool</seg></tuv>
+      <tuv xml:lang="de"><seg>Zuschnittpfad-Tool</seg></tuv>
+    </tu>
+    <tu tuid="202">
+      <tuv xml:lang="en"><seg>Cut wait time:</seg></tuv>
+      <tuv xml:lang="de"><seg>Wartezeit (Schneiden):</seg></tuv>
+    </tu>
+    <tu tuid="203">
+      <tuv xml:lang="en"><seg>Cutter Marks: %s</seg></tuv>
+      <tuv xml:lang="de"><seg>Schnittmarken: %s</seg></tuv>
+    </tu>
+    <tu tuid="204">
+      <tuv xml:lang="en"><seg>Cutters</seg></tuv>
+      <tuv xml:lang="de"><seg>Schneideeinrichtungen</seg></tuv>
+    </tu>
+    <tu tuid="205">
+      <tuv xml:lang="en"><seg>Czech</seg></tuv>
+      <tuv xml:lang="de"><seg>Tschechisch</seg></tuv>
+    </tu>
+    <tu tuid="206">
+      <tuv xml:lang="en"><seg>DN</seg></tuv>
+      <tuv xml:lang="de"><seg>Nach unten</seg></tuv>
+    </tu>
+    <tu tuid="207">
+      <tuv xml:lang="en"><seg>Data Type or Port Name:\n\tChoose a selection from the pull-down menu, or type in a new name.  Use &quot;&lt;Port9100&gt;&quot; for HP devices and &quot;lpt1_passthru&quot; or &quot;lpt2_passthru&quot; for Intel Netports.  For other devices, refer to the device documentation.</seg></tuv>
+      <tuv xml:lang="de"><seg>Datentyp oder Anschlussname:\n\tWählen Sie von der Auswahl im Pulldown-Menü oder geben Sie einen neuen Namen ein.  Verwenden Sie &quot;&lt;Port9100&gt;&quot; für HP-Geräte und &quot;lpt1_passthru&quot; oder &quot;lpt2_passthru&quot; für Intel Netports.  Lesen Sie für andere Geräte in der Gerätedokumentation nach.</seg></tuv>
+    </tu>
+    <tu tuid="208">
+      <tuv xml:lang="en"><seg>Date (additional_1): %1</seg></tuv>
+      <tuv xml:lang="de"><seg>Datum (additional_1): %1</seg></tuv>
+    </tu>
+    <tu tuid="209">
+      <tuv xml:lang="en"><seg>Decrement Image Magnification\nZoom Out</seg></tuv>
+      <tuv xml:lang="de"><seg>Reduzierung der Bildvergrößerung\nVerkleinern</seg></tuv>
+    </tu>
+    <tu tuid="210">
+      <tuv xml:lang="en"><seg>Default Nest</seg></tuv>
+      <tuv xml:lang="de"><seg>Standardverschachtelung</seg></tuv>
+    </tu>
+    <tu tuid="211">
+      <tuv xml:lang="en"><seg>Define Custom Layer</seg></tuv>
+      <tuv xml:lang="de"><seg>Benutzerdefinierte Schicht definieren</seg></tuv>
+    </tu>
+    <tu tuid="212">
+      <tuv xml:lang="en"><seg>Delete &amp;Image After Processing</seg></tuv>
+      <tuv xml:lang="de"><seg>Löschen von &amp;Image nach Verarbeitung</seg></tuv>
+    </tu>
+    <tu tuid="213">
+      <tuv xml:lang="en"><seg>Delete Pattern...</seg></tuv>
+      <tuv xml:lang="de"><seg>Muster löschen...</seg></tuv>
+    </tu>
+    <tu tuid="214">
+      <tuv xml:lang="en"><seg>Delete the selected Cutter Path prefix</seg></tuv>
+      <tuv xml:lang="de"><seg>Ausgewähltes Schnittpfad-Präfix löschen</seg></tuv>
+    </tu>
+    <tu tuid="215">
+      <tuv xml:lang="en"><seg>Deleting Files...</seg></tuv>
+      <tuv xml:lang="de"><seg>Dateien werden gelöscht ...</seg></tuv>
+    </tu>
+    <tu tuid="216">
+      <tuv xml:lang="en"><seg>Depends On</seg></tuv>
+      <tuv xml:lang="de"><seg>Abhängig von</seg></tuv>
+    </tu>
+    <tu tuid="217">
+      <tuv xml:lang="en"><seg>Desktop</seg></tuv>
+      <tuv xml:lang="de"><seg>Desktop</seg></tuv>
+    </tu>
+    <tu tuid="218">
+      <tuv xml:lang="en"><seg>Details</seg></tuv>
+      <tuv xml:lang="de"><seg>Details</seg></tuv>
+    </tu>
+    <tu tuid="219">
+      <tuv xml:lang="en"><seg>Device Setup</seg></tuv>
+      <tuv xml:lang="de"><seg>Gerät einrichten</seg></tuv>
+    </tu>
+    <tu tuid="220">
+      <tuv xml:lang="en"><seg>Direct</seg></tuv>
+      <tuv xml:lang="de"><seg>Direkt</seg></tuv>
+    </tu>
+    <tu tuid="221">
+      <tuv xml:lang="en"><seg>Disabled</seg></tuv>
+      <tuv xml:lang="de"><seg>Deaktiviert</seg></tuv>
+    </tu>
+    <tu tuid="222">
+      <tuv xml:lang="en"><seg>Display Name</seg></tuv>
+      <tuv xml:lang="de"><seg>Namen anzeigen</seg></tuv>
+    </tu>
+    <tu tuid="223">
+      <tuv xml:lang="en"><seg>Display warning when removing single images</seg></tuv>
+      <tuv xml:lang="de"><seg>Warnung anzeigen bei Entfernung einzelner Bilder</seg></tuv>
+    </tu>
+    <tu tuid="224">
+      <tuv xml:lang="en"><seg>Do %s%d</seg></tuv>
+      <tuv xml:lang="de"><seg>Ausführen von %s%d</seg></tuv>
+    </tu>
+    <tu tuid="225">
+      <tuv xml:lang="en"><seg>Do you want to get multiple patch readings from a different copy of the swatch?</seg></tuv>
+      <tuv xml:lang="de"><seg>Sollen die Patchwerte mehrfach aus verschiedenen Kopien der Swatch gesucht werden?</seg></tuv>
+    </tu>
+    <tu tuid="226">
+      <tuv xml:lang="en"><seg>Do you wish to save changes in this page before stopping?</seg></tuv>
+      <tuv xml:lang="de"><seg>Möchten Sie die Änderungen an dieser Seite vor dem Stoppen speichern?</seg></tuv>
+    </tu>
+    <tu tuid="227">
+      <tuv xml:lang="en"><seg>Don&apos;t ask again, always do this for mismatches with \n&apos;%s&apos;</seg></tuv>
+      <tuv xml:lang="de"><seg>Nicht erneut fragen. Aktion bei ausführen bei fehlender Übereinstimmung mit \n&apos;%s&apos;</seg></tuv>
+    </tu>
+    <tu tuid="228">
+      <tuv xml:lang="en"><seg>Dot Pattern:</seg></tuv>
+      <tuv xml:lang="de"><seg>Punktraster:</seg></tuv>
+    </tu>
+    <tu tuid="229">
+      <tuv xml:lang="en"><seg>Double Strike:</seg></tuv>
+      <tuv xml:lang="de"><seg>Doppelter Druck:</seg></tuv>
+    </tu>
+    <tu tuid="230">
+      <tuv xml:lang="en"><seg>Download Options</seg></tuv>
+      <tuv xml:lang="de"><seg>Download-Optionen</seg></tuv>
+    </tu>
+    <tu tuid="231">
+      <tuv xml:lang="en"><seg>Draft (2 pass, unidir),</seg></tuv>
+      <tuv xml:lang="de"><seg>Entwurf (2 Durchlauf, unidir.),</seg></tuv>
+    </tu>
+    <tu tuid="232">
+      <tuv xml:lang="en"><seg>Drop Size Swatch</seg></tuv>
+      <tuv xml:lang="de"><seg>Übergangsbild:</seg></tuv>
+    </tu>
+    <tu tuid="233">
+      <tuv xml:lang="en"><seg>Drying &amp;Time</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Trockenzeit</seg></tuv>
+    </tu>
+    <tu tuid="234">
+      <tuv xml:lang="en"><seg>Dual Stripe</seg></tuv>
+      <tuv xml:lang="de"><seg>Dual Stripe</seg></tuv>
+    </tu>
+    <tu tuid="235">
+      <tuv xml:lang="en"><seg>Duplication factor:</seg></tuv>
+      <tuv xml:lang="de"><seg>Duplikationsfaktor:</seg></tuv>
+    </tu>
+    <tu tuid="236">
+      <tuv xml:lang="en"><seg>EEPROM status bad.</seg></tuv>
+      <tuv xml:lang="de"><seg>EEPROM-Status schlecht.</seg></tuv>
+    </tu>
+    <tu tuid="237">
+      <tuv xml:lang="en"><seg>ERROR! - There are too many spot colors!</seg></tuv>
+      <tuv xml:lang="de"><seg>FEHLER! - Zu viele Sonderfarben!</seg></tuv>
+    </tu>
+    <tu tuid="238">
+      <tuv xml:lang="en"><seg>ERROR: Failed to Load Element &apos;Language&apos;</seg></tuv>
+      <tuv xml:lang="de"><seg>FEHLER : Fehler beim Laden von Element &apos;Sprache&apos;</seg></tuv>
+    </tu>
+    <tu tuid="239">
+      <tuv xml:lang="en"><seg>ERROR: Failed to Load Elements Collection</seg></tuv>
+      <tuv xml:lang="de"><seg>FEHLER: Fehler beim Laden von Elementzusammenstellung</seg></tuv>
+    </tu>
+    <tu tuid="240">
+      <tuv xml:lang="en"><seg>ERROR: Failed to load &apos;UpdateSources.html&apos;</seg></tuv>
+      <tuv xml:lang="de"><seg>FEHLER: Fehler beim Laden von &apos;UpdateSources.html&apos;</seg></tuv>
+    </tu>
+    <tu tuid="241">
+      <tuv xml:lang="en"><seg>ERROR: Invalid Handle</seg></tuv>
+      <tuv xml:lang="de"><seg>FEHLER: Ungültige Verarbeitung</seg></tuv>
+    </tu>
+    <tu tuid="242">
+      <tuv xml:lang="en"><seg>Edge Quality</seg></tuv>
+      <tuv xml:lang="de"><seg>Kantenqualität</seg></tuv>
+    </tu>
+    <tu tuid="243">
+      <tuv xml:lang="en"><seg>Edit Key File</seg></tuv>
+      <tuv xml:lang="de"><seg>Schlüsseldatei bearbeiten</seg></tuv>
+    </tu>
+    <tu tuid="244">
+      <tuv xml:lang="en"><seg>Edit Patches</seg></tuv>
+      <tuv xml:lang="de"><seg>Patches bearbeiten</seg></tuv>
+    </tu>
+    <tu tuid="245">
+      <tuv xml:lang="en"><seg>Edit Tile</seg></tuv>
+      <tuv xml:lang="de"><seg>Kachel bearbeiten</seg></tuv>
+    </tu>
+    <tu tuid="246">
+      <tuv xml:lang="en"><seg>Edit the default settings template.\nEdit Default Settings Template</seg></tuv>
+      <tuv xml:lang="de"><seg>Bearbeitet die Standardeinstellungsvorlage.\nStandardeinstellungsvorlage bearbeiten</seg></tuv>
+    </tu>
+    <tu tuid="247">
+      <tuv xml:lang="en"><seg>Electrostatic Printer</seg></tuv>
+      <tuv xml:lang="de"><seg>Elektrostatischer Drucker</seg></tuv>
+    </tu>
+    <tu tuid="248">
+      <tuv xml:lang="en"><seg>Enable</seg></tuv>
+      <tuv xml:lang="de"><seg>Aktivieren</seg></tuv>
+    </tu>
+    <tu tuid="249">
+      <tuv xml:lang="en"><seg>Enable Heater Temperature</seg></tuv>
+      <tuv xml:lang="de"><seg>Heiztemperatur aktivieren</seg></tuv>
+    </tu>
+    <tu tuid="250">
+      <tuv xml:lang="en"><seg>Enable Platen Temperature</seg></tuv>
+      <tuv xml:lang="de"><seg>Platten-Temperatur aktivieren</seg></tuv>
+    </tu>
+    <tu tuid="251">
+      <tuv xml:lang="en"><seg>Enable Variable Data</seg></tuv>
+      <tuv xml:lang="de"><seg>Variable Daten aktivieren</seg></tuv>
+    </tu>
+    <tu tuid="252">
+      <tuv xml:lang="en"><seg>Encrypted Font #: %s</seg></tuv>
+      <tuv xml:lang="de"><seg>Verschlüsselte Schrift Nr: %s</seg></tuv>
+    </tu>
+    <tu tuid="253">
+      <tuv xml:lang="en"><seg>Engine is offline.</seg></tuv>
+      <tuv xml:lang="de"><seg>Die Engine ist offline.</seg></tuv>
+    </tu>
+    <tu tuid="254">
+      <tuv xml:lang="en"><seg>Enhanced Fast</seg></tuv>
+      <tuv xml:lang="de"><seg>Verbesserte Druckqualität (schnell)</seg></tuv>
+    </tu>
+    <tu tuid="255">
+      <tuv xml:lang="en"><seg>Enter a name for this frame size.</seg></tuv>
+      <tuv xml:lang="de"><seg>Geben Sie einen Namen für diese Frame-Größe ein.</seg></tuv>
+    </tu>
+    <tu tuid="256">
+      <tuv xml:lang="en"><seg>Enter the customer</seg></tuv>
+      <tuv xml:lang="de"><seg>Kunde eingeben</seg></tuv>
+    </tu>
+    <tu tuid="257">
+      <tuv xml:lang="en"><seg>Epson Large</seg></tuv>
+      <tuv xml:lang="de"><seg>Epson Groß</seg></tuv>
+    </tu>
+    <tu tuid="258">
+      <tuv xml:lang="en"><seg>Error %d! *** Check printer for more information.</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler %d. *** Überprüfen Sie den Drucker, um weitere Informationen zu erhalten.</seg></tuv>
+    </tu>
+    <tu tuid="259">
+      <tuv xml:lang="en"><seg>Error - port data bad, reconfigure port!\n</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler - falsche Anschlussdaten. Konfigurieren Sie den Anschluss neu!\n</seg></tuv>
+    </tu>
+    <tu tuid="260">
+      <tuv xml:lang="en"><seg>Error communicating with printer.</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler bei der Kommunikation mit dem Drucker.</seg></tuv>
+    </tu>
+    <tu tuid="261">
+      <tuv xml:lang="en"><seg>Error reading cartridges information</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler beim Lesen der Patroneninformation</seg></tuv>
+    </tu>
+    <tu tuid="262">
+      <tuv xml:lang="en"><seg>Error: %s\n\nPlease correct the error condition and check the front panel of the printer to see if additional action is required.</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler: %s\nBitte beheben Sie den Fehler und prüfen Sie die Frontplatte des Druckers, um zu sehen, ob zusätzliche Maßnahmen erforderlich sind.</seg></tuv>
+    </tu>
+    <tu tuid="263">
+      <tuv xml:lang="en"><seg>Error: Initializing Header.</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler: Initialisieren des Headers.</seg></tuv>
+    </tu>
+    <tu tuid="264">
+      <tuv xml:lang="en"><seg>Error: Populating Passes combo box. X Resolution: %d, Y Resolution %d</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler: Kombinationsfeld zum Auffüllen von Durchläufen. X-Auflösung: %d, Y-Auflösung %d</seg></tuv>
+    </tu>
+    <tu tuid="265">
+      <tuv xml:lang="en"><seg>Error: Sending Light Cyan Data to the Printer.</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler: Daten für Zyan hell werden an Drucker gesendet.</seg></tuv>
+    </tu>
+    <tu tuid="266">
+      <tuv xml:lang="en"><seg>Error: Writing IFD to file.</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler: Schreiben von IFD in Datei.</seg></tuv>
+    </tu>
+    <tu tuid="267">
+      <tuv xml:lang="en"><seg>Examine the ink limit swatch and choose the darkest value that does not show puddling or ink bleeding.</seg></tuv>
+      <tuv xml:lang="de"><seg>Untersuchen Sie das Swatch des Tintenlimits und wählen Sie den dunkelsten Wert, bei dem die Tinte nicht schmiert oder verläuft.</seg></tuv>
+    </tu>
+    <tu tuid="268">
+      <tuv xml:lang="en"><seg>Expand or Contract Paths</seg></tuv>
+      <tuv xml:lang="de"><seg>Pfade vergrößern oder verkleinern</seg></tuv>
+    </tu>
+    <tu tuid="269">
+      <tuv xml:lang="en"><seg>Export Media</seg></tuv>
+      <tuv xml:lang="de"><seg>Medium exportieren</seg></tuv>
+    </tu>
+    <tu tuid="270">
+      <tuv xml:lang="en"><seg>Exports image and creates a new image file.\nExport Image As</seg></tuv>
+      <tuv xml:lang="de"><seg>Exportiert das Bild und erstellt eine neue Bilddatei.\nBild exportieren als</seg></tuv>
+    </tu>
+    <tu tuid="271">
+      <tuv xml:lang="en"><seg>Extracting:</seg></tuv>
+      <tuv xml:lang="de"><seg>Es wird extrahiert:</seg></tuv>
+    </tu>
+    <tu tuid="272">
+      <tuv xml:lang="en"><seg>FTP Forwarding</seg></tuv>
+      <tuv xml:lang="de"><seg>Per FTP weiterleiten</seg></tuv>
+    </tu>
+    <tu tuid="273">
+      <tuv xml:lang="en"><seg>Failed to add station.</seg></tuv>
+      <tuv xml:lang="de"><seg>Station konnte nicht hinzugefügt werden.</seg></tuv>
+    </tu>
+    <tu tuid="274">
+      <tuv xml:lang="en"><seg>Failed to edit printer info for &apos;%s&apos;\n</seg></tuv>
+      <tuv xml:lang="de"><seg>Bearbeiten der Druckerinfo für &apos;%s&apos; fehlgeschlagen\n</seg></tuv>
+    </tu>
+    <tu tuid="275">
+      <tuv xml:lang="en"><seg>Failed to initialize communication with the printer.  Please check your connection.</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler beim Initialisieren der Kommunikation mit dem Drucker. Überprüfen Sie die Verbindung.</seg></tuv>
+    </tu>
+    <tu tuid="276">
+      <tuv xml:lang="en"><seg>Failed to load order report.</seg></tuv>
+      <tuv xml:lang="de"><seg>Auftragsbericht konnte nicht geladen werden.</seg></tuv>
+    </tu>
+    <tu tuid="277">
+      <tuv xml:lang="en"><seg>Failed to open port for file %s.</seg></tuv>
+      <tuv xml:lang="de"><seg>Port für Datei %s konnte nicht geöffnet werden.</seg></tuv>
+    </tu>
+    <tu tuid="278">
+      <tuv xml:lang="en"><seg>Failed to start PrinterInstaller!</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler beim Starten des Drucker-Installers!</seg></tuv>
+    </tu>
+    <tu tuid="279">
+      <tuv xml:lang="en"><seg>Failed to update printer. Press finish to exit.</seg></tuv>
+      <tuv xml:lang="de"><seg>Drucker konnte nicht aktualisiert werden. Zum Beenden Fertigstellen wählen.</seg></tuv>
+    </tu>
+    <tu tuid="280">
+      <tuv xml:lang="en"><seg>Fans Only</seg></tuv>
+      <tuv xml:lang="de"><seg>Nur Lüfter</seg></tuv>
+    </tu>
+    <tu tuid="281">
+      <tuv xml:lang="en"><seg>Feed Adjustment:</seg></tuv>
+      <tuv xml:lang="de"><seg>Walzenabstand:</seg></tuv>
+    </tu>
+    <tu tuid="282">
+      <tuv xml:lang="en"><seg>File / Folder Locations:</seg></tuv>
+      <tuv xml:lang="de"><seg>Speicherorte für Datei / Ordner:</seg></tuv>
+    </tu>
+    <tu tuid="283">
+      <tuv xml:lang="en"><seg>File Type:</seg></tuv>
+      <tuv xml:lang="de"><seg>Dateityp:</seg></tuv>
+    </tu>
+    <tu tuid="284">
+      <tuv xml:lang="en"><seg>Fill Non-Image Area</seg></tuv>
+      <tuv xml:lang="de"><seg>Nicht-Bildbereich ausfüllen</seg></tuv>
+    </tu>
+    <tu tuid="285">
+      <tuv xml:lang="en"><seg>Fine &amp; Wave 4</seg></tuv>
+      <tuv xml:lang="de"><seg>Fein &amp; Welle 4</seg></tuv>
+    </tu>
+    <tu tuid="286">
+      <tuv xml:lang="en"><seg>Finishing</seg></tuv>
+      <tuv xml:lang="de"><seg>Fertig stellen</seg></tuv>
+    </tu>
+    <tu tuid="287">
+      <tuv xml:lang="en"><seg>Fit Policy: %s</seg></tuv>
+      <tuv xml:lang="de"><seg>Einpassungsregel: %s</seg></tuv>
+    </tu>
+    <tu tuid="288">
+      <tuv xml:lang="en"><seg>Flatbed Mode</seg></tuv>
+      <tuv xml:lang="de"><seg>Flachbettmodus</seg></tuv>
+    </tu>
+    <tu tuid="289">
+      <tuv xml:lang="en"><seg>Flip every other tile</seg></tuv>
+      <tuv xml:lang="de"><seg>Alle anderen Kacheln spiegeln</seg></tuv>
+    </tu>
+    <tu tuid="290">
+      <tuv xml:lang="en"><seg>Fluorescent Pink</seg></tuv>
+      <tuv xml:lang="de"><seg>Fluoreszierendes Pink</seg></tuv>
+    </tu>
+    <tu tuid="291">
+      <tuv xml:lang="en"><seg>Font Directories:</seg></tuv>
+      <tuv xml:lang="de"><seg>Schriftverzeichnisse:</seg></tuv>
+    </tu>
+    <tu tuid="292">
+      <tuv xml:lang="en"><seg>For job(s) where an image already exists:</seg></tuv>
+      <tuv xml:lang="de"><seg>Für Aufträge mit bereits vorhandenem Bild:</seg></tuv>
+    </tu>
+    <tu tuid="293">
+      <tuv xml:lang="en"><seg>Four Pass</seg></tuv>
+      <tuv xml:lang="de"><seg>Vierfach</seg></tuv>
+    </tu>
+    <tu tuid="294">
+      <tuv xml:lang="en"><seg>Frequency</seg></tuv>
+      <tuv xml:lang="de"><seg>Frequenz</seg></tuv>
+    </tu>
+    <tu tuid="295">
+      <tuv xml:lang="en"><seg>Front cover open. Close the cover.</seg></tuv>
+      <tuv xml:lang="de"><seg>Vordere Klappe offen. Klappe schließen.</seg></tuv>
+    </tu>
+    <tu tuid="296">
+      <tuv xml:lang="en"><seg>Fully save print data to HDD before printing</seg></tuv>
+      <tuv xml:lang="de"><seg>Daten vor dem Drucken vollständig auf HDD speichern</seg></tuv>
+    </tu>
+    <tu tuid="297">
+      <tuv xml:lang="en"><seg>G7® Tolerance</seg></tuv>
+      <tuv xml:lang="de"><seg>G7®-Toleranz</seg></tuv>
+    </tu>
+    <tu tuid="298">
+      <tuv xml:lang="en"><seg>GZT Printer Manager software could not be started.</seg></tuv>
+      <tuv xml:lang="de"><seg>GZT-Druckermanagersoftware konnte nicht gestartet werden.</seg></tuv>
+    </tu>
+    <tu tuid="299">
+      <tuv xml:lang="en"><seg>General Settings</seg></tuv>
+      <tuv xml:lang="de"><seg>Allgemeine Einstellungen</seg></tuv>
+    </tu>
+    <tu tuid="300">
+      <tuv xml:lang="en"><seg>Generating cut paths for cutting.</seg></tuv>
+      <tuv xml:lang="de"><seg>Schnittpfade für Schneiden erstellen.</seg></tuv>
+    </tu>
+    <tu tuid="301">
+      <tuv xml:lang="en"><seg>Glossy</seg></tuv>
+      <tuv xml:lang="de"><seg>Glänzend</seg></tuv>
+    </tu>
+    <tu tuid="302">
+      <tuv xml:lang="en"><seg>Gradient</seg></tuv>
+      <tuv xml:lang="de"><seg>Verlauf</seg></tuv>
+    </tu>
+    <tu tuid="303">
+      <tuv xml:lang="en"><seg>Graphics 1, 8p, sym, 400 cps</seg></tuv>
+      <tuv xml:lang="de"><seg>Grafik 1, 8p, sym, 400 cps</seg></tuv>
+    </tu>
+    <tu tuid="304">
+      <tuv xml:lang="en"><seg>Graphics 3, 8p, bi, 320 cps</seg></tuv>
+      <tuv xml:lang="de"><seg>Grafik 3, 8p, bi , 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="305">
+      <tuv xml:lang="en"><seg>Gray Balance Swatch [Profile Name - %s]</seg></tuv>
+      <tuv xml:lang="de"><seg>Graubalance-Swatch [Profilname - %s]</seg></tuv>
+    </tu>
+    <tu tuid="306">
+      <tuv xml:lang="en"><seg>Grayscale Correction Curve</seg></tuv>
+      <tuv xml:lang="de"><seg>Grauskala-Korrekturkurve</seg></tuv>
+    </tu>
+    <tu tuid="307">
+      <tuv xml:lang="en"><seg>Gretag Bellise</seg></tuv>
+      <tuv xml:lang="de"><seg>Gretag Bellise</seg></tuv>
+    </tu>
+    <tu tuid="308">
+      <tuv xml:lang="en"><seg>Grey % (0-100)</seg></tuv>
+      <tuv xml:lang="de"><seg>Grau % (0-100)</seg></tuv>
+    </tu>
+    <tu tuid="309">
+      <tuv xml:lang="en"><seg>Grip released error</seg></tuv>
+      <tuv xml:lang="de"><seg>Grifffreigabefehler</seg></tuv>
+    </tu>
+    <tu tuid="310">
+      <tuv xml:lang="en"><seg>H&amp;istogram...</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Histogramm...</seg></tuv>
+    </tu>
+    <tu tuid="311">
+      <tuv xml:lang="en"><seg>HP DesignJet 50</seg></tuv>
+      <tuv xml:lang="de"><seg>HP DesignJet 50</seg></tuv>
+    </tu>
+    <tu tuid="312">
+      <tuv xml:lang="en"><seg>HP750C</seg></tuv>
+      <tuv xml:lang="de"><seg>HP750C</seg></tuv>
+    </tu>
+    <tu tuid="313">
+      <tuv xml:lang="en"><seg>Half Speed 4 Cut</seg></tuv>
+      <tuv xml:lang="de"><seg>Halbe Geschwindigkeit 4 Schnitte</seg></tuv>
+    </tu>
+    <tu tuid="314">
+      <tuv xml:lang="en"><seg>Head 1</seg></tuv>
+      <tuv xml:lang="de"><seg>Kopf 1</seg></tuv>
+    </tu>
+    <tu tuid="315">
+      <tuv xml:lang="en"><seg>Head board FIFO is full.</seg></tuv>
+      <tuv xml:lang="de"><seg>FIFO für Kopfplatine ist voll.</seg></tuv>
+    </tu>
+    <tu tuid="316">
+      <tuv xml:lang="en"><seg>Heads B, C</seg></tuv>
+      <tuv xml:lang="de"><seg>Köpfe B, C</seg></tuv>
+    </tu>
+    <tu tuid="317">
+      <tuv xml:lang="en"><seg>Heater Heating</seg></tuv>
+      <tuv xml:lang="de"><seg>Heizung heizt auf</seg></tuv>
+    </tu>
+    <tu tuid="318">
+      <tuv xml:lang="en"><seg>Height</seg></tuv>
+      <tuv xml:lang="de"><seg>Höhe</seg></tuv>
+    </tu>
+    <tu tuid="319">
+      <tuv xml:lang="en"><seg>HiFi Solvent</seg></tuv>
+      <tuv xml:lang="de"><seg>HiFi-Lösemittel</seg></tuv>
+    </tu>
+    <tu tuid="320">
+      <tuv xml:lang="en"><seg>High A</seg></tuv>
+      <tuv xml:lang="de"><seg>Hoch A</seg></tuv>
+    </tu>
+    <tu tuid="321">
+      <tuv xml:lang="en"><seg>High Quality (HQ2)</seg></tuv>
+      <tuv xml:lang="de"><seg>Sehr gut (HQ2)</seg></tuv>
+    </tu>
+    <tu tuid="322">
+      <tuv xml:lang="en"><seg>High Speed Mode 1</seg></tuv>
+      <tuv xml:lang="de"><seg>Höchstgeschwindigkeitsmodus 1</seg></tuv>
+    </tu>
+    <tu tuid="323">
+      <tuv xml:lang="en"><seg>History Printer View</seg></tuv>
+      <tuv xml:lang="de"><seg>Verlaufsdruckeransicht</seg></tuv>
+    </tu>
+    <tu tuid="324">
+      <tuv xml:lang="en"><seg>Home position not detected. Please call service.</seg></tuv>
+      <tuv xml:lang="de"><seg>Startposition nicht erkannt. Bitte rufen Sie den Kundendienst.</seg></tuv>
+    </tu>
+    <tu tuid="325">
+      <tuv xml:lang="en"><seg>Horizontal Offset: %s</seg></tuv>
+      <tuv xml:lang="de"><seg>Horizontale Verschiebung: %s</seg></tuv>
+    </tu>
+    <tu tuid="326">
+      <tuv xml:lang="en"><seg>ICC</seg></tuv>
+      <tuv xml:lang="de"><seg>ICC</seg></tuv>
+    </tu>
+    <tu tuid="327">
+      <tuv xml:lang="en"><seg>ICC Profile Table</seg></tuv>
+      <tuv xml:lang="de"><seg>ICC Profiltablelle</seg></tuv>
+    </tu>
+    <tu tuid="328">
+      <tuv xml:lang="en"><seg>ICCSwatch.onx</seg></tuv>
+      <tuv xml:lang="de"><seg>ICCSwatch.onx</seg></tuv>
+    </tu>
+    <tu tuid="329">
+      <tuv xml:lang="en"><seg>ILFORD</seg></tuv>
+      <tuv xml:lang="de"><seg>ILFORD</seg></tuv>
+    </tu>
+    <tu tuid="330">
+      <tuv xml:lang="en"><seg>ISO A0</seg></tuv>
+      <tuv xml:lang="de"><seg>ISO A0</seg></tuv>
+    </tu>
+    <tu tuid="331">
+      <tuv xml:lang="en"><seg>Idle (ready to print)</seg></tuv>
+      <tuv xml:lang="de"><seg>Frei (druckbereit)</seg></tuv>
+    </tu>
+    <tu tuid="332">
+      <tuv xml:lang="en"><seg>If you are having trouble connecting to the server, make sure you have a valid Internet connection. If you can access the Internet with a web browser, contact your IT department for help with the %%app_name%% configuration settings.</seg></tuv>
+      <tuv xml:lang="de"><seg>Wenn Sie keine Verbindung zum Server herstellen können, überprüfen Sie Ihre Internetverbindung. Wenn Sie mit einem Webbrowser auf das Internet zugreifen können, wenden Sie sich an Ihre IT-Abteilung, um Unterstützung bei der Konfiguration der Einstellungen für %%app_name%% zu erhalten.</seg></tuv>
+    </tu>
+    <tu tuid="333">
+      <tuv xml:lang="en"><seg>Ignore 100% target ink values</seg></tuv>
+      <tuv xml:lang="de"><seg>100%-Zieltintenwerte ignorieren</seg></tuv>
+    </tu>
+    <tu tuid="334">
+      <tuv xml:lang="en"><seg>Image Brightness</seg></tuv>
+      <tuv xml:lang="de"><seg>Bildhelligkeit</seg></tuv>
+    </tu>
+    <tu tuid="335">
+      <tuv xml:lang="en"><seg>Image Operations:</seg></tuv>
+      <tuv xml:lang="de"><seg>Bildvorgänge:</seg></tuv>
+    </tu>
+    <tu tuid="336">
+      <tuv xml:lang="en"><seg>Image Tools</seg></tuv>
+      <tuv xml:lang="de"><seg>Bildwerkzeuge</seg></tuv>
+    </tu>
+    <tu tuid="337">
+      <tuv xml:lang="en"><seg>Image size:</seg></tuv>
+      <tuv xml:lang="de"><seg>Bildgröße:</seg></tuv>
+    </tu>
+    <tu tuid="338">
+      <tuv xml:lang="en"><seg>Import Media:</seg></tuv>
+      <tuv xml:lang="de"><seg>Medien importieren:</seg></tuv>
+    </tu>
+    <tu tuid="339">
+      <tuv xml:lang="en"><seg>Import...</seg></tuv>
+      <tuv xml:lang="de"><seg>Importieren...</seg></tuv>
+    </tu>
+    <tu tuid="340">
+      <tuv xml:lang="en"><seg>Includes bleed/trim width %s and height %s</seg></tuv>
+      <tuv xml:lang="de"><seg>Enthält Breite %s und Höhe %s für Beschnitt/Zuschnitt</seg></tuv>
+    </tu>
+    <tu tuid="341">
+      <tuv xml:lang="en"><seg>Information:</seg></tuv>
+      <tuv xml:lang="de"><seg>Informationen:</seg></tuv>
+    </tu>
+    <tu tuid="342">
+      <tuv xml:lang="en"><seg>Ink Cartridge Error</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler Tintenpatrone</seg></tuv>
+    </tu>
+    <tu tuid="343">
+      <tuv xml:lang="en"><seg>Ink Density Factor</seg></tuv>
+      <tuv xml:lang="de"><seg>Tintendichtefaktor</seg></tuv>
+    </tu>
+    <tu tuid="344">
+      <tuv xml:lang="en"><seg>Ink Limiting Profiles</seg></tuv>
+      <tuv xml:lang="de"><seg>Tintenlimitprofile</seg></tuv>
+    </tu>
+    <tu tuid="345">
+      <tuv xml:lang="en"><seg>Ink Saving</seg></tuv>
+      <tuv xml:lang="de"><seg>Tinte sparen</seg></tuv>
+    </tu>
+    <tu tuid="346">
+      <tuv xml:lang="en"><seg>Ink cartridge combination error</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler Tintenpatronenkombination</seg></tuv>
+    </tu>
+    <tu tuid="347">
+      <tuv xml:lang="en"><seg>Ink low</seg></tuv>
+      <tuv xml:lang="de"><seg>Tintenstand niedrig</seg></tuv>
+    </tu>
+    <tu tuid="348">
+      <tuv xml:lang="en"><seg>Ink low CL unavailable - Green</seg></tuv>
+      <tuv xml:lang="de"><seg>Tintenstand niedrig, CL nicht verfügbar - Grün</seg></tuv>
+    </tu>
+    <tu tuid="349">
+      <tuv xml:lang="en"><seg>Ink supply error. (Dark M)</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler bei Tintenzufuhr. (M dunkel)</seg></tuv>
+    </tu>
+    <tu tuid="350">
+      <tuv xml:lang="en"><seg>Install</seg></tuv>
+      <tuv xml:lang="de"><seg>Installieren</seg></tuv>
+    </tu>
+    <tu tuid="351">
+      <tuv xml:lang="en"><seg>Intent</seg></tuv>
+      <tuv xml:lang="de"><seg>Wiedergabe</seg></tuv>
+    </tu>
+    <tu tuid="352">
+      <tuv xml:lang="en"><seg>Internal guide D is open.\n</seg></tuv>
+      <tuv xml:lang="de"><seg>Interne Führung D ist offen.\n</seg></tuv>
+    </tu>
+    <tu tuid="353">
+      <tuv xml:lang="en"><seg>Invalid Configuration</seg></tuv>
+      <tuv xml:lang="de"><seg>Ungültige Konfiguration</seg></tuv>
+    </tu>
+    <tu tuid="354">
+      <tuv xml:lang="en"><seg>Invalid Response received from the server.</seg></tuv>
+      <tuv xml:lang="de"><seg>Ungültige Antwort vom Server.</seg></tuv>
+    </tu>
+    <tu tuid="355">
+      <tuv xml:lang="en"><seg>Invalid output resolution for this device.</seg></tuv>
+      <tuv xml:lang="de"><seg>Ungültige Ausgabeauflösung für dieses Gerät.</seg></tuv>
+    </tu>
+    <tu tuid="356">
+      <tuv xml:lang="en"><seg>It is recommended to turn off &quot;Print Multiple Rows at a Time&quot; in the Placement Strategy when printing multiple copies that span more than one row.</seg></tuv>
+      <tuv xml:lang="de"><seg>Es wird empfohlen, &quot;Mehrere Zeilen gleichzeitig drucken&quot; in der Platzierungsstrategie zu deaktivieren, wenn mehrere Kopien gleichzeitig gedruckt werden, die mehr als eine Zeile umfassen.</seg></tuv>
+    </tu>
+    <tu tuid="357">
+      <tuv xml:lang="en"><seg>JOBS IN ORDER</seg></tuv>
+      <tuv xml:lang="de"><seg>AUFTRÄGE IN REIHENFOLGE</seg></tuv>
+    </tu>
+    <tu tuid="358">
+      <tuv xml:lang="en"><seg>Jaws Rip option is not available!</seg></tuv>
+      <tuv xml:lang="de"><seg>Jaws Rip-Option ist nicht verfügbar!</seg></tuv>
+    </tu>
+    <tu tuid="359">
+      <tuv xml:lang="en"><seg>Job Creation:</seg></tuv>
+      <tuv xml:lang="de"><seg>Auftragserstellung:</seg></tuv>
+    </tu>
+    <tu tuid="360">
+      <tuv xml:lang="en"><seg>Job Log</seg></tuv>
+      <tuv xml:lang="de"><seg>Auftragsprotokoll</seg></tuv>
+    </tu>
+    <tu tuid="361">
+      <tuv xml:lang="en"><seg>Job Progress</seg></tuv>
+      <tuv xml:lang="de"><seg>Auftragsablauf</seg></tuv>
+    </tu>
+    <tu tuid="362">
+      <tuv xml:lang="en"><seg>Job View</seg></tuv>
+      <tuv xml:lang="de"><seg>Auftragsansicht</seg></tuv>
+    </tu>
+    <tu tuid="363">
+      <tuv xml:lang="en"><seg>JobID not known by Controller.</seg></tuv>
+      <tuv xml:lang="de"><seg>JobID ist dem Controller nicht bekannt.</seg></tuv>
+    </tu>
+    <tu tuid="364">
+      <tuv xml:lang="en"><seg>KB</seg></tuv>
+      <tuv xml:lang="de"><seg>KB</seg></tuv>
+    </tu>
+    <tu tuid="365">
+      <tuv xml:lang="en"><seg>Keep Black Mode</seg></tuv>
+      <tuv xml:lang="de"><seg>Modus &quot;Schwarz&quot; beibehalten</seg></tuv>
+    </tu>
+    <tu tuid="366">
+      <tuv xml:lang="en"><seg>Key Write Error</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler beim Schreiben des Schlüssels</seg></tuv>
+    </tu>
+    <tu tuid="367">
+      <tuv xml:lang="en"><seg>Kodak PosterShop Pro</seg></tuv>
+      <tuv xml:lang="de"><seg>Kodak PosterShop Pro</seg></tuv>
+    </tu>
+    <tu tuid="368">
+      <tuv xml:lang="en"><seg>L*a*b* Source Image</seg></tuv>
+      <tuv xml:lang="de"><seg>L*a*b* Bildquelle</seg></tuv>
+    </tu>
+    <tu tuid="369">
+      <tuv xml:lang="en"><seg>LLk</seg></tuv>
+      <tuv xml:lang="de"><seg>LLk</seg></tuv>
+    </tu>
+    <tu tuid="370">
+      <tuv xml:lang="en"><seg>Label Color</seg></tuv>
+      <tuv xml:lang="de"><seg>Beschriftungsfarbe</seg></tuv>
+    </tu>
+    <tu tuid="371">
+      <tuv xml:lang="en"><seg>Lamp Power</seg></tuv>
+      <tuv xml:lang="de"><seg>Lampenleistung</seg></tuv>
+    </tu>
+    <tu tuid="372">
+      <tuv xml:lang="en"><seg>Large Format Printers</seg></tuv>
+      <tuv xml:lang="de"><seg>Großformatdrucker</seg></tuv>
+    </tu>
+    <tu tuid="373">
+      <tuv xml:lang="en"><seg>Last scan failed. Please rescan.</seg></tuv>
+      <tuv xml:lang="de"><seg>Letzter Scannvorgang fehlgeschlagen. Scannen Sie erneut.</seg></tuv>
+    </tu>
+    <tu tuid="374">
+      <tuv xml:lang="en"><seg>Layer Name:</seg></tuv>
+      <tuv xml:lang="de"><seg>Ebenenname:</seg></tuv>
+    </tu>
+    <tu tuid="375">
+      <tuv xml:lang="en"><seg>Left Margin</seg></tuv>
+      <tuv xml:lang="de"><seg>Linker Rand</seg></tuv>
+    </tu>
+    <tu tuid="376">
+      <tuv xml:lang="en"><seg>Legacy</seg></tuv>
+      <tuv xml:lang="de"><seg>Vorhanden</seg></tuv>
+    </tu>
+    <tu tuid="377">
+      <tuv xml:lang="en"><seg>Level 3</seg></tuv>
+      <tuv xml:lang="de"><seg>Stufe 3</seg></tuv>
+    </tu>
+    <tu tuid="378">
+      <tuv xml:lang="en"><seg>Library of &amp;type:</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Bibliothektyp:</seg></tuv>
+    </tu>
+    <tu tuid="379">
+      <tuv xml:lang="en"><seg>Light Jet 5000</seg></tuv>
+      <tuv xml:lang="de"><seg>Light Jet 5000</seg></tuv>
+    </tu>
+    <tu tuid="380">
+      <tuv xml:lang="en"><seg>LightFast Dye 4 Color</seg></tuv>
+      <tuv xml:lang="de"><seg>Lichtechte Farbe 4 Farben</seg></tuv>
+    </tu>
+    <tu tuid="381">
+      <tuv xml:lang="en"><seg>Line Screen</seg></tuv>
+      <tuv xml:lang="de"><seg>Linienraster</seg></tuv>
+    </tu>
+    <tu tuid="382">
+      <tuv xml:lang="en"><seg>Lines/Fast</seg></tuv>
+      <tuv xml:lang="de"><seg>Linien/Schnell</seg></tuv>
+    </tu>
+    <tu tuid="383">
+      <tuv xml:lang="en"><seg>Load the Media</seg></tuv>
+      <tuv xml:lang="de"><seg>Medium laden</seg></tuv>
+    </tu>
+    <tu tuid="384">
+      <tuv xml:lang="en"><seg>Local</seg></tuv>
+      <tuv xml:lang="de"><seg>Lokal</seg></tuv>
+    </tu>
+    <tu tuid="385">
+      <tuv xml:lang="en"><seg>Log</seg></tuv>
+      <tuv xml:lang="de"><seg>Protokoll</seg></tuv>
+    </tu>
+    <tu tuid="386">
+      <tuv xml:lang="en"><seg>Low Speed</seg></tuv>
+      <tuv xml:lang="de"><seg>Niedrige Geschwindigkeit</seg></tuv>
+    </tu>
+    <tu tuid="387">
+      <tuv xml:lang="en"><seg>Lt Magenta</seg></tuv>
+      <tuv xml:lang="de"><seg>Lt. Magenta</seg></tuv>
+    </tu>
+    <tu tuid="388">
+      <tuv xml:lang="en"><seg>Lt-Lt-Light Green</seg></tuv>
+      <tuv xml:lang="de"><seg>Lt. Lt. Grün hell</seg></tuv>
+    </tu>
+    <tu tuid="389">
+      <tuv xml:lang="en"><seg>M L Black</seg></tuv>
+      <tuv xml:lang="de"><seg>M L Schwarz</seg></tuv>
+    </tu>
+    <tu tuid="390">
+      <tuv xml:lang="en"><seg>MM/dd/yyyy</seg></tuv>
+      <tuv xml:lang="de"><seg>TT/MM/JJJJ</seg></tuv>
+    </tu>
+    <tu tuid="391">
+      <tuv xml:lang="en"><seg>Magenta Pattern</seg></tuv>
+      <tuv xml:lang="de"><seg>Magenta-Muster</seg></tuv>
+    </tu>
+    <tu tuid="392">
+      <tuv xml:lang="en"><seg>Main tank ink end - Light Cyan</seg></tuv>
+      <tuv xml:lang="de"><seg>Hauptbehälter: Tinte aufgebraucht - Cyan hell</seg></tuv>
+    </tu>
+    <tu tuid="393">
+      <tuv xml:lang="en"><seg>Maintenance tank full (1)</seg></tuv>
+      <tuv xml:lang="de"><seg>Wartungsbehälter voll (1)</seg></tuv>
+    </tu>
+    <tu tuid="394">
+      <tuv xml:lang="en"><seg>Make Path</seg></tuv>
+      <tuv xml:lang="de"><seg>Pfad erstellen</seg></tuv>
+    </tu>
+    <tu tuid="395">
+      <tuv xml:lang="en"><seg>Manage Screen Configurations</seg></tuv>
+      <tuv xml:lang="de"><seg>Rasterkonfigurationen verwalten</seg></tuv>
+    </tu>
+    <tu tuid="396">
+      <tuv xml:lang="en"><seg>Manual Targeting</seg></tuv>
+      <tuv xml:lang="de"><seg>Manuelles Zielen</seg></tuv>
+    </tu>
+    <tu tuid="397">
+      <tuv xml:lang="en"><seg>Margins (%s): top:%.2f, left:%.2f, right:%.2f, bottom:%.2f</seg></tuv>
+      <tuv xml:lang="de"><seg>Ränder (%s): Oben:%.2f, Links:%.2f, Rechts:%.2f, Unten:%.2f</seg></tuv>
+    </tu>
+    <tu tuid="398">
+      <tuv xml:lang="en"><seg>Marks and Labels</seg></tuv>
+      <tuv xml:lang="de"><seg>Markierungen und Etiketten</seg></tuv>
+    </tu>
+    <tu tuid="399">
+      <tuv xml:lang="en"><seg>Max CII:</seg></tuv>
+      <tuv xml:lang="de"><seg>Max. CII:</seg></tuv>
+    </tu>
+    <tu tuid="400">
+      <tuv xml:lang="en"><seg>Max ΔCh</seg></tuv>
+      <tuv xml:lang="de"><seg>Max. ΔCh</seg></tuv>
+    </tu>
+    <tu tuid="401">
+      <tuv xml:lang="en"><seg>Maximum Height:</seg></tuv>
+      <tuv xml:lang="de"><seg>Maximale Höhe:</seg></tuv>
+    </tu>
+    <tu tuid="402">
+      <tuv xml:lang="en"><seg>MaximumTile Size (inches):</seg></tuv>
+      <tuv xml:lang="de"><seg>Max. Kachelgröße (Zoll):</seg></tuv>
+    </tu>
+    <tu tuid="403">
+      <tuv xml:lang="en"><seg>Measure ColorCheck Swatch</seg></tuv>
+      <tuv xml:lang="de"><seg>ColorCheck Swatch messen</seg></tuv>
+    </tu>
+    <tu tuid="404">
+      <tuv xml:lang="en"><seg>Measured:</seg></tuv>
+      <tuv xml:lang="de"><seg>Gemessen:</seg></tuv>
+    </tu>
+    <tu tuid="405">
+      <tuv xml:lang="en"><seg>Measurement of Swatch Needed</seg></tuv>
+      <tuv xml:lang="de"><seg>Swatch muss gemessen werden</seg></tuv>
+    </tu>
+    <tu tuid="406">
+      <tuv xml:lang="en"><seg>Media Archive OML File (*.OML)</seg></tuv>
+      <tuv xml:lang="de"><seg>OML-Medienarchivdatei (*.OML)</seg></tuv>
+    </tu>
+    <tu tuid="407">
+      <tuv xml:lang="en"><seg>Media Cost</seg></tuv>
+      <tuv xml:lang="de"><seg>Medienkosten</seg></tuv>
+    </tu>
+    <tu tuid="408">
+      <tuv xml:lang="en"><seg>Media Group</seg></tuv>
+      <tuv xml:lang="de"><seg>Mediengruppe</seg></tuv>
+    </tu>
+    <tu tuid="409">
+      <tuv xml:lang="en"><seg>Media Settings</seg></tuv>
+      <tuv xml:lang="de"><seg>Medieneinstellungen</seg></tuv>
+    </tu>
+    <tu tuid="410">
+      <tuv xml:lang="en"><seg>Media Type 2:</seg></tuv>
+      <tuv xml:lang="de"><seg>Medientyp 2:</seg></tuv>
+    </tu>
+    <tu tuid="411">
+      <tuv xml:lang="en"><seg>Media and Page Size</seg></tuv>
+      <tuv xml:lang="de"><seg>Medien und Seitenformat</seg></tuv>
+    </tu>
+    <tu tuid="412">
+      <tuv xml:lang="en"><seg>Media/Page Size Selection</seg></tuv>
+      <tuv xml:lang="de"><seg>Medien/Seitenformatauswahl</seg></tuv>
+    </tu>
+    <tu tuid="413">
+      <tuv xml:lang="en"><seg>Medium Heavy (25-27 lbs.)</seg></tuv>
+      <tuv xml:lang="de"><seg>Mäßig schwer (11,34 - 12,25 kg)</seg></tuv>
+    </tu>
+    <tu tuid="414">
+      <tuv xml:lang="en"><seg>Meters</seg></tuv>
+      <tuv xml:lang="de"><seg>Meter</seg></tuv>
+    </tu>
+    <tu tuid="415">
+      <tuv xml:lang="en"><seg>Middle</seg></tuv>
+      <tuv xml:lang="de"><seg>Zentriert</seg></tuv>
+    </tu>
+    <tu tuid="416">
+      <tuv xml:lang="en"><seg>Mimaki CG-130FX</seg></tuv>
+      <tuv xml:lang="de"><seg>Mimaki CG-130FX</seg></tuv>
+    </tu>
+    <tu tuid="417">
+      <tuv xml:lang="en"><seg>Minimum gray value to have a pixel become a cut path.</seg></tuv>
+      <tuv xml:lang="de"><seg>Mindestgrauwert, bei dem ein Pixel zum Schnittweg wird.</seg></tuv>
+    </tu>
+    <tu tuid="418">
+      <tuv xml:lang="en"><seg>Missing cartridge</seg></tuv>
+      <tuv xml:lang="de"><seg>Patrone fehlt</seg></tuv>
+    </tu>
+    <tu tuid="419">
+      <tuv xml:lang="en"><seg>Mode 10, 1p, bi, 320 cps</seg></tuv>
+      <tuv xml:lang="de"><seg>Modus 10, 1p, bi, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="420">
+      <tuv xml:lang="en"><seg>Mode 5, 3p, uni, 320 cps</seg></tuv>
+      <tuv xml:lang="de"><seg>Modus 5, 3p, uni, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="421">
+      <tuv xml:lang="en"><seg>Mode Evaluation</seg></tuv>
+      <tuv xml:lang="de"><seg>Modusevaluation</seg></tuv>
+    </tu>
+    <tu tuid="422">
+      <tuv xml:lang="en"><seg>Modify Defaults</seg></tuv>
+      <tuv xml:lang="de"><seg>Voreinstellungen ändern</seg></tuv>
+    </tu>
+    <tu tuid="423">
+      <tuv xml:lang="en"><seg>Monochrome (Color Off)</seg></tuv>
+      <tuv xml:lang="de"><seg>Monochrom (Farbe Aus)</seg></tuv>
+    </tu>
+    <tu tuid="424">
+      <tuv xml:lang="en"><seg>Move</seg></tuv>
+      <tuv xml:lang="de"><seg>Bewegen</seg></tuv>
+    </tu>
+    <tu tuid="425">
+      <tuv xml:lang="en"><seg>Move Up</seg></tuv>
+      <tuv xml:lang="de"><seg>Nach oben</seg></tuv>
+    </tu>
+    <tu tuid="426">
+      <tuv xml:lang="en"><seg>Move to top</seg></tuv>
+      <tuv xml:lang="de"><seg>Zum Anfang</seg></tuv>
+    </tu>
+    <tu tuid="427">
+      <tuv xml:lang="en"><seg>Multichannel</seg></tuv>
+      <tuv xml:lang="de"><seg>Mehrkanal</seg></tuv>
+    </tu>
+    <tu tuid="428">
+      <tuv xml:lang="en"><seg>Mutoh MutohRJ Options</seg></tuv>
+      <tuv xml:lang="de"><seg>Mutoh MutohRJ Optionen</seg></tuv>
+    </tu>
+    <tu tuid="429">
+      <tuv xml:lang="en"><seg>NOTE</seg></tuv>
+      <tuv xml:lang="de"><seg>HINWEIS</seg></tuv>
+    </tu>
+    <tu tuid="430">
+      <tuv xml:lang="en"><seg>Name Colors Used</seg></tuv>
+      <tuv xml:lang="de"><seg>Verwendete Farben benennen</seg></tuv>
+    </tu>
+    <tu tuid="431">
+      <tuv xml:lang="en"><seg>Named Color Profile</seg></tuv>
+      <tuv xml:lang="de"><seg>Benanntes Farbprofil</seg></tuv>
+    </tu>
+    <tu tuid="432">
+      <tuv xml:lang="en"><seg>NeoltCeramics Printer Resource DLL</seg></tuv>
+      <tuv xml:lang="de"><seg>Druckerressourcen-DLL NeoltCeramics</seg></tuv>
+    </tu>
+    <tu tuid="433">
+      <tuv xml:lang="en"><seg>Neutrals</seg></tuv>
+      <tuv xml:lang="de"><seg>Neutrale Werte</seg></tuv>
+    </tu>
+    <tu tuid="434">
+      <tuv xml:lang="en"><seg>New Pen Configuration</seg></tuv>
+      <tuv xml:lang="de"><seg>Neue Stiftkonfiguration</seg></tuv>
+    </tu>
+    <tu tuid="435">
+      <tuv xml:lang="en"><seg>Next Job</seg></tuv>
+      <tuv xml:lang="de"><seg>Nächster Auftrag</seg></tuv>
+    </tu>
+    <tu tuid="436">
+      <tuv xml:lang="en"><seg>No Filter</seg></tuv>
+      <tuv xml:lang="de"><seg>Kein Filter</seg></tuv>
+    </tu>
+    <tu tuid="437">
+      <tuv xml:lang="en"><seg>No Light Inks</seg></tuv>
+      <tuv xml:lang="de"><seg>Keine hellen Tinten</seg></tuv>
+    </tu>
+    <tu tuid="438">
+      <tuv xml:lang="en"><seg>No Profiles</seg></tuv>
+      <tuv xml:lang="de"><seg>Keine Profile</seg></tuv>
+    </tu>
+    <tu tuid="439">
+      <tuv xml:lang="en"><seg>No default values for current resolution and media type</seg></tuv>
+      <tuv xml:lang="de"><seg>Keine Standardwerte für aktuelle Auflösung und Medientyp</seg></tuv>
+    </tu>
+    <tu tuid="440">
+      <tuv xml:lang="en"><seg>No jobs are available for reprinting.</seg></tuv>
+      <tuv xml:lang="de"><seg>Es sind keine Aufträge für den Nachdruck vorhanden.</seg></tuv>
+    </tu>
+    <tu tuid="441">
+      <tuv xml:lang="en"><seg>No photo cyan ink.\n</seg></tuv>
+      <tuv xml:lang="de"><seg>Keine zyanfarbene Fototinte.\n</seg></tuv>
+    </tu>
+    <tu tuid="442">
+      <tuv xml:lang="en"><seg>No version information</seg></tuv>
+      <tuv xml:lang="de"><seg>Keine Versionsinformationen</seg></tuv>
+    </tu>
+    <tu tuid="443">
+      <tuv xml:lang="en"><seg>Normal</seg></tuv>
+      <tuv xml:lang="de"><seg>Normal</seg></tuv>
+    </tu>
+    <tu tuid="444">
+      <tuv xml:lang="en"><seg>Normal Speed</seg></tuv>
+      <tuv xml:lang="de"><seg>Normalgeschwindigkeit</seg></tuv>
+    </tu>
+    <tu tuid="445">
+      <tuv xml:lang="en"><seg>Not Using G7 Native CMY</seg></tuv>
+      <tuv xml:lang="de"><seg>Keine Verwendung von G7 Native CMY</seg></tuv>
+    </tu>
+    <tu tuid="446">
+      <tuv xml:lang="en"><seg>Note: Changing the Ink Limit type and clicking &apos;Print Swatch&apos; or the &apos;Next&apos; button will result in the loss of previous Ink Limit settings.</seg></tuv>
+      <tuv xml:lang="de"><seg>Hinweis: Wenn Sie das Tintenlimit ändern und auf &quot;Swatch drucken&quot; oder auf &quot;Weiter&quot; klicken, werden die vorherigen Tintenlimiteinstellungen verworfen.</seg></tuv>
+    </tu>
+    <tu tuid="447">
+      <tuv xml:lang="en"><seg>Note: The measurement condition switch should be in the position 0</seg></tuv>
+      <tuv xml:lang="de"><seg>Hinweis: Der Messbedingungsschalter sollte sich der in der Position 0 befinden</seg></tuv>
+    </tu>
+    <tu tuid="448">
+      <tuv xml:lang="en"><seg>Nozzle EVEN</seg></tuv>
+      <tuv xml:lang="de"><seg>Düse GERADE</seg></tuv>
+    </tu>
+    <tu tuid="449">
+      <tuv xml:lang="en"><seg>Number of Printer Copies</seg></tuv>
+      <tuv xml:lang="de"><seg>Anzahl der Druckerkopien</seg></tuv>
+    </tu>
+    <tu tuid="450">
+      <tuv xml:lang="en"><seg>OLF Support</seg></tuv>
+      <tuv xml:lang="de"><seg>OLF-Support</seg></tuv>
+    </tu>
+    <tu tuid="451">
+      <tuv xml:lang="en"><seg>ONYX Hub is not supported by key. Server will only support API requests.</seg></tuv>
+      <tuv xml:lang="de"><seg>ONYX Hub wird von dem Schlüssel nicht unterstützt. Server unterstützt nur API-Anforderungen.</seg></tuv>
+    </tu>
+    <tu tuid="452">
+      <tuv xml:lang="en"><seg>OVR</seg></tuv>
+      <tuv xml:lang="de"><seg>ÜB</seg></tuv>
+    </tu>
+    <tu tuid="453">
+      <tuv xml:lang="en"><seg>Océ Prem Bond 24lb</seg></tuv>
+      <tuv xml:lang="de"><seg>Océ Prem Bond 10,89kg</seg></tuv>
+    </tu>
+    <tu tuid="454">
+      <tuv xml:lang="en"><seg>Offset</seg></tuv>
+      <tuv xml:lang="de"><seg>Offset</seg></tuv>
+    </tu>
+    <tu tuid="455">
+      <tuv xml:lang="en"><seg>On Process</seg></tuv>
+      <tuv xml:lang="de"><seg>Auf Verarbeitung</seg></tuv>
+    </tu>
+    <tu tuid="456">
+      <tuv xml:lang="en"><seg>Online Support Portal</seg></tuv>
+      <tuv xml:lang="de"><seg>Online-Support-Portal</seg></tuv>
+    </tu>
+    <tu tuid="457">
+      <tuv xml:lang="en"><seg>Onyx Graphics, Inc.</seg></tuv>
+      <tuv xml:lang="de"><seg>Onyx Graphics, Inc.</seg></tuv>
+    </tu>
+    <tu tuid="458">
+      <tuv xml:lang="en"><seg>Open File Separations</seg></tuv>
+      <tuv xml:lang="de"><seg>Dateiseparationen öffnen</seg></tuv>
+    </tu>
+    <tu tuid="459">
+      <tuv xml:lang="en"><seg>Open Update Key File</seg></tuv>
+      <tuv xml:lang="de"><seg>Schlüsselaktualisierungsdatei öffnen</seg></tuv>
+    </tu>
+    <tu tuid="460">
+      <tuv xml:lang="en"><seg>OpenCommunication on</seg></tuv>
+      <tuv xml:lang="de"><seg>Offene Kommunikation auf</seg></tuv>
+    </tu>
+    <tu tuid="461">
+      <tuv xml:lang="en"><seg>Optimize Mode Name</seg></tuv>
+      <tuv xml:lang="de"><seg>Modusnamen optimieren</seg></tuv>
+    </tu>
+    <tu tuid="462">
+      <tuv xml:lang="en"><seg>Orange Ink Near End</seg></tuv>
+      <tuv xml:lang="de"><seg>Orangefarbene Tinte fast aufgebraucht</seg></tuv>
+    </tu>
+    <tu tuid="463">
+      <tuv xml:lang="en"><seg>Original Image</seg></tuv>
+      <tuv xml:lang="de"><seg>Originalbild</seg></tuv>
+    </tu>
+    <tu tuid="464">
+      <tuv xml:lang="en"><seg>Outer Roller Pressure:</seg></tuv>
+      <tuv xml:lang="de"><seg>Druck äußere Rolle:</seg></tuv>
+    </tu>
+    <tu tuid="465">
+      <tuv xml:lang="en"><seg>Output Path:</seg></tuv>
+      <tuv xml:lang="de"><seg>Ausgabepfad:</seg></tuv>
+    </tu>
+    <tu tuid="466">
+      <tuv xml:lang="en"><seg>Ovedrride Default Dot Size</seg></tuv>
+      <tuv xml:lang="de"><seg>Standardpunktgröße aufheben</seg></tuv>
+    </tu>
+    <tu tuid="467">
+      <tuv xml:lang="en"><seg>Overlay (White on Color/Metal)</seg></tuv>
+      <tuv xml:lang="de"><seg>Überlagerung (Weiß auf Farbe/Metall)</seg></tuv>
+    </tu>
+    <tu tuid="468">
+      <tuv xml:lang="en"><seg>Override Pass Mode</seg></tuv>
+      <tuv xml:lang="de"><seg>Durchgangsmodus aufheben</seg></tuv>
+    </tu>
+    <tu tuid="469">
+      <tuv xml:lang="en"><seg>P&amp;references...</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Einstellungen...</seg></tuv>
+    </tu>
+    <tu tuid="470">
+      <tuv xml:lang="en"><seg>PDF Files</seg></tuv>
+      <tuv xml:lang="de"><seg>PDF-Dateien</seg></tuv>
+    </tu>
+    <tu tuid="471">
+      <tuv xml:lang="en"><seg>PRINTER Files (*.PRINTER)|*.PRINTER|</seg></tuv>
+      <tuv xml:lang="de"><seg>PRINTER Dateien (*.PRINTER)|*.PRINTER|</seg></tuv>
+    </tu>
+    <tu tuid="472">
+      <tuv xml:lang="en"><seg>PS/PDF Options</seg></tuv>
+      <tuv xml:lang="de"><seg>PS/PDF-Optionen</seg></tuv>
+    </tu>
+    <tu tuid="473">
+      <tuv xml:lang="en"><seg>Page &amp;Num:</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Seitennummer:</seg></tuv>
+    </tu>
+    <tu tuid="474">
+      <tuv xml:lang="en"><seg>Page Size Name</seg></tuv>
+      <tuv xml:lang="de"><seg>Seitengrößename</seg></tuv>
+    </tu>
+    <tu tuid="475">
+      <tuv xml:lang="en"><seg>Pannel Setting</seg></tuv>
+      <tuv xml:lang="de"><seg>Feldeinstellung</seg></tuv>
+    </tu>
+    <tu tuid="476">
+      <tuv xml:lang="en"><seg>Paper No. %d</seg></tuv>
+      <tuv xml:lang="de"><seg>Papier Nr. %d</seg></tuv>
+    </tu>
+    <tu tuid="477">
+      <tuv xml:lang="en"><seg>Paper change unfinished error</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler: Papierwechsel nicht abgeschlossen</seg></tuv>
+    </tu>
+    <tu tuid="478">
+      <tuv xml:lang="en"><seg>Paper returns to cassette after printing</seg></tuv>
+      <tuv xml:lang="de"><seg>Papier kehrt nach Druck zur Kassette zurück</seg></tuv>
+    </tu>
+    <tu tuid="479">
+      <tuv xml:lang="en"><seg>Parity</seg></tuv>
+      <tuv xml:lang="de"><seg>Parität</seg></tuv>
+    </tu>
+    <tu tuid="480">
+      <tuv xml:lang="en"><seg>Passes</seg></tuv>
+      <tuv xml:lang="de"><seg>Druckdurchgänge</seg></tuv>
+    </tu>
+    <tu tuid="481">
+      <tuv xml:lang="en"><seg>Patch Gap:</seg></tuv>
+      <tuv xml:lang="de"><seg>Patch-Lücke:</seg></tuv>
+    </tu>
+    <tu tuid="482">
+      <tuv xml:lang="en"><seg>Patches per ink: %d</seg></tuv>
+      <tuv xml:lang="de"><seg>Patches pro Tinte: %d</seg></tuv>
+    </tu>
+    <tu tuid="483">
+      <tuv xml:lang="en"><seg>Pattern Spreading works best on straight lines and sharp corners.</seg></tuv>
+      <tuv xml:lang="de"><seg>Die Ausweitung von Mustern funktioniert am besten bei geraden Linien und Ecken.</seg></tuv>
+    </tu>
+    <tu tuid="484">
+      <tuv xml:lang="en"><seg>Pen Weight:</seg></tuv>
+      <tuv xml:lang="de"><seg>Stiftgewicht:</seg></tuv>
+    </tu>
+    <tu tuid="485">
+      <tuv xml:lang="en"><seg>Percentage of CII &lt; 1:</seg></tuv>
+      <tuv xml:lang="de"><seg>Prozentsatz von CII &lt; 1:</seg></tuv>
+    </tu>
+    <tu tuid="486">
+      <tuv xml:lang="en"><seg>Perform sheet mount cleaning.</seg></tuv>
+      <tuv xml:lang="de"><seg>Führen Sie die Putzblatthalterungs-Reinigung durch.</seg></tuv>
+    </tu>
+    <tu tuid="487">
+      <tuv xml:lang="en"><seg>Photo Cyan</seg></tuv>
+      <tuv xml:lang="de"><seg>Foto Cyan</seg></tuv>
+    </tu>
+    <tu tuid="488">
+      <tuv xml:lang="en"><seg>Physical Prints</seg></tuv>
+      <tuv xml:lang="de"><seg>Physische Ausdrucke</seg></tuv>
+    </tu>
+    <tu tuid="489">
+      <tuv xml:lang="en"><seg>Pixel Double</seg></tuv>
+      <tuv xml:lang="de"><seg>Pixel-Doppel</seg></tuv>
+    </tu>
+    <tu tuid="490">
+      <tuv xml:lang="en"><seg>Platen</seg></tuv>
+      <tuv xml:lang="de"><seg>Walze</seg></tuv>
+    </tu>
+    <tu tuid="491">
+      <tuv xml:lang="en"><seg>Please check and retype the fields marked with red stars.\nPlease note that an e-mail containing your unlock code will be sent to this e-mail address.</seg></tuv>
+      <tuv xml:lang="de"><seg>Bitte prüfen Sie die mit einem roten Stern markierten Felder und geben Sie deren Inhalt erneut ein.\nBitte beachten Sie, dass Ihnen eine E-Mail mit Ihrem Entsperrcode an diese E-Mail-Adresse geschickt wird.</seg></tuv>
+    </tu>
+    <tu tuid="492">
+      <tuv xml:lang="en"><seg>Please enter a name for the printer.</seg></tuv>
+      <tuv xml:lang="de"><seg>Bitte geben Sie einen Namen für den Drucker ein.</seg></tuv>
+    </tu>
+    <tu tuid="493">
+      <tuv xml:lang="en"><seg>Please insert chart.</seg></tuv>
+      <tuv xml:lang="de"><seg>Bitte Grafik einfügen.</seg></tuv>
+    </tu>
+    <tu tuid="494">
+      <tuv xml:lang="en"><seg>Please place the device on the white reference, and then press the measure button to calibrate.\n\nPlease do not lift the device from the white reference until the next instruction.</seg></tuv>
+      <tuv xml:lang="de"><seg>Stellen Sie das Gerät auf die weiße Referenzvorlage, und drücken Sie dann die Messtaste, um zu kalibrieren.\n\nLassen Sie das Gerät bis zur nächsten Anweisung auf der weißen Referenzvorlage.</seg></tuv>
+    </tu>
+    <tu tuid="495">
+      <tuv xml:lang="en"><seg>Please select a port for the device.</seg></tuv>
+      <tuv xml:lang="de"><seg>Wählen Sie den Geräteeingang.</seg></tuv>
+    </tu>
+    <tu tuid="496">
+      <tuv xml:lang="en"><seg>Please wait for a few seconds while detecting keys.</seg></tuv>
+      <tuv xml:lang="de"><seg>Bitte warten Sie einen Moment, während die Schlüssel erfasst werden.</seg></tuv>
+    </tu>
+    <tu tuid="497">
+      <tuv xml:lang="en"><seg>Port Busy</seg></tuv>
+      <tuv xml:lang="de"><seg>Anschluss ausgelastet</seg></tuv>
+    </tu>
+    <tu tuid="498">
+      <tuv xml:lang="en"><seg>Port Write Error (%d):</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler (%d) beim Schreiben für Anschluss:</seg></tuv>
+    </tu>
+    <tu tuid="499">
+      <tuv xml:lang="en"><seg>Post Lamp:</seg></tuv>
+      <tuv xml:lang="de"><seg>Nach Lampe:</seg></tuv>
+    </tu>
+    <tu tuid="500">
+      <tuv xml:lang="en"><seg>PosterShop</seg></tuv>
+      <tuv xml:lang="de"><seg>PosterShop</seg></tuv>
+    </tu>
+    <tu tuid="501">
+      <tuv xml:lang="en"><seg>PosterShop Server - Epson 5000 Only</seg></tuv>
+      <tuv xml:lang="de"><seg>PosterShop Server - Nur Epson 5000</seg></tuv>
+    </tu>
+    <tu tuid="502">
+      <tuv xml:lang="en"><seg>Postscript Source Image</seg></tuv>
+      <tuv xml:lang="de"><seg>PostScript Bildquelle</seg></tuv>
+    </tu>
+    <tu tuid="503">
+      <tuv xml:lang="en"><seg>Pre-cure Power:</seg></tuv>
+      <tuv xml:lang="de"><seg>Vortrocknungsleistung:</seg></tuv>
+    </tu>
+    <tu tuid="504">
+      <tuv xml:lang="en"><seg>Preflight</seg></tuv>
+      <tuv xml:lang="de"><seg>Preflight</seg></tuv>
+    </tu>
+    <tu tuid="505">
+      <tuv xml:lang="en"><seg>Preparing</seg></tuv>
+      <tuv xml:lang="de"><seg>Vorbereitung</seg></tuv>
+    </tu>
+    <tu tuid="506">
+      <tuv xml:lang="en"><seg>Preset Summary</seg></tuv>
+      <tuv xml:lang="de"><seg>Voreinstellungszusammenfassung</seg></tuv>
+    </tu>
+    <tu tuid="507">
+      <tuv xml:lang="en"><seg>Preview Changes</seg></tuv>
+      <tuv xml:lang="de"><seg>Vorschau der Änderungen anzeigen</seg></tuv>
+    </tu>
+    <tu tuid="508">
+      <tuv xml:lang="en"><seg>Previous setting: %.1f, new setting: %.1f</seg></tuv>
+      <tuv xml:lang="de"><seg>Vorherige Einstellung: %.1f, Neue Einstellung: %.1f</seg></tuv>
+    </tu>
+    <tu tuid="509">
+      <tuv xml:lang="en"><seg>Primer -&gt; Color (Underprint)</seg></tuv>
+      <tuv xml:lang="de"><seg>Grundierung -&gt; Farbe (Unter Druck)</seg></tuv>
+    </tu>
+    <tu tuid="510">
+      <tuv xml:lang="en"><seg>Print Barcode Label</seg></tuv>
+      <tuv xml:lang="de"><seg>Strichcode-Beschriftung drucken</seg></tuv>
+    </tu>
+    <tu tuid="511">
+      <tuv xml:lang="en"><seg>Print Cyan Ink with:</seg></tuv>
+      <tuv xml:lang="de"><seg>Cyan-Tinte drucken mit:</seg></tuv>
+    </tu>
+    <tu tuid="512">
+      <tuv xml:lang="en"><seg>Print Forwarding</seg></tuv>
+      <tuv xml:lang="de"><seg>Druck Weiterleitung</seg></tuv>
+    </tu>
+    <tu tuid="513">
+      <tuv xml:lang="en"><seg>Print Label</seg></tuv>
+      <tuv xml:lang="de"><seg>Druck Beschriftung</seg></tuv>
+    </tu>
+    <tu tuid="514">
+      <tuv xml:lang="en"><seg>Print Mode Name:</seg></tuv>
+      <tuv xml:lang="de"><seg>Druckmodusname:</seg></tuv>
+    </tu>
+    <tu tuid="515">
+      <tuv xml:lang="en"><seg>Print Order:</seg></tuv>
+      <tuv xml:lang="de"><seg>Druckreihenfolge:</seg></tuv>
+    </tu>
+    <tu tuid="516">
+      <tuv xml:lang="en"><seg>Print Reflection</seg></tuv>
+      <tuv xml:lang="de"><seg>Reflektierter Druck</seg></tuv>
+    </tu>
+    <tu tuid="517">
+      <tuv xml:lang="en"><seg>Print Surface Temperature:</seg></tuv>
+      <tuv xml:lang="de"><seg>Druckoberflächentemperatur:</seg></tuv>
+    </tu>
+    <tu tuid="518">
+      <tuv xml:lang="en"><seg>Print White Ink with:</seg></tuv>
+      <tuv xml:lang="de"><seg>Weiße Tinte drucken mit:</seg></tuv>
+    </tu>
+    <tu tuid="519">
+      <tuv xml:lang="en"><seg>Print and Read the Ink Limits swatch</seg></tuv>
+      <tuv xml:lang="de"><seg>Tintenlimitswatch drucken und lesen</seg></tuv>
+    </tu>
+    <tu tuid="520">
+      <tuv xml:lang="en"><seg>Print grey balance swatch.</seg></tuv>
+      <tuv xml:lang="de"><seg>Graubalance-Swatch drucken.</seg></tuv>
+    </tu>
+    <tu tuid="521">
+      <tuv xml:lang="en"><seg>Print mode selectors</seg></tuv>
+      <tuv xml:lang="de"><seg>Druckmodusauswahl</seg></tuv>
+    </tu>
+    <tu tuid="522">
+      <tuv xml:lang="en"><seg>Print tile dotted overlap marks on the bottom edge</seg></tuv>
+      <tuv xml:lang="de"><seg>Überlappungsmarkierungen der gerasterten Kacheln am unteren Rand drucken</seg></tuv>
+    </tu>
+    <tu tuid="523">
+      <tuv xml:lang="en"><seg>Print to mode specific folder</seg></tuv>
+      <tuv xml:lang="de"><seg>In modusspezifischen Ordner drucken</seg></tuv>
+    </tu>
+    <tu tuid="524">
+      <tuv xml:lang="en"><seg>Printed Media Area</seg></tuv>
+      <tuv xml:lang="de"><seg>Gedruckte Medienfläche</seg></tuv>
+    </tu>
+    <tu tuid="525">
+      <tuv xml:lang="en"><seg>Printer Device</seg></tuv>
+      <tuv xml:lang="de"><seg>Druckergerät</seg></tuv>
+    </tu>
+    <tu tuid="526">
+      <tuv xml:lang="en"><seg>Printer Initializing</seg></tuv>
+      <tuv xml:lang="de"><seg>Druckerinitialisierung</seg></tuv>
+    </tu>
+    <tu tuid="527">
+      <tuv xml:lang="en"><seg>Printer Options...</seg></tuv>
+      <tuv xml:lang="de"><seg>Druckeroptionen...</seg></tuv>
+    </tu>
+    <tu tuid="528">
+      <tuv xml:lang="en"><seg>Printer Versions</seg></tuv>
+      <tuv xml:lang="de"><seg>Druckerversionen</seg></tuv>
+    </tu>
+    <tu tuid="529">
+      <tuv xml:lang="en"><seg>Printer error!</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler: Druckerfehler!</seg></tuv>
+    </tu>
+    <tu tuid="530">
+      <tuv xml:lang="en"><seg>Printer is powered off.</seg></tuv>
+      <tuv xml:lang="de"><seg>Drucker ist ausgeschaltet.</seg></tuv>
+    </tu>
+    <tu tuid="531">
+      <tuv xml:lang="en"><seg>Printer&apos;s loaded ink set is different from the one selected for the job.</seg></tuv>
+      <tuv xml:lang="de"><seg>Im Drucker wurde ein anderes Tintenset als für den Auftrag ausgewählt.</seg></tuv>
+    </tu>
+    <tu tuid="532">
+      <tuv xml:lang="en"><seg>Printing Completed Successfully</seg></tuv>
+      <tuv xml:lang="de"><seg>Druck erfolgreich abgeschlossen</seg></tuv>
+    </tu>
+    <tu tuid="533">
+      <tuv xml:lang="en"><seg>Printing gutter must be installed</seg></tuv>
+      <tuv xml:lang="de"><seg>&quot;Bundsteg drucken&quot; muss installiert sein</seg></tuv>
+    </tu>
+    <tu tuid="534">
+      <tuv xml:lang="en"><seg>Prints Due (Job Ticket)</seg></tuv>
+      <tuv xml:lang="de"><seg>Anstehende Druckaufträge (Auftragsticket)</seg></tuv>
+    </tu>
+    <tu tuid="535">
+      <tuv xml:lang="en"><seg>Process Channel:</seg></tuv>
+      <tuv xml:lang="de"><seg>Verarbeitungskanal:</seg></tuv>
+    </tu>
+    <tu tuid="536">
+      <tuv xml:lang="en"><seg>Process raster dithering at interpretation</seg></tuv>
+      <tuv xml:lang="de"><seg>Prozessraster-Dithering bei Interpretation</seg></tuv>
+    </tu>
+    <tu tuid="537">
+      <tuv xml:lang="en"><seg>Processing to print %d copies of &apos;%s&apos;...\n</seg></tuv>
+      <tuv xml:lang="de"><seg>Drucken von %d Exemplaren von &apos;%s&apos; wird vorbereitet...\n</seg></tuv>
+    </tu>
+    <tu tuid="538">
+      <tuv xml:lang="en"><seg>Production (HQ1)</seg></tuv>
+      <tuv xml:lang="de"><seg>Produktion (HQ1)</seg></tuv>
+    </tu>
+    <tu tuid="539">
+      <tuv xml:lang="en"><seg>Production uni-directional</seg></tuv>
+      <tuv xml:lang="de"><seg>Produktion unidirektional</seg></tuv>
+    </tu>
+    <tu tuid="540">
+      <tuv xml:lang="en"><seg>Profile Generator</seg></tuv>
+      <tuv xml:lang="de"><seg>Profil-Generator</seg></tuv>
+    </tu>
+    <tu tuid="541">
+      <tuv xml:lang="en"><seg>Profiler problem on the printer!</seg></tuv>
+      <tuv xml:lang="de"><seg>Profiler-Problem am Drucker!</seg></tuv>
+    </tu>
+    <tu tuid="542">
+      <tuv xml:lang="en"><seg>Prompt for Output Folder</seg></tuv>
+      <tuv xml:lang="de"><seg>Aufforderung für Ausgabeordner</seg></tuv>
+    </tu>
+    <tu tuid="543">
+      <tuv xml:lang="en"><seg>Properties</seg></tuv>
+      <tuv xml:lang="de"><seg>Eigenschaften</seg></tuv>
+    </tu>
+    <tu tuid="544">
+      <tuv xml:lang="en"><seg>Quality (HQ2)</seg></tuv>
+      <tuv xml:lang="de"><seg>Qualität (HQ2)</seg></tuv>
+    </tu>
+    <tu tuid="545">
+      <tuv xml:lang="en"><seg>Quality 12, 12p, 320 cps, Bidir</seg></tuv>
+      <tuv xml:lang="de"><seg>Qualität 12, 12p, 320 cps, Bidir</seg></tuv>
+    </tu>
+    <tu tuid="546">
+      <tuv xml:lang="en"><seg>Quality 3, 18p, sym, 240 cps</seg></tuv>
+      <tuv xml:lang="de"><seg>Grafik 3, 18p, sym, 240 cps</seg></tuv>
+    </tu>
+    <tu tuid="547">
+      <tuv xml:lang="en"><seg>Quality 5, 8p, uni, 240 cps</seg></tuv>
+      <tuv xml:lang="de"><seg>Qualität 5, 8p, uni, 240 cps</seg></tuv>
+    </tu>
+    <tu tuid="548">
+      <tuv xml:lang="en"><seg>Quality uni-directional</seg></tuv>
+      <tuv xml:lang="de"><seg>Qualität unidirektional</seg></tuv>
+    </tu>
+    <tu tuid="549">
+      <tuv xml:lang="en"><seg>Queue entry is not running.</seg></tuv>
+      <tuv xml:lang="de"><seg>Der Warteschlangeneintrag wird nicht ausgeführt.</seg></tuv>
+    </tu>
+    <tu tuid="550">
+      <tuv xml:lang="en"><seg>QuickGCR Level</seg></tuv>
+      <tuv xml:lang="de"><seg>Schnell-GCR-Wert</seg></tuv>
+    </tu>
+    <tu tuid="551">
+      <tuv xml:lang="en"><seg>RGB Percent</seg></tuv>
+      <tuv xml:lang="de"><seg>RGB Percent</seg></tuv>
+    </tu>
+    <tu tuid="552">
+      <tuv xml:lang="en"><seg>RGI Printer Info</seg></tuv>
+      <tuv xml:lang="de"><seg>RGI-Drucker Info</seg></tuv>
+    </tu>
+    <tu tuid="553">
+      <tuv xml:lang="en"><seg>Read Date:</seg></tuv>
+      <tuv xml:lang="de"><seg>Lesedatum:</seg></tuv>
+    </tu>
+    <tu tuid="554">
+      <tuv xml:lang="en"><seg>Read the ink restriction swatch</seg></tuv>
+      <tuv xml:lang="de"><seg>Tintenbegrenzungsswatch lesen</seg></tuv>
+    </tu>
+    <tu tuid="555">
+      <tuv xml:lang="en"><seg>Ready</seg></tuv>
+      <tuv xml:lang="de"><seg>Bereit</seg></tuv>
+    </tu>
+    <tu tuid="556">
+      <tuv xml:lang="en"><seg>Recalibrate</seg></tuv>
+      <tuv xml:lang="de"><seg>Neu kalibrieren</seg></tuv>
+    </tu>
+    <tu tuid="557">
+      <tuv xml:lang="en"><seg>Recent Library</seg></tuv>
+      <tuv xml:lang="de"><seg>Vorherige Bibliothek</seg></tuv>
+    </tu>
+    <tu tuid="558">
+      <tuv xml:lang="en"><seg>Red Limit</seg></tuv>
+      <tuv xml:lang="de"><seg>Rot-Schwelle</seg></tuv>
+    </tu>
+    <tu tuid="559">
+      <tuv xml:lang="en"><seg>Reduced HiFi Solvent</seg></tuv>
+      <tuv xml:lang="de"><seg>Reduziertes HiFi-Lösemittel</seg></tuv>
+    </tu>
+    <tu tuid="560">
+      <tuv xml:lang="en"><seg>Refresh Page</seg></tuv>
+      <tuv xml:lang="de"><seg>Seite aktualisieren</seg></tuv>
+    </tu>
+    <tu tuid="561">
+      <tuv xml:lang="en"><seg>Registration Pin:</seg></tuv>
+      <tuv xml:lang="de"><seg>Registerstift</seg></tuv>
+    </tu>
+    <tu tuid="562">
+      <tuv xml:lang="en"><seg>Release</seg></tuv>
+      <tuv xml:lang="de"><seg>Freigeben</seg></tuv>
+    </tu>
+    <tu tuid="563">
+      <tuv xml:lang="en"><seg>Remove &apos;%s&apos; from Queue?</seg></tuv>
+      <tuv xml:lang="de"><seg>Soll &quot;%s&quot; aus Warteschlange gelöscht werden?</seg></tuv>
+    </tu>
+    <tu tuid="564">
+      <tuv xml:lang="en"><seg>Rename Calibration</seg></tuv>
+      <tuv xml:lang="de"><seg>Kalibrierung umbenennen</seg></tuv>
+    </tu>
+    <tu tuid="565">
+      <tuv xml:lang="en"><seg>Render:</seg></tuv>
+      <tuv xml:lang="de"><seg>Rendering:</seg></tuv>
+    </tu>
+    <tu tuid="566">
+      <tuv xml:lang="en"><seg>Replace files the engine has lost.</seg></tuv>
+      <tuv xml:lang="de"><seg>Verlorene Dateien der Engine ersetzen.</seg></tuv>
+    </tu>
+    <tu tuid="567">
+      <tuv xml:lang="en"><seg>Report Results</seg></tuv>
+      <tuv xml:lang="de"><seg>Berichtsergebnisse</seg></tuv>
+    </tu>
+    <tu tuid="568">
+      <tuv xml:lang="en"><seg>Request Registration Code</seg></tuv>
+      <tuv xml:lang="de"><seg>Registrierungscode anfordern</seg></tuv>
+    </tu>
+    <tu tuid="569">
+      <tuv xml:lang="en"><seg>Reset Pattern</seg></tuv>
+      <tuv xml:lang="de"><seg>Muster zurücksetzen</seg></tuv>
+    </tu>
+    <tu tuid="570">
+      <tuv xml:lang="en"><seg>Resolution:</seg></tuv>
+      <tuv xml:lang="de"><seg>Auflösung:</seg></tuv>
+    </tu>
+    <tu tuid="571">
+      <tuv xml:lang="en"><seg>Retain Aspect Ratio</seg></tuv>
+      <tuv xml:lang="de"><seg>Seitenverhältnis beibehalten</seg></tuv>
+    </tu>
+    <tu tuid="572">
+      <tuv xml:lang="en"><seg>Revised</seg></tuv>
+      <tuv xml:lang="de"><seg>Überarbeitet</seg></tuv>
+    </tu>
+    <tu tuid="573">
+      <tuv xml:lang="en"><seg>Right Lamp Power %</seg></tuv>
+      <tuv xml:lang="de"><seg>Leistung rechte Lampe %</seg></tuv>
+    </tu>
+    <tu tuid="574">
+      <tuv xml:lang="en"><seg>Rip</seg></tuv>
+      <tuv xml:lang="de"><seg>Rippen</seg></tuv>
+    </tu>
+    <tu tuid="575">
+      <tuv xml:lang="en"><seg>Roll 1</seg></tuv>
+      <tuv xml:lang="de"><seg>Walze 1</seg></tuv>
+    </tu>
+    <tu tuid="576">
+      <tuv xml:lang="en"><seg>Roll back media by the amount designated.</seg></tuv>
+      <tuv xml:lang="de"><seg>Zurückrollen des Mediums um den ausgewiesenen Betrag.</seg></tuv>
+    </tu>
+    <tu tuid="577">
+      <tuv xml:lang="en"><seg>Rotate</seg></tuv>
+      <tuv xml:lang="de"><seg>Drehen</seg></tuv>
+    </tu>
+    <tu tuid="578">
+      <tuv xml:lang="en"><seg>Rotate individual tiles</seg></tuv>
+      <tuv xml:lang="de"><seg>Einzelne Kacheln drehen</seg></tuv>
+    </tu>
+    <tu tuid="579">
+      <tuv xml:lang="en"><seg>Row / Column</seg></tuv>
+      <tuv xml:lang="de"><seg>Zeile/Spalte</seg></tuv>
+    </tu>
+    <tu tuid="580">
+      <tuv xml:lang="en"><seg>Running General Settings Config...\n</seg></tuv>
+      <tuv xml:lang="de"><seg>Konfiguration der allgemeinen Einstellungen wird ausgeführt...\n</seg></tuv>
+    </tu>
+    <tu tuid="581">
+      <tuv xml:lang="en"><seg>S7</seg></tuv>
+      <tuv xml:lang="de"><seg>S7</seg></tuv>
+    </tu>
+    <tu tuid="582">
+      <tuv xml:lang="en"><seg>SCSI Scan</seg></tuv>
+      <tuv xml:lang="de"><seg>SCSI-Scan</seg></tuv>
+    </tu>
+    <tu tuid="583">
+      <tuv xml:lang="en"><seg>Sa&amp;ve Media</seg></tuv>
+      <tuv xml:lang="de"><seg>&amp;Medium speichern</seg></tuv>
+    </tu>
+    <tu tuid="584">
+      <tuv xml:lang="en"><seg>Saturation Extreme</seg></tuv>
+      <tuv xml:lang="de"><seg>Sättigungsextrem</seg></tuv>
+    </tu>
+    <tu tuid="585">
+      <tuv xml:lang="en"><seg>Save Linear Model as:</seg></tuv>
+      <tuv xml:lang="de"><seg>Lineares Modell speichern unter:</seg></tuv>
+    </tu>
+    <tu tuid="586">
+      <tuv xml:lang="en"><seg>Save the active document\nSave</seg></tuv>
+      <tuv xml:lang="de"><seg>Speichert das aktuelle Dokument.\nSpeichern</seg></tuv>
+    </tu>
+    <tu tuid="587">
+      <tuv xml:lang="en"><seg>Scale Up</seg></tuv>
+      <tuv xml:lang="de"><seg>Hochskalieren</seg></tuv>
+    </tu>
+    <tu tuid="588">
+      <tuv xml:lang="en"><seg>Scan the row from Left to Right as instructed before.\nStart&gt;&gt;&gt;------------------&gt;&gt;&gt;Stop</seg></tuv>
+      <tuv xml:lang="de"><seg>Scannen Sie die Zeile, wie zuvor beschrieben, von links nach rechts.\nStart&gt;&gt;&gt;------------------&gt;&gt;&gt;Stopp</seg></tuv>
+    </tu>
+    <tu tuid="589">
+      <tuv xml:lang="en"><seg>Scramble Swatch</seg></tuv>
+      <tuv xml:lang="de"><seg>Swatch</seg></tuv>
+    </tu>
+    <tu tuid="590">
+      <tuv xml:lang="en"><seg>Searching IP Address....please wait!</seg></tuv>
+      <tuv xml:lang="de"><seg>IP-Adresse wird gesucht... Bitte warten Sie!</seg></tuv>
+    </tu>
+    <tu tuid="591">
+      <tuv xml:lang="en"><seg>Select &apos;Create another media&apos; to return to the beginning of the Create New Media wizard and create another media.</seg></tuv>
+      <tuv xml:lang="de"><seg>Wählen Sie &apos;Weiteres Medium erstellen&apos;, um zur Startseite des Assistenten zur Erstellung eines neuen Mediums zurückzukehren und ein weiteres Medium zu generieren.</seg></tuv>
+    </tu>
+    <tu tuid="592">
+      <tuv xml:lang="en"><seg>Select Icc Profile</seg></tuv>
+      <tuv xml:lang="de"><seg>ICC-Profil auswählen</seg></tuv>
+    </tu>
+    <tu tuid="593">
+      <tuv xml:lang="en"><seg>Select Mode:</seg></tuv>
+      <tuv xml:lang="de"><seg>Modus auswählen:</seg></tuv>
+    </tu>
+    <tu tuid="594">
+      <tuv xml:lang="en"><seg>Select TWAIN_32 Source Select TWAIN_32 Source</seg></tuv>
+      <tuv xml:lang="de"><seg>Wählen Sie die TWAIN_32 Quelle Wählen Sie die TWAIN_32 Quelle</seg></tuv>
+    </tu>
+    <tu tuid="595">
+      <tuv xml:lang="en"><seg>Select a compatible Reference Standard:</seg></tuv>
+      <tuv xml:lang="de"><seg>Kompatiblen Referenzstandard auswählen:</seg></tuv>
+    </tu>
+    <tu tuid="596">
+      <tuv xml:lang="en"><seg>Select an existing Calibration or create a new one.</seg></tuv>
+      <tuv xml:lang="de"><seg>Existierende Kalibrierung wählen oder neue erstellen.</seg></tuv>
+    </tu>
+    <tu tuid="597">
+      <tuv xml:lang="en"><seg>Select options for the workflow</seg></tuv>
+      <tuv xml:lang="de"><seg>Wählen Sie Optionen für den Workflow aus</seg></tuv>
+    </tu>
+    <tu tuid="598">
+      <tuv xml:lang="en"><seg>Select the Ink Configuration to use</seg></tuv>
+      <tuv xml:lang="de"><seg>Auswählen der Tintenkonfiguration</seg></tuv>
+    </tu>
+    <tu tuid="599">
+      <tuv xml:lang="en"><seg>Select the left and right margins set on the printer panel. These will be used when retrieving the page size from the printer.</seg></tuv>
+      <tuv xml:lang="de"><seg>Wählen Sie die auf dem Druckerbedienfeld eingerichteten linken und rechten Ränder aus. Diese werden verwendet, wenn die Seitengröße vom Drucker abgerufen wird.</seg></tuv>
+    </tu>
+    <tu tuid="600">
+      <tuv xml:lang="en"><seg>Select the print mode&apos;s resolution</seg></tuv>
+      <tuv xml:lang="de"><seg>Auflösung für Druckmodus auswählen</seg></tuv>
+    </tu>
+    <tu tuid="601">
+      <tuv xml:lang="en"><seg>Select/Deselect All</seg></tuv>
+      <tuv xml:lang="de"><seg>Alles auswählen/Gesamte Auswahl aufheben</seg></tuv>
+    </tu>
+    <tu tuid="602">
+      <tuv xml:lang="en"><seg>Selects the current page</seg></tuv>
+      <tuv xml:lang="de"><seg>Wählt die aktuelle Seite</seg></tuv>
+    </tu>
+    <tu tuid="603">
+      <tuv xml:lang="en"><seg>Send job to &quot;Ready to Print area&quot;</seg></tuv>
+      <tuv xml:lang="de"><seg>Auftrag an Bereich &quot;Druckbereit&quot; senden</seg></tuv>
+    </tu>
+    <tu tuid="604">
+      <tuv xml:lang="en"><seg>Separation Bar Width:</seg></tuv>
+      <tuv xml:lang="de"><seg>Breite Trennungsleiste:</seg></tuv>
+    </tu>
+    <tu tuid="605">
+      <tuv xml:lang="en"><seg>Server cannot share the same port number with database.</seg></tuv>
+      <tuv xml:lang="de"><seg>Server darf nicht dieselbe Portnummer wie die Datenbank verwenden.</seg></tuv>
+    </tu>
+    <tu tuid="606">
+      <tuv xml:lang="en"><seg>Set As &amp;Active</seg></tuv>
+      <tuv xml:lang="de"><seg>Als &amp;Aktiv einstellen</seg></tuv>
+    </tu>
+    <tu tuid="607">
+      <tuv xml:lang="en"><seg>Set Dotted Top Marks</seg></tuv>
+      <tuv xml:lang="de"><seg>Gerasterte Markierungen oben setzen</seg></tuv>
+    </tu>
+    <tu tuid="608">
+      <tuv xml:lang="en"><seg>Set Label Distance</seg></tuv>
+      <tuv xml:lang="de"><seg>Beschriftungsabstand festlegen</seg></tuv>
+    </tu>
+    <tu tuid="609">
+      <tuv xml:lang="en"><seg>Set Page Size to Image Size</seg></tuv>
+      <tuv xml:lang="de"><seg>Seitengröße als Bildgröße festlegen</seg></tuv>
+    </tu>
+    <tu tuid="610">
+      <tuv xml:lang="en"><seg>Set by Control Panel</seg></tuv>
+      <tuv xml:lang="de"><seg>Von Systemsteuerung festgelegt</seg></tuv>
+    </tu>
+    <tu tuid="611">
+      <tuv xml:lang="en"><seg>Set to Defaults</seg></tuv>
+      <tuv xml:lang="de"><seg>Auf Standardwerte setzen</seg></tuv>
+    </tu>
+    <tu tuid="612">
+      <tuv xml:lang="en"><seg>Settings Changed</seg></tuv>
+      <tuv xml:lang="de"><seg>Einstellungen geändert</seg></tuv>
+    </tu>
+    <tu tuid="613">
+      <tuv xml:lang="en"><seg>Setup print options for the active job\nPrint Setup</seg></tuv>
+      <tuv xml:lang="de"><seg>Druckoptionen für den aktiven Auftrag einrichten\nDrucker-Setup</seg></tuv>
+    </tu>
+    <tu tuid="614">
+      <tuv xml:lang="en"><seg>Sharpness:</seg></tuv>
+      <tuv xml:lang="de"><seg>Schärfe:</seg></tuv>
+    </tu>
+    <tu tuid="615">
+      <tuv xml:lang="en"><seg>Show Current</seg></tuv>
+      <tuv xml:lang="de"><seg>Aktuelle anzeigen</seg></tuv>
+    </tu>
+    <tu tuid="616">
+      <tuv xml:lang="en"><seg>Show Steps</seg></tuv>
+      <tuv xml:lang="de"><seg>Schritte anzeigen</seg></tuv>
+    </tu>
+    <tu tuid="617">
+      <tuv xml:lang="en"><seg>Show or hide the status bar\nToggle StatusBar</seg></tuv>
+      <tuv xml:lang="de"><seg>Blendet die Statusleiste ein oder aus\nStatusleiste</seg></tuv>
+    </tu>
+    <tu tuid="618">
+      <tuv xml:lang="en"><seg>Side A prints with</seg></tuv>
+      <tuv xml:lang="de"><seg>Seite A wird gedruckt mit</seg></tuv>
+    </tu>
+    <tu tuid="619">
+      <tuv xml:lang="en"><seg>Silver Nozzles</seg></tuv>
+      <tuv xml:lang="de"><seg>Silber-Düsen</seg></tuv>
+    </tu>
+    <tu tuid="620">
+      <tuv xml:lang="en"><seg>Six Pass</seg></tuv>
+      <tuv xml:lang="de"><seg>Sechs Durchläufe</seg></tuv>
+    </tu>
+    <tu tuid="621">
+      <tuv xml:lang="en"><seg>Sizing (Perforated Board)</seg></tuv>
+      <tuv xml:lang="de"><seg>Kalibrierung (Lochplatine)</seg></tuv>
+    </tu>
+    <tu tuid="622">
+      <tuv xml:lang="en"><seg>Slider5</seg></tuv>
+      <tuv xml:lang="de"><seg>Slider5</seg></tuv>
+    </tu>
+    <tu tuid="623">
+      <tuv xml:lang="en"><seg>Smallest</seg></tuv>
+      <tuv xml:lang="de"><seg>Kleinste</seg></tuv>
+    </tu>
+    <tu tuid="624">
+      <tuv xml:lang="en"><seg>Software protection key error!  There could be a faulty connection,\n</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler beim Software-Sicherheitsschlüssel! Möglicherweise falsche Verbindung,\n</seg></tuv>
+    </tu>
+    <tu tuid="625">
+      <tuv xml:lang="en"><seg>Source Icons</seg></tuv>
+      <tuv xml:lang="de"><seg>Quellsymbole</seg></tuv>
+    </tu>
+    <tu tuid="626">
+      <tuv xml:lang="en"><seg>Spacing (inches):</seg></tuv>
+      <tuv xml:lang="de"><seg>Abstand (Zoll):</seg></tuv>
+    </tu>
+    <tu tuid="627">
+      <tuv xml:lang="en"><seg>Specialty Ink Print Method:</seg></tuv>
+      <tuv xml:lang="de"><seg>Spezialtintendruckmethode:</seg></tuv>
+    </tu>
+    <tu tuid="628">
+      <tuv xml:lang="en"><seg>SpectroProofer Error</seg></tuv>
+      <tuv xml:lang="de"><seg>SpectroProofer-Fehler</seg></tuv>
+    </tu>
+    <tu tuid="629">
+      <tuv xml:lang="en"><seg>Spin3</seg></tuv>
+      <tuv xml:lang="de"><seg>Spin3</seg></tuv>
+    </tu>
+    <tu tuid="630">
+      <tuv xml:lang="en"><seg>Spooler online</seg></tuv>
+      <tuv xml:lang="de"><seg>Spooler online</seg></tuv>
+    </tu>
+    <tu tuid="631">
+      <tuv xml:lang="en"><seg>Spot 3</seg></tuv>
+      <tuv xml:lang="de"><seg>Sonderfarbe 3</seg></tuv>
+    </tu>
+    <tu tuid="632">
+      <tuv xml:lang="en"><seg>Spot Color Print Mode:</seg></tuv>
+      <tuv xml:lang="de"><seg>Druckmodus für Sonderfarbe:</seg></tuv>
+    </tu>
+    <tu tuid="633">
+      <tuv xml:lang="en"><seg>Spot colors to substitute with Black Linearization:</seg></tuv>
+      <tuv xml:lang="de"><seg>Durch Schwarz-Linearisierung zu ersetzende Sonderfarben:</seg></tuv>
+    </tu>
+    <tu tuid="634">
+      <tuv xml:lang="en"><seg>Spot6</seg></tuv>
+      <tuv xml:lang="de"><seg>Sonderfarbe6</seg></tuv>
+    </tu>
+    <tu tuid="635">
+      <tuv xml:lang="en"><seg>Standard Calcomp Printers</seg></tuv>
+      <tuv xml:lang="de"><seg>Standard Calcomp-Drucker</seg></tuv>
+    </tu>
+    <tu tuid="636">
+      <tuv xml:lang="en"><seg>Standards Simulation</seg></tuv>
+      <tuv xml:lang="de"><seg>Standardsimulation</seg></tuv>
+    </tu>
+    <tu tuid="637">
+      <tuv xml:lang="en"><seg>Start internal color calibration</seg></tuv>
+      <tuv xml:lang="de"><seg>Interne Farbkalibrierung starten</seg></tuv>
+    </tu>
+    <tu tuid="638">
+      <tuv xml:lang="en"><seg>StaticResolutionName</seg></tuv>
+      <tuv xml:lang="de"><seg>StaticAuflösungName</seg></tuv>
+    </tu>
+    <tu tuid="639">
+      <tuv xml:lang="en"><seg>Status is loading...</seg></tuv>
+      <tuv xml:lang="de"><seg>Status wird geladen...</seg></tuv>
+    </tu>
+    <tu tuid="640">
+      <tuv xml:lang="en"><seg>Steps</seg></tuv>
+      <tuv xml:lang="de"><seg>Schritte</seg></tuv>
+    </tu>
+    <tu tuid="641">
+      <tuv xml:lang="en"><seg>Stopping HTTP Service on port %d\n</seg></tuv>
+      <tuv xml:lang="de"><seg>HTTP-Dienst wird gestoppt auf Port %d\n</seg></tuv>
+    </tu>
+    <tu tuid="642">
+      <tuv xml:lang="en"><seg>Strikes:</seg></tuv>
+      <tuv xml:lang="de"><seg>Striche:</seg></tuv>
+    </tu>
+    <tu tuid="643">
+      <tuv xml:lang="en"><seg>Submit next side B job.\n\nWhat is on side A:\n    &quot;%s&quot;</seg></tuv>
+      <tuv xml:lang="de"><seg>Nächsten Auftrag für Seite B senden.\n\nWas befindet sich auf Seite A:\n    &quot;%s&quot;</seg></tuv>
+    </tu>
+    <tu tuid="644">
+      <tuv xml:lang="en"><seg>Substrate advance compensation</seg></tuv>
+      <tuv xml:lang="de"><seg>Erweiterte Trägerkompensation</seg></tuv>
+    </tu>
+    <tu tuid="645">
+      <tuv xml:lang="en"><seg>Successfully upgraded database to version %s</seg></tuv>
+      <tuv xml:lang="de"><seg>Datenbank-Upgrade auf Version %s erfolgreich durchgeführt</seg></tuv>
+    </tu>
+    <tu tuid="646">
+      <tuv xml:lang="en"><seg>SummaCut D620</seg></tuv>
+      <tuv xml:lang="de"><seg>SummaCut D620</seg></tuv>
+    </tu>
+    <tu tuid="647">
+      <tuv xml:lang="en"><seg>SummaSign T1400_PRO</seg></tuv>
+      <tuv xml:lang="de"><seg>SummaSign T1400_PRO</seg></tuv>
+    </tu>
+    <tu tuid="648">
+      <tuv xml:lang="en"><seg>Surface Colors</seg></tuv>
+      <tuv xml:lang="de"><seg>Oberflächenfarben</seg></tuv>
+    </tu>
+    <tu tuid="649">
+      <tuv xml:lang="en"><seg>Swatch Options</seg></tuv>
+      <tuv xml:lang="de"><seg>Swatch-Optionen</seg></tuv>
+    </tu>
+    <tu tuid="650">
+      <tuv xml:lang="en"><seg>System Restart</seg></tuv>
+      <tuv xml:lang="de"><seg>System-Neustart</seg></tuv>
+    </tu>
+    <tu tuid="651">
+      <tuv xml:lang="en"><seg>TRANSMITTING        DATA</seg></tuv>
+      <tuv xml:lang="de"><seg>ÜBERTRAGE          DATEN</seg></tuv>
+    </tu>
+    <tu tuid="652">
+      <tuv xml:lang="en"><seg>Take-up reel</seg></tuv>
+      <tuv xml:lang="de"><seg>Aufwickelvorrichtung</seg></tuv>
+    </tu>
+    <tu tuid="653">
+      <tuv xml:lang="en"><seg>Target Density:</seg></tuv>
+      <tuv xml:lang="de"><seg>Zieldichte:</seg></tuv>
+    </tu>
+    <tu tuid="654">
+      <tuv xml:lang="en"><seg>Templates have been disabled because the image is tiled</seg></tuv>
+      <tuv xml:lang="de"><seg>Vorlagen wurden deaktiviert, weil das Bild gekachelt ist.</seg></tuv>
+    </tu>
+    <tu tuid="655">
+      <tuv xml:lang="en"><seg>Testing TCP/IP Settings</seg></tuv>
+      <tuv xml:lang="de"><seg>TCP/IP-Einstellungen werden getestet</seg></tuv>
+    </tu>
+    <tu tuid="656">
+      <tuv xml:lang="en"><seg>The &quot;Archive&quot; setting is invalid.</seg></tuv>
+      <tuv xml:lang="de"><seg>Die Einstellung „Archivieren“ ist ungültig.</seg></tuv>
+    </tu>
+    <tu tuid="657">
+      <tuv xml:lang="en"><seg>The Color Management System could not be started.</seg></tuv>
+      <tuv xml:lang="de"><seg>Das Farbmanagementsystem konnte nicht gestartet werden.</seg></tuv>
+    </tu>
+    <tu tuid="658">
+      <tuv xml:lang="en"><seg>The ICC profile %s will be encoded with a &quot;watermark.&quot;\n It will only work in ONYX software.</seg></tuv>
+      <tuv xml:lang="de"><seg>Das ICC-Profil %s wird mit einem &quot;Wasserzeichen&quot; codiert.\n Es funktioniert nur mit der ONYX Software.</seg></tuv>
+    </tu>
+    <tu tuid="659">
+      <tuv xml:lang="en"><seg>The Mutoh KONA and SC Pro support up to 8 custom patterns per job.</seg></tuv>
+      <tuv xml:lang="de"><seg>Mutoh KONA und SC Pro unterstützen bis zu 8 benutzerdefinierte Muster pro Auftrag.</seg></tuv>
+    </tu>
+    <tu tuid="660">
+      <tuv xml:lang="en"><seg>The Scan Speed is too large for the resolution specified.</seg></tuv>
+      <tuv xml:lang="de"><seg>Die Scan-Geschwindigkeit ist für die definierte Auflösung zu groß.</seg></tuv>
+    </tu>
+    <tu tuid="661">
+      <tuv xml:lang="en"><seg>The acquired image file has an invalid image file format.\n\nPlease try again.</seg></tuv>
+      <tuv xml:lang="de"><seg>Die erfasste Bilddatei hat ein ungültiges Bilddateiformat.\n\nBitte nochmals versuchen.</seg></tuv>
+    </tu>
+    <tu tuid="662">
+      <tuv xml:lang="en"><seg>The buffer passed to te SCSI request was not aligned properly.</seg></tuv>
+      <tuv xml:lang="de"><seg>Der Puffer, der zur SCSI-Anforderung weitergegeben wurde, war nicht richtig ausgerichtet.</seg></tuv>
+    </tu>
+    <tu tuid="663">
+      <tuv xml:lang="en"><seg>The current media type does not have a calibration for this resolution. The image will be sent and will be printed as soon as a calibration is chosen.</seg></tuv>
+      <tuv xml:lang="de"><seg>Der aktuelle Medientyp ist nicht für diese Auflösung kalibriert. Das Bild kann erst nach Auswahl einer Kalibrierung an den Drucker gesendet und gedruckt werden.</seg></tuv>
+    </tu>
+    <tu tuid="664">
+      <tuv xml:lang="en"><seg>The disk &quot;%s&quot; is invalid.</seg></tuv>
+      <tuv xml:lang="de"><seg>Diskette &quot;%s&quot; ist ungültig.</seg></tuv>
+    </tu>
+    <tu tuid="665">
+      <tuv xml:lang="en"><seg>The first compatible media found will automatically be selected (Don&apos;t show this dialog again).</seg></tuv>
+      <tuv xml:lang="de"><seg>Das erste gefundene kompatible Medium wird automatisch ausgewählt (Dieses Fenster nicht mehr anzeigen).</seg></tuv>
+    </tu>
+    <tu tuid="666">
+      <tuv xml:lang="en"><seg>The hardware key has been removed.</seg></tuv>
+      <tuv xml:lang="de"><seg>Hardwareschlüssel wurde entfernt.</seg></tuv>
+    </tu>
+    <tu tuid="667">
+      <tuv xml:lang="en"><seg>The image is too large for the selected media\nPrintable Area %d Pixels\nImage Width %d Pixels</seg></tuv>
+      <tuv xml:lang="de"><seg>Das Bild ist zu groß für das ausgewählte Medium\nDruckbereich %d Pixel\nBildbreite %d Pixel</seg></tuv>
+    </tu>
+    <tu tuid="668">
+      <tuv xml:lang="en"><seg>The ink system is not primed.</seg></tuv>
+      <tuv xml:lang="de"><seg>Das Tintensystem ist nicht bereit.</seg></tuv>
+    </tu>
+    <tu tuid="669">
+      <tuv xml:lang="en"><seg>The list of medias is empty. Please verify that one or more media have been correctly loaded on the printer and in the Epson Control Dashboard.</seg></tuv>
+      <tuv xml:lang="de"><seg>Die Liste der Medien ist leer. Prüfen Sie, ob Medien im Drucker und im Epson Control Dashboard korrekt geladen wurden.</seg></tuv>
+    </tu>
+    <tu tuid="670">
+      <tuv xml:lang="en"><seg>The media offset and image width is greater than the print width allowed. Please check your media options.</seg></tuv>
+      <tuv xml:lang="de"><seg>Der Medienabstand und die Bildbreite sind größer als die Druckerbreite zulässt. Bitte überprüfen Sie Ihre Medienoptionen.</seg></tuv>
+    </tu>
+    <tu tuid="671">
+      <tuv xml:lang="en"><seg>The new media&apos;s color configuration may require ink restrictions in order to get good output.  If you would like to set ink restrictions now, press the Ink Restrictions button.  Otherwise press the Next button.</seg></tuv>
+      <tuv xml:lang="de"><seg>Die Farbkonfiguration des neuen Mediums kann eine Tintenbeschränkung erfordern, um gute Ergebnisse zu erzielen. Klicken Sie auf Tintenbeschränkungen, wenn Sie diese durchführen wollen. Ansonsten auf Weiter klicken.</seg></tuv>
+    </tu>
+    <tu tuid="672">
+      <tuv xml:lang="en"><seg>The print head temperature is too high. Please wait.</seg></tuv>
+      <tuv xml:lang="de"><seg>Die Druckkopftemperatur ist zu hoch. Bitte warten.</seg></tuv>
+    </tu>
+    <tu tuid="673">
+      <tuv xml:lang="en"><seg>The printer has reported the following error(s):\n\n</seg></tuv>
+      <tuv xml:lang="de"><seg>Der Drucker hat den (die) folgende(n) Fehler gemeldet:\n\n</seg></tuv>
+    </tu>
+    <tu tuid="674">
+      <tuv xml:lang="en"><seg>The printer is cooling the print heads. Please wait. (The ambient temperature must be decreased to avoid print interruption.) After 10 minutes of interruption, you can select to start or cancel the print.</seg></tuv>
+      <tuv xml:lang="de"><seg>Der Drucker kühlt gerade die Druckköpfe. Bitte warten. (Die Umgebungstemperatur muss verringert werden, um eine Druckunterbrechung zu vermeiden.) Nach 10 Minuten Unterbrechung können Sie wählen, ob der Druck gestartet oder abgebrochen werden soll.</seg></tuv>
+    </tu>
+    <tu tuid="675">
+      <tuv xml:lang="en"><seg>The printer must be connected via TCP/IP to use get status information</seg></tuv>
+      <tuv xml:lang="de"><seg>Der Drucker muss über TCP/IP angeschlossen werden, um Statusinformationen zu erhalten.</seg></tuv>
+    </tu>
+    <tu tuid="676">
+      <tuv xml:lang="en"><seg>The printer&apos;s serial number matches the serial number entered in the &quot;Global Printer Options&quot; dialog</seg></tuv>
+      <tuv xml:lang="de"><seg>Die Seriennummer des Druckers stimmt mit der im Dialogfeld „Globale Druckeroptionen“ eingegebenen Seriennummer überein</seg></tuv>
+    </tu>
+    <tu tuid="677">
+      <tuv xml:lang="en"><seg>The requested data was not found</seg></tuv>
+      <tuv xml:lang="de"><seg>Die angeforderten Daten wurden nicht gefunden</seg></tuv>
+    </tu>
+    <tu tuid="678">
+      <tuv xml:lang="en"><seg>The selected print mode is invalid.</seg></tuv>
+      <tuv xml:lang="de"><seg>Der ausgewählte Druckmodus ist ungültig.</seg></tuv>
+    </tu>
+    <tu tuid="679">
+      <tuv xml:lang="en"><seg>The source must be given a name</seg></tuv>
+      <tuv xml:lang="de"><seg>Die Quelle muss einen Namen erhalten.</seg></tuv>
+    </tu>
+    <tu tuid="680">
+      <tuv xml:lang="en"><seg>The swatch format is not valid. Please check your values.</seg></tuv>
+      <tuv xml:lang="de"><seg>Das Swatch-Format ist ungültig. Bitte überprüfen Sie die eingegebenen Werte.</seg></tuv>
+    </tu>
+    <tu tuid="681">
+      <tuv xml:lang="en"><seg>The write has failed</seg></tuv>
+      <tuv xml:lang="de"><seg>Schreiben fehlgeschlagen</seg></tuv>
+    </tu>
+    <tu tuid="682">
+      <tuv xml:lang="en"><seg>There are no paths to cut</seg></tuv>
+      <tuv xml:lang="de"><seg>Keine Pfade zum Schneiden vorhanden</seg></tuv>
+    </tu>
+    <tu tuid="683">
+      <tuv xml:lang="en"><seg>There is currently no key data available.  Please refresh the view or open a valid .keyfile file.</seg></tuv>
+      <tuv xml:lang="de"><seg>Derzeit sind keine Schlüsseldaten verfügbar.  Aktualisieren Sie die Ansicht, oder öffnen Sie eine gültige KEYFILE-Datei.</seg></tuv>
+    </tu>
+    <tu tuid="684">
+      <tuv xml:lang="en"><seg>There may be problems when the width is less than %.1f inches (%.1f cm).</seg></tuv>
+      <tuv xml:lang="de"><seg>Wenn die Breite weniger als %.1f Zoll (%.1f cm) beträgt, können Probleme auftreten.</seg></tuv>
+    </tu>
+    <tu tuid="685">
+      <tuv xml:lang="en"><seg>There was an error during processing!</seg></tuv>
+      <tuv xml:lang="de"><seg>Bei der Verarbeitung ist ein Fehler aufgetreten!</seg></tuv>
+    </tu>
+    <tu tuid="686">
+      <tuv xml:lang="en"><seg>There was an error setting the resolution for the Scitex Screen.</seg></tuv>
+      <tuv xml:lang="de"><seg>Fehler beim Einrichten der Auflösung für das Scitex-Raster</seg></tuv>
+    </tu>
+    <tu tuid="687">
+      <tuv xml:lang="en"><seg>Thin</seg></tuv>
+      <tuv xml:lang="de"><seg>Dünn</seg></tuv>
+    </tu>
+    <tu tuid="688">
+      <tuv xml:lang="en"><seg>This column can not be hidden</seg></tuv>
+      <tuv xml:lang="de"><seg>Diese Spalte kann nicht ausgeblendet werden</seg></tuv>
+    </tu>
+    <tu tuid="689">
+      <tuv xml:lang="en"><seg>This dialog allows you to reassign the printer driver&apos;s default output channels to different color bars on the printer. Each output channel must have a unique number from 1-8.</seg></tuv>
+      <tuv xml:lang="de"><seg>In diesem Dialogfeld können Sie die Standardausgabekanäle des Druckertreibers anderen Farbleisten am Drucker zuordnen. Jeder Ausgabekanal benötigt eine eindeutige Nummer zwischen 1 und 8.</seg></tuv>
+    </tu>
+    <tu tuid="690">
+      <tuv xml:lang="en"><seg>This job is still waiting to be printed. It can not be reprinted.</seg></tuv>
+      <tuv xml:lang="de"><seg>Dieser Auftrag wartet auf den Druck. Der Auftrag kann nicht neu gedruckt werden.</seg></tuv>
+    </tu>
+    <tu tuid="691">
+      <tuv xml:lang="en"><seg>This step is used to verify that the adjustments made in the G7® Grayscale Correction step are within G7® Grayscale tolerances.</seg></tuv>
+      <tuv xml:lang="de"><seg>Mit diesem Schritt wird überprüft, ob die im Schritt der G7® Grayscale-Korrektur vorgenommenen Änderungen innerhalb der G7® Grayscale-Toleranzen liegen.</seg></tuv>
+    </tu>
+    <tu tuid="692">
+      <tuv xml:lang="en"><seg>Tiff File Options</seg></tuv>
+      <tuv xml:lang="de"><seg>Optionen für TIFF-Dateien</seg></tuv>
+    </tu>
+    <tu tuid="693">
+      <tuv xml:lang="en"><seg>Tile Outline Options</seg></tuv>
+      <tuv xml:lang="de"><seg>Optionen für Kachelumrisse</seg></tuv>
+    </tu>
+    <tu tuid="694">
+      <tuv xml:lang="en"><seg>Tile(s) for %s</seg></tuv>
+      <tuv xml:lang="de"><seg>Kachel(n) für %s</seg></tuv>
+    </tu>
+    <tu tuid="695">
+      <tuv xml:lang="en"><seg>Time Period</seg></tuv>
+      <tuv xml:lang="de"><seg>Zeitraum</seg></tuv>
+    </tu>
+    <tu tuid="696">
+      <tuv xml:lang="en"><seg>To &amp;Bottom</seg></tuv>
+      <tuv xml:lang="de"><seg>An &amp;das Ende</seg></tuv>
+    </tu>
+    <tu tuid="697">
+      <tuv xml:lang="en"><seg>To: %s</seg></tuv>
+      <tuv xml:lang="de"><seg>An: %s</seg></tuv>
+    </tu>
+    <tu tuid="698">
+      <tuv xml:lang="en"><seg>Too many media modes are available for this virtual printer -  the OS limits each virtual printer to %d modes for selection.\nPlease delete all unnecessary media using the Configure Printer dialog.\n\nNOTE: You must rebuild the ppd once you&apos;ve removed all unnecessary media.\nTo do this, simply disable then re-enable the printer within Printer Manager.</seg></tuv>
+      <tuv xml:lang="de"><seg>Für diesen virtuellen Drucker sind zu viele Medienmodi verfügbar - das Betriebssystem begrenzt die Auswahl von Modi für jeden virtuellen Drucker auf %d.\nBitte löschen Sie alle nicht benötigten Medien mithilfe des Dialogfensters &quot;Drucker konfigurieren&quot;.\n\nHINWEIS: Sie müssen die PPD-Dateien neu erstellen, nachdem Sie alle nicht benötigten Medien entfernt haben.\nDeaktivieren Sie dazu einfach den Drucker im Druckermanager, und aktivieren Sie ihn dann erneut.</seg></tuv>
+    </tu>
+    <tu tuid="699">
+      <tuv xml:lang="en"><seg>Top Layer:</seg></tuv>
+      <tuv xml:lang="de"><seg>Oberste Schicht:</seg></tuv>
+    </tu>
+    <tu tuid="700">
+      <tuv xml:lang="en"><seg>Total Area:</seg></tuv>
+      <tuv xml:lang="de"><seg>Gesamter Bereich:</seg></tuv>
+    </tu>
+    <tu tuid="701">
+      <tuv xml:lang="en"><seg>Total Printed Area</seg></tuv>
+      <tuv xml:lang="de"><seg>Gesamter Druckbereich</seg></tuv>
+    </tu>
+    <tu tuid="702">
+      <tuv xml:lang="en"><seg>Transitions</seg></tuv>
+      <tuv xml:lang="de"><seg>Übergänge</seg></tuv>
+    </tu>
+    <tu tuid="703">
+      <tuv xml:lang="en"><seg>Tray 4</seg></tuv>
+      <tuv xml:lang="de"><seg>Fach 4</seg></tuv>
+    </tu>
+    <tu tuid="704">
+      <tuv xml:lang="en"><seg>Tweak Color Profiles</seg></tuv>
+      <tuv xml:lang="de"><seg>Farbprofile ändern</seg></tuv>
+    </tu>
+    <tu tuid="705">
+      <tuv xml:lang="en"><seg>Type: %s</seg></tuv>
+      <tuv xml:lang="de"><seg>Typ: %s</seg></tuv>
+    </tu>
+    <tu tuid="706">
+      <tuv xml:lang="en"><seg>USB connection error</seg></tuv>
+      <tuv xml:lang="de"><seg>USB-Verbindungsfehler</seg></tuv>
+    </tu>
+    <tu tuid="707">
+      <tuv xml:lang="en"><seg>UV Lamp:</seg></tuv>
+      <tuv xml:lang="de"><seg>UV-Lampe:</seg></tuv>
+    </tu>
+    <tu tuid="708">
+      <tuv xml:lang="en"><seg>Unable to Close TWAIN source:</seg></tuv>
+      <tuv xml:lang="de"><seg>TWAIN-Quelle konnte nicht geschlossen werden:</seg></tuv>
+    </tu>
+    <tu tuid="709">
+      <tuv xml:lang="en"><seg>Unable to build the list of frames.</seg></tuv>
+      <tuv xml:lang="de"><seg>Nicht in der Lage, Frame-Liste zu erstellen.</seg></tuv>
+    </tu>
+    <tu tuid="710">
+      <tuv xml:lang="en"><seg>Unable to create start file &apos;%s&apos;\n</seg></tuv>
+      <tuv xml:lang="de"><seg>Startdatei &quot;%s&quot; konnte nicht erstellt werden\n</seg></tuv>
+    </tu>
+    <tu tuid="711">
+      <tuv xml:lang="en"><seg>Unable to find default browser.  Please visit http://www.printmetryx.com to view PrintMetryx.</seg></tuv>
+      <tuv xml:lang="de"><seg>Es kann kein Standardbrowser gefunden werden. Bitte besuchen Sie PrintMetryx unter http://www.printmetryx.com.</seg></tuv>
+    </tu>
+    <tu tuid="712">
+      <tuv xml:lang="en"><seg>Unable to initialize Color Device Libarary.\nPlease check installation.</seg></tuv>
+      <tuv xml:lang="de"><seg>Farbgerätebibliothek konnte nicht installiert werden.\nÜberprüfen Sie die Installation.</seg></tuv>
+    </tu>
+    <tu tuid="713">
+      <tuv xml:lang="en"><seg>Unable to open a connection to the selector software. Port cannot be configured.</seg></tuv>
+      <tuv xml:lang="de"><seg>Nicht in der Lage, eine Verbindung zur Auswahlsoftware zu öffnen. Anschluss kann nicht konfiguriert werden.</seg></tuv>
+    </tu>
+    <tu tuid="714">
+      <tuv xml:lang="en"><seg>Unable to process image (</seg></tuv>
+      <tuv xml:lang="de"><seg>Bild kann nicht verarbeitet werden (</seg></tuv>
+    </tu>
+    <tu tuid="715">
+      <tuv xml:lang="en"><seg>Unable to send print data to the printer.</seg></tuv>
+      <tuv xml:lang="de"><seg>Kann Druckdaten nicht zum Drucker senden.</seg></tuv>
+    </tu>
+    <tu tuid="716">
+      <tuv xml:lang="en"><seg>Undefined</seg></tuv>
+      <tuv xml:lang="de"><seg>Undefiniert</seg></tuv>
+    </tu>
+    <tu tuid="717">
+      <tuv xml:lang="en"><seg>Unexpected bus free.</seg></tuv>
+      <tuv xml:lang="de"><seg>Unerwartete Bus-Freigabe.</seg></tuv>
+    </tu>
+    <tu tuid="718">
+      <tuv xml:lang="en"><seg>Uniform Area</seg></tuv>
+      <tuv xml:lang="de"><seg>Einheitlicher Bereich</seg></tuv>
+    </tu>
+    <tu tuid="719">
+      <tuv xml:lang="en"><seg>Unknown Error</seg></tuv>
+      <tuv xml:lang="de"><seg>Unbekannter Fehler</seg></tuv>
+    </tu>
+    <tu tuid="720">
+      <tuv xml:lang="en"><seg>Unknown error 0x34</seg></tuv>
+      <tuv xml:lang="de"><seg>Unbekannter Fehler 0x34</seg></tuv>
+    </tu>
+    <tu tuid="721">
+      <tuv xml:lang="en"><seg>Unknown warning 0x0C</seg></tuv>
+      <tuv xml:lang="de"><seg>Unbekannte Warnung 0x0C</seg></tuv>
+    </tu>
+    <tu tuid="722">
+      <tuv xml:lang="en"><seg>Unknown warning 0x3A</seg></tuv>
+      <tuv xml:lang="de"><seg>Unbekannte Warnung 0x3A</seg></tuv>
+    </tu>
+    <tu tuid="723">
+      <tuv xml:lang="en"><seg>Unknown warning 0x5D</seg></tuv>
+      <tuv xml:lang="de"><seg>Unbekannte Warnung 0x5D</seg></tuv>
+    </tu>
+    <tu tuid="724">
+      <tuv xml:lang="en"><seg>Unregistered Version -</seg></tuv>
+      <tuv xml:lang="de"><seg>Nicht registrierte Version -</seg></tuv>
+    </tu>
+    <tu tuid="725">
+      <tuv xml:lang="en"><seg>Update Driver</seg></tuv>
+      <tuv xml:lang="de"><seg>Treiber aktualisieren</seg></tuv>
+    </tu>
+    <tu tuid="726">
+      <tuv xml:lang="en"><seg>Update the hardware key\nUpdate Key</seg></tuv>
+      <tuv xml:lang="de"><seg>Aktualisiert den Hardwareschlüssel\nSchlüssel aktualisieren</seg></tuv>
+    </tu>
+    <tu tuid="727">
+      <tuv xml:lang="en"><seg>Upgrade to Version 5</seg></tuv>
+      <tuv xml:lang="de"><seg>Upgrade auf Version 5</seg></tuv>
+    </tu>
+    <tu tuid="728">
+      <tuv xml:lang="en"><seg>Use &quot;G7 Native CMY&quot;</seg></tuv>
+      <tuv xml:lang="de"><seg>„G7 Native CMY“ verwenden</seg></tuv>
+    </tu>
+    <tu tuid="729">
+      <tuv xml:lang="en"><seg>Use Compression</seg></tuv>
+      <tuv xml:lang="de"><seg>Komprimierung</seg></tuv>
+    </tu>
+    <tu tuid="730">
+      <tuv xml:lang="en"><seg>Use Enhanced Print Mode</seg></tuv>
+      <tuv xml:lang="de"><seg>Erweiterten Druckmodus verwenden</seg></tuv>
+    </tu>
+    <tu tuid="731">
+      <tuv xml:lang="en"><seg>Use Light Ink at 100% Color Density</seg></tuv>
+      <tuv xml:lang="de"><seg>Helle Tinte mit Tonwert 100 % verwenden</seg></tuv>
+    </tu>
+    <tu tuid="732">
+      <tuv xml:lang="en"><seg>Use Pre Heater</seg></tuv>
+      <tuv xml:lang="de"><seg>Vorheizelement verwenden</seg></tuv>
+    </tu>
+    <tu tuid="733">
+      <tuv xml:lang="en"><seg>Use Watermark</seg></tuv>
+      <tuv xml:lang="de"><seg>Wasserzeichen verwenden</seg></tuv>
+    </tu>
+    <tu tuid="734">
+      <tuv xml:lang="en"><seg>Use default EPSON AccuPhoto light ink separations and ink restrictions.</seg></tuv>
+      <tuv xml:lang="de"><seg>Verwenden Sie standardmäßige EPSON AccuPhoto-Separationen heller Tinte und -Tintenbeschränkungen.</seg></tuv>
+    </tu>
+    <tu tuid="735">
+      <tuv xml:lang="en"><seg>Use profile-based substrate correction</seg></tuv>
+      <tuv xml:lang="de"><seg>Profilbasierte Substratkorrektur anwenden</seg></tuv>
+    </tu>
+    <tu tuid="736">
+      <tuv xml:lang="en"><seg>Used ink tank is full.\n</seg></tuv>
+      <tuv xml:lang="de"><seg>Alttintenbehälter ist voll .\n</seg></tuv>
+    </tu>
+    <tu tuid="737">
+      <tuv xml:lang="en"><seg>User defined data</seg></tuv>
+      <tuv xml:lang="de"><seg>Benutzerdefinierte Daten</seg></tuv>
+    </tu>
+    <tu tuid="738">
+      <tuv xml:lang="en"><seg>VALID SETTINGS</seg></tuv>
+      <tuv xml:lang="de"><seg>GÜLTIGE EINSTELLUNGEN</seg></tuv>
+    </tu>
+    <tu tuid="739">
+      <tuv xml:lang="en"><seg>VSD4 (Variable Dot-4)</seg></tuv>
+      <tuv xml:lang="de"><seg>VSD4 (Variabler Punkt-4)</seg></tuv>
+    </tu>
+    <tu tuid="740">
+      <tuv xml:lang="en"><seg>Value (0-100)</seg></tuv>
+      <tuv xml:lang="de"><seg>Wert (0-100)</seg></tuv>
+    </tu>
+    <tu tuid="741">
+      <tuv xml:lang="en"><seg>Variable Dot Curves</seg></tuv>
+      <tuv xml:lang="de"><seg>Variable Punktkurven</seg></tuv>
+    </tu>
+    <tu tuid="742">
+      <tuv xml:lang="en"><seg>Varnish Ink End</seg></tuv>
+      <tuv xml:lang="de"><seg>Lacktinte aufgebraucht</seg></tuv>
+    </tu>
+    <tu tuid="743">
+      <tuv xml:lang="en"><seg>Version 2.x</seg></tuv>
+      <tuv xml:lang="de"><seg>Version 2.x</seg></tuv>
+    </tu>
+    <tu tuid="744">
+      <tuv xml:lang="en"><seg>Vertical Repeats</seg></tuv>
+      <tuv xml:lang="de"><seg>Vertikale Wiederholungen</seg></tuv>
+    </tu>
+    <tu tuid="745">
+      <tuv xml:lang="en"><seg>View Measurements...</seg></tuv>
+      <tuv xml:lang="de"><seg>Messungen anzeigen...</seg></tuv>
+    </tu>
+    <tu tuid="746">
+      <tuv xml:lang="en"><seg>Views</seg></tuv>
+      <tuv xml:lang="de"><seg>Ansichten</seg></tuv>
+    </tu>
+    <tu tuid="747">
+      <tuv xml:lang="en"><seg>WARNING: Do not use the buttons on the table, or move the device out of range.</seg></tuv>
+      <tuv xml:lang="de"><seg>ACHTUNG: Benutzen Sie nicht die Schaltflächen auf der Tabelle oder schieben das Geräte außerhalb des Rahmens.</seg></tuv>
+    </tu>
+    <tu tuid="748">
+      <tuv xml:lang="en"><seg>Wait for the preset to be installed before clicking OK.</seg></tuv>
+      <tuv xml:lang="de"><seg>Warten Sie, bis die Voreinstellung installiert wurde, bevor Sie auf „OK“ klicken.</seg></tuv>
+    </tu>
+    <tu tuid="749">
+      <tuv xml:lang="en"><seg>Waiting to Rip</seg></tuv>
+      <tuv xml:lang="de"><seg>Warten auf RIP</seg></tuv>
+    </tu>
+    <tu tuid="750">
+      <tuv xml:lang="en"><seg>Warning Message Countdown Time</seg></tuv>
+      <tuv xml:lang="de"><seg>Warnmeldung Countdown-Zeit</seg></tuv>
+    </tu>
+    <tu tuid="751">
+      <tuv xml:lang="en"><seg>Warning:  Use of any non-Normal mode may result in loss of communication to the hardware protection key.  This will prevent you from performing some tasks.</seg></tuv>
+      <tuv xml:lang="de"><seg>Warnung:  Die Benutzung eines jeglichen nicht normalen Modus kann den Kommunikationsverlust zum Hardware Schutzschlüssel zur Folge haben. Dies wird Sie daran hindern einige Aufgaben durchzuführen.</seg></tuv>
+    </tu>
+    <tu tuid="752">
+      <tuv xml:lang="en"><seg>Warning: continuing may delete any existing swatch readings.</seg></tuv>
+      <tuv xml:lang="de"><seg>Warnung: Wenn Sie fortfahren, werden vorhandene Swatch-Werte möglicherweise gelöscht.</seg></tuv>
+    </tu>
+    <tu tuid="753">
+      <tuv xml:lang="en"><seg>Watermark</seg></tuv>
+      <tuv xml:lang="de"><seg>Wasserzeichen</seg></tuv>
+    </tu>
+    <tu tuid="754">
+      <tuv xml:lang="en"><seg>Web Portal</seg></tuv>
+      <tuv xml:lang="de"><seg>Webportal</seg></tuv>
+    </tu>
+    <tu tuid="755">
+      <tuv xml:lang="en"><seg>When enabled, this will add a drop-shadow to the text.</seg></tuv>
+      <tuv xml:lang="de"><seg>Wenn diese Option aktiviert ist, wird dem Text ein Schlagschatten hinzugefügt.</seg></tuv>
+    </tu>
+    <tu tuid="756">
+      <tuv xml:lang="en"><seg>White After</seg></tuv>
+      <tuv xml:lang="de"><seg>Weiß nach</seg></tuv>
+    </tu>
+    <tu tuid="757">
+      <tuv xml:lang="en"><seg>White Ink Options</seg></tuv>
+      <tuv xml:lang="de"><seg>Optionen weiße Tinte</seg></tuv>
+    </tu>
+    <tu tuid="758">
+      <tuv xml:lang="en"><seg>White Plotting</seg></tuv>
+      <tuv xml:lang="de"><seg>Weiß Plotten</seg></tuv>
+    </tu>
+    <tu tuid="759">
+      <tuv xml:lang="en"><seg>White2:</seg></tuv>
+      <tuv xml:lang="de"><seg>Weiß2:</seg></tuv>
+    </tu>
+    <tu tuid="760">
+      <tuv xml:lang="en"><seg>Windowed</seg></tuv>
+      <tuv xml:lang="de"><seg>Mit Fenstern</seg></tuv>
+    </tu>
+    <tu tuid="761">
+      <tuv xml:lang="en"><seg>Work offline?</seg></tuv>
+      <tuv xml:lang="de"><seg>Offline arbeiten?</seg></tuv>
+    </tu>
+    <tu tuid="762">
+      <tuv xml:lang="en"><seg>Wrap</seg></tuv>
+      <tuv xml:lang="de"><seg>Gefaltet</seg></tuv>
+    </tu>
+    <tu tuid="763">
+      <tuv xml:lang="en"><seg>Wrong paper path</seg></tuv>
+      <tuv xml:lang="de"><seg>Falsche Papierzuführung</seg></tuv>
+    </tu>
+    <tu tuid="764">
+      <tuv xml:lang="en"><seg>X10.5.0 (2013042120) QA Build</seg></tuv>
+      <tuv xml:lang="de"><seg>X10.5.0 (2013042120) QA-Build</seg></tuv>
+    </tu>
+    <tu tuid="765">
+      <tuv xml:lang="en"><seg>Xerox ES</seg></tuv>
+      <tuv xml:lang="de"><seg>Xerox ES</seg></tuv>
+    </tu>
+    <tu tuid="766">
+      <tuv xml:lang="en"><seg>Y Repeat Interval</seg></tuv>
+      <tuv xml:lang="de"><seg>Y-Wiederholungsintervall</seg></tuv>
+    </tu>
+    <tu tuid="767">
+      <tuv xml:lang="en"><seg>Yellow 2</seg></tuv>
+      <tuv xml:lang="de"><seg>Gelb 2</seg></tuv>
+    </tu>
+    <tu tuid="768">
+      <tuv xml:lang="en"><seg>Yes, stop creating this mode and save changes</seg></tuv>
+      <tuv xml:lang="de"><seg>Ja. Erstellung des Modus stoppen und Änderungen speichern</seg></tuv>
+    </tu>
+    <tu tuid="769">
+      <tuv xml:lang="en"><seg>You are about to delete a Resolution. This action cannot be undone.</seg></tuv>
+      <tuv xml:lang="de"><seg>Sie sind im Begriff, eine Auflösung zu löschen. Dieser Vorgang kann nicht rückgängig gemacht werden.</seg></tuv>
+    </tu>
+    <tu tuid="770">
+      <tuv xml:lang="en"><seg>You have successfully edited this mode.</seg></tuv>
+      <tuv xml:lang="de"><seg>Sie haben diesen Modus erfolgreich bearbeitet.</seg></tuv>
+    </tu>
+    <tu tuid="771">
+      <tuv xml:lang="en"><seg>You need to edit Step &amp;&amp; Repeat jobs with Job Editor</seg></tuv>
+      <tuv xml:lang="de"><seg>Schritt und Wiederholung-Aufträge müssen mit Job Editor bearbeitet werden.</seg></tuv>
+    </tu>
+    <tu tuid="772">
+      <tuv xml:lang="en"><seg>Your hardware key could not be found.  Please check that you have access to a network key (enter localhost:1947 in your internet browser to view all keys on the network) or that the proper key is connected to a USB port on this machine. If there is a key, verify that the correct security device drivers are installed.</seg></tuv>
+      <tuv xml:lang="de"><seg>Ihr Hardwareschlüssel wurde nicht gefunden. Überprüfen Sie, ob Sie Zugriff auf einen Netzwerkschlüssel haben (geben Sie &quot;localhost:1947&quot; Ihren Internetbrowser ein, um alle Schlüssel im Netzwerk anzuzeigen) oder ob der richtige Schlüssel mit einem USB-Anschluss dieses Rechners verbunden ist. Wenn ein Schlüssel vorhanden ist, stellen Sie sicher, dass die richtigen Sicherheitsgerätetreiber installiert sind.</seg></tuv>
+    </tu>
+    <tu tuid="773">
+      <tuv xml:lang="en"><seg>Your hardware key is programmed to ONLY run BETA software.  Please contact your dealer for a key upgrade.\n</seg></tuv>
+      <tuv xml:lang="de"><seg>Ihr Hardwareschlüssel unterstützt AUSSCHLIESSLICH BETA-Software. Für ein Upgrade des Schlüssels wenden Sie sich bitte an Ihren Händler.\n</seg></tuv>
+    </tu>
+    <tu tuid="774">
+      <tuv xml:lang="en"><seg>Zero-line Marks</seg></tuv>
+      <tuv xml:lang="de"><seg>Nulllinien-Markierungen</seg></tuv>
+    </tu>
+    <tu tuid="775">
+      <tuv xml:lang="en"><seg>Zooms in to the next default zoom level</seg></tuv>
+      <tuv xml:lang="de"><seg>Vergrößert die nächste Standard-Zoomebene</seg></tuv>
+    </tu>
+    <tu tuid="776">
+      <tuv xml:lang="en"><seg>[Process-</seg></tuv>
+      <tuv xml:lang="de"><seg>[Verarbeiten-</seg></tuv>
+    </tu>
+    <tu tuid="777">
+      <tuv xml:lang="en"><seg>\nLoaded substrate:\n</seg></tuv>
+      <tuv xml:lang="de"><seg>\nTrägermedium geladen:\n</seg></tuv>
+    </tu>
+    <tu tuid="778">
+      <tuv xml:lang="en"><seg>\t\n\r\\ ()&lt;&gt;[]{}/%</seg></tuv>
+      <tuv xml:lang="de"><seg>\t\n\r\\ ()&lt;&gt;[]{}/%</seg></tuv>
+    </tu>
+    <tu tuid="779">
+      <tuv xml:lang="en"><seg>borderless</seg></tuv>
+      <tuv xml:lang="de"><seg>randlos</seg></tuv>
+    </tu>
+    <tu tuid="780">
+      <tuv xml:lang="en"><seg>fail</seg></tuv>
+      <tuv xml:lang="de"><seg>Misserfolg</seg></tuv>
+    </tu>
+    <tu tuid="781">
+      <tuv xml:lang="en"><seg>lm</seg></tuv>
+      <tuv xml:lang="de"><seg>lm</seg></tuv>
+    </tu>
+    <tu tuid="782">
+      <tuv xml:lang="en"><seg>n%</seg></tuv>
+      <tuv xml:lang="de"><seg>n%</seg></tuv>
+    </tu>
+    <tu tuid="783">
+      <tuv xml:lang="en"><seg>printer</seg></tuv>
+      <tuv xml:lang="de"><seg>Drucker</seg></tuv>
+    </tu>
+    <tu tuid="784">
+      <tuv xml:lang="en"><seg>running</seg></tuv>
+      <tuv xml:lang="de"><seg>wird ausgeführt</seg></tuv>
+    </tu>
+    <tu tuid="785">
+      <tuv xml:lang="en"><seg>¼</seg></tuv>
+      <tuv xml:lang="de"><seg>¼</seg></tuv>
+    </tu>
+  </body>
+</tmx>

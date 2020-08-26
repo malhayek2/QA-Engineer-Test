@@ -1,0 +1,3150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header adminlang="en-US" creationdate="2020-08-25T23:30:03" creationtool="Onyx: Dictionary Strings Util" creationtoolversion="1.0" datatype="unknown" o-tmf="unknown" segtype="sentence" srclang="en"/>
+  <body>
+    <tu tuid="0">
+      <tuv xml:lang="en"><seg> of </seg></tuv>
+      <tuv xml:lang="ko"><seg> 의 </seg></tuv>
+    </tu>
+    <tu tuid="1">
+      <tuv xml:lang="en"><seg>% of Patches0</seg></tuv>
+      <tuv xml:lang="ko"><seg>패치 %</seg></tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="en"><seg>%.2lf sq m000</seg></tuv>
+      <tuv xml:lang="ko"><seg>%.2lf sq m</seg></tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="en"><seg>%d Color</seg></tuv>
+      <tuv xml:lang="ko"><seg>%d 색상</seg></tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="en"><seg>%d sec</seg></tuv>
+      <tuv xml:lang="ko"><seg>%d초</seg></tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="en"><seg>%s &amp;Help</seg></tuv>
+      <tuv xml:lang="ko"><seg>%s 도움말(&amp;H)</seg></tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="en"><seg>%s Job/Image Files|*.onx;*.tif;*.tiff;*.tga;*.bmp;*.dib;*.ct;*.sct;*.jpg;*.jpe;*.jpeg;*.jfif;*.jp2;*.psd;*.gif;*.pcx;*.pcd;*.ps;*.eps;*.pdf;*.rpf;*.sid;*.ils;*.png;*.ocw|</seg></tuv>
+      <tuv xml:lang="ko"><seg>%s 작업/이미지 파일|*.onx;*.tif;*.tiff;*.tga;*.bmp;*.dib;*.ct;*.sct;*.jpg;*.jpe;*.jpeg;*.jfif;*.jp2;*.psd;*.gif;*.pcx;*.pcd;*.ps;*.eps;*.pdf;*.rpf;*.sid;*.ils;*.png;*.ocw|</seg></tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="en"><seg>%s Server Configuration</seg></tuv>
+      <tuv xml:lang="ko"><seg>%s 서버 구성</seg></tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="en"><seg>%s is not a valid job path.</seg></tuv>
+      <tuv xml:lang="ko"><seg>%s은(는) 유효한 작업 경로가 아닙니다.</seg></tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="en"><seg>%s:%u</seg></tuv>
+      <tuv xml:lang="ko"><seg>%s:%u</seg></tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="en"><seg>&amp;About CADPrint...</seg></tuv>
+      <tuv xml:lang="ko"><seg>CADPrint 정보(&amp;A)...</seg></tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="en"><seg>&amp;Calibrate Unit</seg></tuv>
+      <tuv xml:lang="ko"><seg>단위 보정(&amp;C)</seg></tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="en"><seg>&amp;Column Number</seg></tuv>
+      <tuv xml:lang="ko"><seg>열 수(&amp;C)</seg></tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="en"><seg>&amp;Cutting Method:</seg></tuv>
+      <tuv xml:lang="ko"><seg>절단 방법 (&amp;C):</seg></tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="en"><seg>&amp;Edit</seg></tuv>
+      <tuv xml:lang="ko"><seg>수정(&amp;E)</seg></tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="en"><seg>&amp;Finish</seg></tuv>
+      <tuv xml:lang="ko"><seg>종료 (&amp;F)</seg></tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="en"><seg>&amp;Inches</seg></tuv>
+      <tuv xml:lang="ko"><seg>인치 (&amp;I)</seg></tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="en"><seg>&amp;Maximum Percent Ink Printed:</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄한 인크의 최대 퍼센트 (&amp;M):</seg></tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="en"><seg>&amp;Nest with other jobs</seg></tuv>
+      <tuv xml:lang="ko"><seg>다른 작업 포함(&amp;N)</seg></tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="en"><seg>&amp;Page Sizes...</seg></tuv>
+      <tuv xml:lang="ko"><seg>페이지 크기(&amp;P)...</seg></tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="en"><seg>&amp;Print Swatch</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린트 스왓치 (&amp;P)</seg></tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="en"><seg>&amp;Red</seg></tuv>
+      <tuv xml:lang="ko"><seg>빨강(&amp;R)</seg></tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="en"><seg>&amp;Roll</seg></tuv>
+      <tuv xml:lang="ko"><seg>롤(&amp;R)</seg></tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="en"><seg>&amp;Set Factor</seg></tuv>
+      <tuv xml:lang="ko"><seg>요소 설정 (&amp;S)</seg></tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="en"><seg>&amp;Tiling</seg></tuv>
+      <tuv xml:lang="ko"><seg>타일링(&amp;T)</seg></tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="en"><seg>&amp;View</seg></tuv>
+      <tuv xml:lang="ko"><seg>보기(&amp;V)</seg></tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="en"><seg>(</seg></tuv>
+      <tuv xml:lang="ko"><seg>(</seg></tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="en"><seg>(3 x 4 color)</seg></tuv>
+      <tuv xml:lang="ko"><seg>(3 x 4 색)</seg></tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="en"><seg>(Date:</seg></tuv>
+      <tuv xml:lang="ko"><seg>(날짜:</seg></tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="en"><seg>(Order #:</seg></tuv>
+      <tuv xml:lang="ko"><seg>(주문 번호</seg></tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="en"><seg>(Total Time:</seg></tuv>
+      <tuv xml:lang="ko"><seg>(총 시간:</seg></tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="en"><seg>*** No predefined modes for this resolution ***</seg></tuv>
+      <tuv xml:lang="ko"><seg>*** 이 해상도에서는 사전 정의된 모드 없음 ***</seg></tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="en"><seg>, Alignment:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 정렬:</seg></tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="en"><seg>, Center Heater:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 가운데 가열기:</seg></tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="en"><seg>, Double Ink:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 이중 잉크:</seg></tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="en"><seg>, Drying Time Between Scans:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 스캔 사이에 건조 시간:</seg></tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="en"><seg>, Feed Up To Dryer:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 공급 최대 건조기:</seg></tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="en"><seg>, Heater Status:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 가열기 상태:</seg></tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="en"><seg>, Interleave Mode:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 인터리브 모드:</seg></tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="en"><seg>, Left (Inner - Middle):</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 왼쪽(내부 - 중간):</seg></tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="en"><seg>, Media Feed Mode:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 매체 공급 모드:</seg></tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="en"><seg>, Multilayer:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 멀티레이어:</seg></tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="en"><seg>, Paper Size:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 용지 크기:</seg></tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="en"><seg>, Pen Tolerances: K:%u, C:%u, M:%u, Y:%u</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 펜 허용: K:%u, C:%u, M:%u, Y:%u</seg></tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="en"><seg>, Print Direction: %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 인쇄 방향: %s</seg></tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="en"><seg>, Rear Heater:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 후면 가열기:</seg></tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="en"><seg>, Scan Speed:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 스캔 속도:</seg></tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="en"><seg>, Spot Color Print Mode:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 스폿 색상 인쇄 모드:</seg></tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="en"><seg>, Use Control Panel Settings:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 제어판 설정 사용:</seg></tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="en"><seg>, Weaving:</seg></tuv>
+      <tuv xml:lang="ko"><seg>, 위빙:</seg></tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="en"><seg>- You have non zero paper value(s) in the output curves.\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>- 출력 곡선의 용지 값이 0이 아닙니다.\n</seg></tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="en"><seg>00:00:00</seg></tuv>
+      <tuv xml:lang="ko"><seg>00:00:00</seg></tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="en"><seg>1) &amp;Cyan Limit:</seg></tuv>
+      <tuv xml:lang="ko"><seg>1) 청색 한계(&amp;C):</seg></tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="en"><seg>100% Cyan DeltaE00</seg></tuv>
+      <tuv xml:lang="ko"><seg>100% 청록색 DeltaE00</seg></tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="en"><seg>120.5 in</seg></tuv>
+      <tuv xml:lang="ko"><seg>120.5인치</seg></tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="en"><seg>16-Pass</seg></tuv>
+      <tuv xml:lang="ko"><seg>16 패스</seg></tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="en"><seg>2 Pass None 2</seg></tuv>
+      <tuv xml:lang="ko"><seg>2 패스 없음 2</seg></tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="en"><seg>2-Sided Printing</seg></tuv>
+      <tuv xml:lang="ko"><seg>양면 인쇄</seg></tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="en"><seg>2013-04-11T14:37SMountain Daylight Time</seg></tuv>
+      <tuv xml:lang="ko"><seg>2013-04-11T14:37S산악 지역 일광절약 시간</seg></tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="en"><seg>3 Step Cut (High)</seg></tuv>
+      <tuv xml:lang="ko"><seg>3단계 컷(높음)</seg></tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="en"><seg>3.25 in./sec</seg></tuv>
+      <tuv xml:lang="ko"><seg>3.25 인치/초</seg></tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="en"><seg>315 - Mode Options</seg></tuv>
+      <tuv xml:lang="ko"><seg>315 - 모드 옵션</seg></tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="en"><seg>360x720, 4p, Bi, 320 cps</seg></tuv>
+      <tuv xml:lang="ko"><seg>360x720, 4p, 양방향, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="en"><seg>4 Pass Wave 1</seg></tuv>
+      <tuv xml:lang="ko"><seg>4 패스 웨이브 1</seg></tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="en"><seg>4.00 in./sec</seg></tuv>
+      <tuv xml:lang="ko"><seg>4.00인치/초</seg></tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="en"><seg>5) &amp;Green Limit:</seg></tuv>
+      <tuv xml:lang="ko"><seg>5) 녹색 한계(&amp;G):</seg></tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="en"><seg>540x1440, 12p, 460 cps, Bidir</seg></tuv>
+      <tuv xml:lang="ko"><seg>540x1440, 12p, 460 cps, 양방향</seg></tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="en"><seg>6 pass</seg></tuv>
+      <tuv xml:lang="ko"><seg>6 패스</seg></tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="en"><seg>720-FD Mode</seg></tuv>
+      <tuv xml:lang="ko"><seg>720-FD 모드</seg></tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="en"><seg>8 Pass / 4 Pass</seg></tuv>
+      <tuv xml:lang="ko"><seg>8 패스 / 4  패스</seg></tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="en"><seg>&lt;&lt;</seg></tuv>
+      <tuv xml:lang="ko"><seg>&lt;&lt;</seg></tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="en"><seg>&lt;None&gt;</seg></tuv>
+      <tuv xml:lang="ko"><seg>&lt;None&gt;</seg></tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="en"><seg>&lt;b&gt;Dark inks only:&lt;/b&gt; Disabled</seg></tuv>
+      <tuv xml:lang="ko"><seg>&lt;b&gt;어두운 잉크만:&lt;/b&gt; 사용 안 함</seg></tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="en"><seg>&lt;b&gt;Transition:&lt;/b&gt; If your ink configuration has multiple ink levels per channel (e.g. Dark ink, plus light ink) this setting controls the rate of the transition between the two levels. It can be observed within the plot as a change in the angle of the curves.</seg></tuv>
+      <tuv xml:lang="ko"><seg>&lt;b&gt;전환:&lt;/b&gt; 잉크 구성에 채널별로 여러 잉크 레벨이 있는 경우(예: 어두운 잉크와 밝은 잉크), 이 설정은 이 두 레벨 간 전환 비율을 제어합니다. 플롯 내에서 곡선 각도 변경으로 나타날 수 있습니다.</seg></tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="en"><seg>&lt;html&gt;Select the cutter(s) to use.&lt;br&gt;This list may be changed later in the Application Settings dialog.&lt;/html&gt;</seg></tuv>
+      <tuv xml:lang="ko"><seg>&lt;html&gt;사용할 커터를 선택하십시오.&lt;br&gt;이 목록은 나중에 응용 프로그램 설정 대화 상자에서 변경할 수 있습니다.&lt;/html&gt;</seg></tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="en"><seg>&gt;&gt;&gt;&gt; Interpreter Output and Errors &lt;&lt;&lt;&lt;</seg></tuv>
+      <tuv xml:lang="ko"><seg>&gt;&gt;&gt;&gt; 해석기 출력과 오류 &lt;&lt;&lt;&lt;</seg></tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="en"><seg>A Mode is a name that represents a method of printing. A Mode determines Resolution, Dot Pattern, Ink Configuration, and other settings.</seg></tuv>
+      <tuv xml:lang="ko"><seg>모드는 인쇄 방식을 나타내는 이름입니다. 모드는 해상도, 도트 형식, 잉크 구성 및 기타 설정을 지정합니다.</seg></tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="en"><seg>A filter with this name already exists.  Please enter a name other than %s for this filter.</seg></tuv>
+      <tuv xml:lang="ko"><seg>이런 이름의 필터가 이미 존재합니다. 이 필터의 이름으로 %s 외의 이름을 입력하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="en"><seg>A mode with this name already exists in the media.</seg></tuv>
+      <tuv xml:lang="ko"><seg>이 이름의 모드가 이미 매체에 있습니다.</seg></tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="en"><seg>A skew jam.\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>휘어져 걸림.\n</seg></tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="en"><seg>A:</seg></tuv>
+      <tuv xml:lang="ko"><seg>A:</seg></tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="en"><seg>Abort installation</seg></tuv>
+      <tuv xml:lang="ko"><seg>설치 중단</seg></tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="en"><seg>Above Normal</seg></tuv>
+      <tuv xml:lang="ko"><seg>보통 이상</seg></tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="en"><seg>AccuPhoto GSX Job Options</seg></tuv>
+      <tuv xml:lang="ko"><seg>AccuPhoto GSX 작업 옵션</seg></tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="en"><seg>Activation</seg></tuv>
+      <tuv xml:lang="ko"><seg>활성화</seg></tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="en"><seg>Adapter</seg></tuv>
+      <tuv xml:lang="ko"><seg>어댑터</seg></tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="en"><seg>Add Font</seg></tuv>
+      <tuv xml:lang="ko"><seg>글꼴 추가</seg></tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="en"><seg>Add More Red</seg></tuv>
+      <tuv xml:lang="ko"><seg>적색 추가</seg></tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="en"><seg>Add Resolution</seg></tuv>
+      <tuv xml:lang="ko"><seg>해상도 추가</seg></tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="en"><seg>Add a resolution to the list of available resolutions\n\\Add Resolution</seg></tuv>
+      <tuv xml:lang="ko"><seg>사용할 수 있는 해상도 목록에 해상도를 추가합니다\n\\해상도 추가</seg></tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="en"><seg>Added</seg></tuv>
+      <tuv xml:lang="ko"><seg>추가됨</seg></tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="en"><seg>Adjust if dark areas of rows D and E appear gray</seg></tuv>
+      <tuv xml:lang="ko"><seg>D행과 E행의 어두운 영역이 회색으로 표시되면 조정합니다.</seg></tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="en"><seg>Adv. Black&amp;White Photo</seg></tuv>
+      <tuv xml:lang="ko"><seg>고급 흑백 사진</seg></tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="en"><seg>Advanced Path Generation</seg></tuv>
+      <tuv xml:lang="ko"><seg>고급 경로 생성</seg></tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="en"><seg>After deleting this print mode, the substrate will be also deleted. Are you sure that you want to delete the print mode?</seg></tuv>
+      <tuv xml:lang="ko"><seg>이 인쇄 모드를 삭제하면 인쇄물도 삭제됩니다. 이 인쇄 모드를 삭제하시겠습니까?</seg></tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="en"><seg>Agfa Montana XII / 62</seg></tuv>
+      <tuv xml:lang="ko"><seg>Agfa Montana XII / 62</seg></tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="en"><seg>All %s Job/Image Files|*.onx;*.onc;*.tif;*.tiff;*.tga;*.bmp;*.dib;*.ct;*.sct;*.jpg;*.jpe;*.jpeg;*.jfif;*.jp2;*.psd;*.psb;*.gif;*.pcx;*.pcd;*.sid;*.ps;*.eps;*.pdf;*.rpf;*.ils;*.png|</seg></tuv>
+      <tuv xml:lang="ko"><seg>모든 %s 작업/이미지 파일|*.onx;*.onc;*.tif;*.tiff;*.tga;*.bmp;*.dib;*.ct;*.sct;*.jpg;*.jpe;*.jpeg;*.jfif;*.jp2;*.psd;*.psb;*.gif;*.pcx;*.pcd;*.sid;*.ps;*.eps;*.pdf;*.rpf;*.ils;*.png|</seg></tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="en"><seg>All Medias</seg></tuv>
+      <tuv xml:lang="ko"><seg>모든 용지</seg></tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="en"><seg>All data for station %s will be deleted and cannot be undone. Do you want to continue?</seg></tuv>
+      <tuv xml:lang="ko"><seg>스테이션 %s 의 모든 데이터가 삭제됩니다. 이 작업은 취소할 수 없습니다. 계속하시겠습니까?</seg></tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="en"><seg>Allow Infinite Length Rolls</seg></tuv>
+      <tuv xml:lang="ko"><seg>무제한 길이 롤 허용</seg></tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="en"><seg>Almost empty</seg></tuv>
+      <tuv xml:lang="ko"><seg>거의 비었음</seg></tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="en"><seg>An appropriate set of options is generally preselected automatically based on your ink setup for the media. For most users it is recommended that you simply click &lt;b&gt;Build&lt;/b&gt; to complete the profiling process. Advanced users can access the Build Options by clicking &lt;b&gt;Edit&lt;/b&gt;. The down arrow on the Edit button allows users to configure and save custom setups. These will appear in the Predefined Build Options drop-down menu. &lt;b&gt;NOTE:&lt;/b&gt; Custom built option presets are not auto-selected based on the ink setup of your media.</seg></tuv>
+      <tuv xml:lang="ko"><seg>적절한 옵션 세트는 대개 매체 잉크 설정을 기준으로 자동으로 미리 선택됩니다. 대다수 사용자의 경우 간단히 &lt;b&gt;빌드&lt;/b&gt;를 클릭하여 프로파일링 처리를 완료하는 것이 좋습니다. 고급 사용자는 &lt;b&gt;편집&lt;/b&gt;을 클릭하여 빌드 옵션에 액세스할 수 있습니다. 편집 단추의 아래쪽 화살표를 사용하여 사용자 정의 설정을 구성 및 저장할 수 있습니다. 이 설정은 사전 정의된 빌드 옵션 드롭 다운 메뉴에 표시됩니다. &lt;b&gt;참고:&lt;/b&gt; 사용자 정의로 빌드된 옵션 미리 설정은 매체 잉크 설정에 따라 자동으로 선택되지 않습니다.</seg></tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="en"><seg>An error occurred trying to open a tile for job &quot;%s%s&quot;.\n%s</seg></tuv>
+      <tuv xml:lang="ko"><seg>작업 &quot;%s%s&quot;에 대한 타일 열기를 시도하는 도중에 오류가 발생했습니다.\n%s</seg></tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="en"><seg>An error occurred while processing a command from the client.</seg></tuv>
+      <tuv xml:lang="ko"><seg>클라이언트로부터 명령을 처리하는 동안 오류가 발생하였습니다.</seg></tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="en"><seg>An invalid field in the command data block has been sent to the printer.</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터에 명령 데이터 블록의 잘못된 필드를 전송하였습니다.</seg></tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="en"><seg>Animate cut paths</seg></tuv>
+      <tuv xml:lang="ko"><seg>애니메이션 자르기 경로</seg></tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="en"><seg>Apply Changes</seg></tuv>
+      <tuv xml:lang="ko"><seg>변경 사항 적용</seg></tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="en"><seg>Archive Job Indefinitely</seg></tuv>
+      <tuv xml:lang="ko"><seg>무한대 기록 작업</seg></tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="en"><seg>Are you sure you want to delete %s?</seg></tuv>
+      <tuv xml:lang="ko"><seg>%s을(를) 삭제하시겠습니까?</seg></tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="en"><seg>Are you sure you want to delete this color: (</seg></tuv>
+      <tuv xml:lang="ko"><seg>이 색상을 삭제하시겠습니까? (</seg></tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="en"><seg>Arial</seg></tuv>
+      <tuv xml:lang="ko"><seg>Arial</seg></tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="en"><seg>Assign output channels to process channels</seg></tuv>
+      <tuv xml:lang="ko"><seg>출력 채널을 프로세스 채널에 할당</seg></tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="en"><seg>Auto Adjust</seg></tuv>
+      <tuv xml:lang="ko"><seg>자동 조정</seg></tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="en"><seg>Auto drying</seg></tuv>
+      <tuv xml:lang="ko"><seg>자동 건조</seg></tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="en"><seg>Automatic Even Tiling</seg></tuv>
+      <tuv xml:lang="ko"><seg>자동 짝수 타일링</seg></tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="en"><seg>Automatically import the media currently loaded on the printer</seg></tuv>
+      <tuv xml:lang="ko"><seg>현재 프린터에 로드된 매체를 자동으로 가져오기</seg></tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="en"><seg>Average ΔE</seg></tuv>
+      <tuv xml:lang="ko"><seg>평균 ΔE</seg></tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="en"><seg>Background</seg></tuv>
+      <tuv xml:lang="ko"><seg>배경</seg></tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="en"><seg>Band Reduction:</seg></tuv>
+      <tuv xml:lang="ko"><seg>대역 감소:</seg></tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="en"><seg>Banner 2, 6p, bi, 320 cps</seg></tuv>
+      <tuv xml:lang="ko"><seg>배너 2, 6p, 양방향, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="en"><seg>Banner 4, 4p, bi, 320 cps</seg></tuv>
+      <tuv xml:lang="ko"><seg>배너 4, 4p, 양방향, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="en"><seg>Barcode Properties</seg></tuv>
+      <tuv xml:lang="ko"><seg>바코드 속성</seg></tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="en"><seg>Basic Contone</seg></tuv>
+      <tuv xml:lang="ko"><seg>기본 연속톤</seg></tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="en"><seg>Be sure to export the Zund CutCenter cutter materials</seg></tuv>
+      <tuv xml:lang="ko"><seg>Zund CutCenter 절단기 재료를 내보내십시오.</seg></tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="en"><seg>Beta Version: %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>베타 버전: %s</seg></tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="en"><seg>BiDirectional Printing,</seg></tuv>
+      <tuv xml:lang="ko"><seg>양방향 인쇄,</seg></tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="en"><seg>Bitmap (.bmp)</seg></tuv>
+      <tuv xml:lang="ko"><seg>비트맵(.bmp)</seg></tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="en"><seg>Black Generation Profile Selection</seg></tuv>
+      <tuv xml:lang="ko"><seg>검정색 생성 프로파일 선택</seg></tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="en"><seg>Black Width:</seg></tuv>
+      <tuv xml:lang="ko"><seg>검정 너비:</seg></tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="en"><seg>Bleed Right: %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>화상 물림 재단 오른쪽: %s</seg></tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="en"><seg>Blue Limit</seg></tuv>
+      <tuv xml:lang="ko"><seg>파란색 한계</seg></tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="en"><seg>Borderless</seg></tuv>
+      <tuv xml:lang="ko"><seg>테두리 없음</seg></tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="en"><seg>Bottom Right Corner</seg></tuv>
+      <tuv xml:lang="ko"><seg>오른쪽 아래 모서리</seg></tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="en"><seg>BuffLen value is too small.</seg></tuv>
+      <tuv xml:lang="ko"><seg>BuffLen 값이 너무 작습니다.</seg></tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="en"><seg>Build Profile - %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>프로파일 만들기 - %s</seg></tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="en"><seg>By &amp;Copies</seg></tuv>
+      <tuv xml:lang="ko"><seg>복사(&amp;C)</seg></tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="en"><seg>C&amp;alibrate...</seg></tuv>
+      <tuv xml:lang="ko"><seg>보정(&amp;A)...</seg></tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="en"><seg>CCX Files (*.proflist)|*.proflist|</seg></tuv>
+      <tuv xml:lang="ko"><seg>CCX 파일 (*.proflist)|*.proflist|</seg></tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="en"><seg>CMY Gray Generation</seg></tuv>
+      <tuv xml:lang="ko"><seg>CMY 회색 생성</seg></tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="en"><seg>CMYK Curves</seg></tuv>
+      <tuv xml:lang="ko"><seg>CMYK 곡선</seg></tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="en"><seg>CMYK scanned images not supported!</seg></tuv>
+      <tuv xml:lang="ko"><seg>CMYK 스캔 이미지가 지원되지 않습니다!</seg></tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="en"><seg>CMYK+White+White</seg></tuv>
+      <tuv xml:lang="ko"><seg>CMYK+흰색+흰색</seg></tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="en"><seg>CMYKcmSS</seg></tuv>
+      <tuv xml:lang="ko"><seg>CMYKcmSS</seg></tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="en"><seg>Calcomp 50</seg></tuv>
+      <tuv xml:lang="ko"><seg>Calcomp 50</seg></tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="en"><seg>Calibration ID is NOT available</seg></tuv>
+      <tuv xml:lang="ko"><seg>보정 ID를 사용할 수 없습니다.</seg></tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="en"><seg>Can not install the medias. The Onyx software is not installed.</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체를 설치할 수 없습니다. Onyx 소프트웨어가 설치되지 않았습니다.</seg></tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="en"><seg>Canceling after current mode...</seg></tuv>
+      <tuv xml:lang="ko"><seg>현재 모드 이후 취소 중...</seg></tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="en"><seg>Cannot create swatch!</seg></tuv>
+      <tuv xml:lang="ko"><seg>스왓치를 만들 수 없습니다!</seg></tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="en"><seg>Cannot open USB port - busy getting status.</seg></tuv>
+      <tuv xml:lang="ko"><seg>USB 포트를 열 수 없습니다. 상태를 가져오는 중입니다.</seg></tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="en"><seg>Cannot run key updates: No key accessible.</seg></tuv>
+      <tuv xml:lang="ko"><seg>키 업데이트 실행 불가: 액세스 가능 키가 없습니다.</seg></tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="en"><seg>Canon FireWire</seg></tuv>
+      <tuv xml:lang="ko"><seg>Canon FireWire</seg></tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="en"><seg>Carriage Temperature:</seg></tuv>
+      <tuv xml:lang="ko"><seg>캐리지 온도:</seg></tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="en"><seg>Category</seg></tuv>
+      <tuv xml:lang="ko"><seg>범주</seg></tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="en"><seg>Certificate invalid.</seg></tuv>
+      <tuv xml:lang="ko"><seg>인증서가 잘못되었습니다.</seg></tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="en"><seg>Change ZCC Material Selection...</seg></tuv>
+      <tuv xml:lang="ko"><seg>ZCC 재료 선택 변경...</seg></tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="en"><seg>Channel</seg></tuv>
+      <tuv xml:lang="ko"><seg>채널</seg></tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="en"><seg>Chart Mode:</seg></tuv>
+      <tuv xml:lang="ko"><seg>도표 모드:</seg></tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="en"><seg>Checking Spooler Status...</seg></tuv>
+      <tuv xml:lang="ko"><seg>스풀러 상태 검사 중...</seg></tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="en"><seg>Choose Calibration</seg></tuv>
+      <tuv xml:lang="ko"><seg>보정 선택</seg></tuv>
+    </tu>
+    <tu tuid="159">
+      <tuv xml:lang="en"><seg>Choose Recent Folder:</seg></tuv>
+      <tuv xml:lang="ko"><seg>최근 폴더를 선택합니다.</seg></tuv>
+    </tu>
+    <tu tuid="160">
+      <tuv xml:lang="en"><seg>Choose the workflow to use:</seg></tuv>
+      <tuv xml:lang="ko"><seg>사용할 워크플로우 선택:</seg></tuv>
+    </tu>
+    <tu tuid="161">
+      <tuv xml:lang="en"><seg>Cleaning Liquid Cartridge Is Unset</seg></tuv>
+      <tuv xml:lang="ko"><seg>청소액 카트리지가 설정되지 않았습니다.</seg></tuv>
+    </tu>
+    <tu tuid="162">
+      <tuv xml:lang="en"><seg>Click + to create a new Media Group. Clicking this button will open a new dialog. Choose a name that will help you organize your media effectively, such as UV, Dye or a Media Manufacturer name.</seg></tuv>
+      <tuv xml:lang="ko"><seg>(+)를 클릭하여 새 매체 그룹을 만드십시오. 이 단추를 클릭하면 새 대화 상자가 열립니다. UV, 염료, 매체 제조업체 이름과 같이 매체를 효과적으로 구성하는 데 도움이 되는 이름을 선택하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="163">
+      <tuv xml:lang="en"><seg>Click Print Swatch to print the Calibration swatch.</seg></tuv>
+      <tuv xml:lang="ko"><seg>스왓치 인쇄 단추를 클릭하여 보정 스왓치를 인쇄합니다.</seg></tuv>
+    </tu>
+    <tu tuid="164">
+      <tuv xml:lang="en"><seg>Click the Read Swatch button to read in the swatch using the selected color device.&lt;br&gt;&lt;br&gt;Once the swatch has been read in, a report will display indicating if there is conformance to the G7® Grayscale specification.</seg></tuv>
+      <tuv xml:lang="ko"><seg>선택한 색상 장치를 사용하여 스왓치를 읽으려면 스왓치 읽기 단추를 클릭하십시오.&lt;br&gt;&lt;br&gt;스왓치를 읽은 경우, G7® Grayscale 사양을 준수하면 보고서가 표시됩니다.</seg></tuv>
+    </tu>
+    <tu tuid="165">
+      <tuv xml:lang="en"><seg>Clients: %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>클라이언트: %s</seg></tuv>
+    </tu>
+    <tu tuid="166">
+      <tuv xml:lang="en"><seg>Closed Communication</seg></tuv>
+      <tuv xml:lang="ko"><seg>통신 닫힘</seg></tuv>
+    </tu>
+    <tu tuid="167">
+      <tuv xml:lang="en"><seg>Collated</seg></tuv>
+      <tuv xml:lang="ko"><seg>순서 맞춤</seg></tuv>
+    </tu>
+    <tu tuid="168">
+      <tuv xml:lang="en"><seg>Color -&gt; White -&gt; White</seg></tuv>
+      <tuv xml:lang="ko"><seg>색상 -&gt; 흰색 -&gt; 흰색</seg></tuv>
+    </tu>
+    <tu tuid="169">
+      <tuv xml:lang="en"><seg>Color Display:</seg></tuv>
+      <tuv xml:lang="ko"><seg>색상 표시:</seg></tuv>
+    </tu>
+    <tu tuid="170">
+      <tuv xml:lang="en"><seg>Color Order: %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>색상 순서: %s</seg></tuv>
+    </tu>
+    <tu tuid="171">
+      <tuv xml:lang="en"><seg>Color Table Enabled</seg></tuv>
+      <tuv xml:lang="ko"><seg>색상 테이블 사용</seg></tuv>
+    </tu>
+    <tu tuid="172">
+      <tuv xml:lang="en"><seg>Color/&amp;Gray Levels</seg></tuv>
+      <tuv xml:lang="ko"><seg>컬러/회색조 수준 (&amp;G)</seg></tuv>
+    </tu>
+    <tu tuid="173">
+      <tuv xml:lang="en"><seg>ColorSpan DisplayMaker, Giclée PrintMakerFA, and DesignWinder Printers</seg></tuv>
+      <tuv xml:lang="ko"><seg>ColorSpan DisplayMaker, Giclée PrintMakerFA 및 DesignWinder 프린터</seg></tuv>
+    </tu>
+    <tu tuid="174">
+      <tuv xml:lang="en"><seg>Colorways (*.ocw)</seg></tuv>
+      <tuv xml:lang="ko"><seg>Colorways (*.ocw)</seg></tuv>
+    </tu>
+    <tu tuid="175">
+      <tuv xml:lang="en"><seg>Communication driver did not initialize.</seg></tuv>
+      <tuv xml:lang="ko"><seg>통신 드라이버가 초기화되지 않았습니다.</seg></tuv>
+    </tu>
+    <tu tuid="176">
+      <tuv xml:lang="en"><seg>Completed:</seg></tuv>
+      <tuv xml:lang="ko"><seg>완료:</seg></tuv>
+    </tu>
+    <tu tuid="177">
+      <tuv xml:lang="en"><seg>Configure &amp;Adobe RIP...</seg></tuv>
+      <tuv xml:lang="ko"><seg>Adobe RIP 구성(&amp;A)...</seg></tuv>
+    </tu>
+    <tu tuid="178">
+      <tuv xml:lang="en"><seg>Configure Elitron Cutter Marks</seg></tuv>
+      <tuv xml:lang="ko"><seg>Elitron 커터 표시 구성</seg></tuv>
+    </tu>
+    <tu tuid="179">
+      <tuv xml:lang="en"><seg>Configure Light Ink Termination</seg></tuv>
+      <tuv xml:lang="ko"><seg>밝은 잉크 종료 구성</seg></tuv>
+    </tu>
+    <tu tuid="180">
+      <tuv xml:lang="en"><seg>Configure PostScript RIP\nConfigure RIP</seg></tuv>
+      <tuv xml:lang="ko"><seg>PostScript RIP 구성\nRIP구성</seg></tuv>
+    </tu>
+    <tu tuid="181">
+      <tuv xml:lang="en"><seg>Configure SummaCut Cutter Marks</seg></tuv>
+      <tuv xml:lang="ko"><seg>SummaCut 커터 표시 구성</seg></tuv>
+    </tu>
+    <tu tuid="182">
+      <tuv xml:lang="en"><seg>Configured in Media Layers</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체 레이어에서 구성됨</seg></tuv>
+    </tu>
+    <tu tuid="183">
+      <tuv xml:lang="en"><seg>Connecting to server...</seg></tuv>
+      <tuv xml:lang="ko"><seg>서버에 연결하는 중...</seg></tuv>
+    </tu>
+    <tu tuid="184">
+      <tuv xml:lang="en"><seg>Continuing in %d seconds</seg></tuv>
+      <tuv xml:lang="ko"><seg>%d초 후에 계속 진행합니다.</seg></tuv>
+    </tu>
+    <tu tuid="185">
+      <tuv xml:lang="en"><seg>Control Panel</seg></tuv>
+      <tuv xml:lang="ko"><seg>제어판</seg></tuv>
+    </tu>
+    <tu tuid="186">
+      <tuv xml:lang="en"><seg>Copies Tool</seg></tuv>
+      <tuv xml:lang="ko"><seg>매수 도구</seg></tuv>
+    </tu>
+    <tu tuid="187">
+      <tuv xml:lang="en"><seg>Copy Options</seg></tuv>
+      <tuv xml:lang="ko"><seg>복사 옵션</seg></tuv>
+    </tu>
+    <tu tuid="188">
+      <tuv xml:lang="en"><seg>Copy:</seg></tuv>
+      <tuv xml:lang="ko"><seg>복사:</seg></tuv>
+    </tu>
+    <tu tuid="189">
+      <tuv xml:lang="en"><seg>Correction Factor</seg></tuv>
+      <tuv xml:lang="ko"><seg>정정 계수</seg></tuv>
+    </tu>
+    <tu tuid="190">
+      <tuv xml:lang="en"><seg>Could not load color info, check your printer configuration</seg></tuv>
+      <tuv xml:lang="ko"><seg>색 정보를 로드할 수 없습니다. 프린터 구성을 확인하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="191">
+      <tuv xml:lang="en"><seg>Could not open TCP/IP connection to %s!</seg></tuv>
+      <tuv xml:lang="ko"><seg>%s에 대한 TCP/IP 연결을 열 수 없습니다!</seg></tuv>
+    </tu>
+    <tu tuid="192">
+      <tuv xml:lang="en"><seg>Count Pixels</seg></tuv>
+      <tuv xml:lang="ko"><seg>픽셀 수</seg></tuv>
+    </tu>
+    <tu tuid="193">
+      <tuv xml:lang="en"><seg>Create Ink Limit</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 한계 만들기</seg></tuv>
+    </tu>
+    <tu tuid="194">
+      <tuv xml:lang="en"><seg>Create Proof Automatically</seg></tuv>
+      <tuv xml:lang="ko"><seg>교정 자동 생성</seg></tuv>
+    </tu>
+    <tu tuid="195">
+      <tuv xml:lang="en"><seg>Create a new Linearization:</seg></tuv>
+      <tuv xml:lang="ko"><seg>새 선형화 만들기:</seg></tuv>
+    </tu>
+    <tu tuid="196">
+      <tuv xml:lang="en"><seg>Created</seg></tuv>
+      <tuv xml:lang="ko"><seg>만든 날짜</seg></tuv>
+    </tu>
+    <tu tuid="197">
+      <tuv xml:lang="en"><seg>Creekside Printer Configuration</seg></tuv>
+      <tuv xml:lang="ko"><seg>Creekside 프린터 구성</seg></tuv>
+    </tu>
+    <tu tuid="198">
+      <tuv xml:lang="en"><seg>Crop to page</seg></tuv>
+      <tuv xml:lang="ko"><seg>페이지에 맞게 자르기</seg></tuv>
+    </tu>
+    <tu tuid="199">
+      <tuv xml:lang="en"><seg>Current File:</seg></tuv>
+      <tuv xml:lang="ko"><seg>현재 파일:</seg></tuv>
+    </tu>
+    <tu tuid="200">
+      <tuv xml:lang="en"><seg>Current Week</seg></tuv>
+      <tuv xml:lang="ko"><seg>현재 주</seg></tuv>
+    </tu>
+    <tu tuid="201">
+      <tuv xml:lang="en"><seg>Custom Channel</seg></tuv>
+      <tuv xml:lang="ko"><seg>주문형 채널 이름:</seg></tuv>
+    </tu>
+    <tu tuid="202">
+      <tuv xml:lang="en"><seg>Custom Setting</seg></tuv>
+      <tuv xml:lang="ko"><seg>사용자 지정 설정</seg></tuv>
+    </tu>
+    <tu tuid="203">
+      <tuv xml:lang="en"><seg>Custom...</seg></tuv>
+      <tuv xml:lang="ko"><seg>사용자 정의...</seg></tuv>
+    </tu>
+    <tu tuid="204">
+      <tuv xml:lang="en"><seg>Customer Order ID: %ls</seg></tuv>
+      <tuv xml:lang="ko"><seg>고객 주문 ID: %ls</seg></tuv>
+    </tu>
+    <tu tuid="205">
+      <tuv xml:lang="en"><seg>Cut File Folder</seg></tuv>
+      <tuv xml:lang="ko"><seg>파일 폴더 잘라내기</seg></tuv>
+    </tu>
+    <tu tuid="206">
+      <tuv xml:lang="en"><seg>Cut Path Tool</seg></tuv>
+      <tuv xml:lang="ko"><seg>자르기 경로 도구</seg></tuv>
+    </tu>
+    <tu tuid="207">
+      <tuv xml:lang="en"><seg>Cut wait time:</seg></tuv>
+      <tuv xml:lang="ko"><seg>절단 대기 시간:</seg></tuv>
+    </tu>
+    <tu tuid="208">
+      <tuv xml:lang="en"><seg>Cutter Marks: %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>절단기 표시: %s</seg></tuv>
+    </tu>
+    <tu tuid="209">
+      <tuv xml:lang="en"><seg>Cutters</seg></tuv>
+      <tuv xml:lang="ko"><seg>커터</seg></tuv>
+    </tu>
+    <tu tuid="210">
+      <tuv xml:lang="en"><seg>Czech</seg></tuv>
+      <tuv xml:lang="ko"><seg>체코어</seg></tuv>
+    </tu>
+    <tu tuid="211">
+      <tuv xml:lang="en"><seg>DN</seg></tuv>
+      <tuv xml:lang="ko"><seg>아래로</seg></tuv>
+    </tu>
+    <tu tuid="212">
+      <tuv xml:lang="en"><seg>Data Type or Port Name:\n\tChoose a selection from the pull-down menu, or type in a new name.  Use &quot;&lt;Port9100&gt;&quot; for HP devices and &quot;lpt1_passthru&quot; or &quot;lpt2_passthru&quot; for Intel Netports.  For other devices, refer to the device documentation.</seg></tuv>
+      <tuv xml:lang="ko"><seg>데이터 유형 또는 포트 이름:\n\t풀다운 메뉴에서 선택 항목을 선택하거나 새 이름을 입력하십시오.  HP 장치의 경우 &quot;&lt;Port9100&gt;&quot;를, Intel Netports의 경우 &quot;lpt1_passthru&quot; 또는 &quot;lpt2_passthru&quot;를 사용합니다.  다른 장치인 경우에는 장치 문서를 참조하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="213">
+      <tuv xml:lang="en"><seg>Decrement Image Magnification\nZoom Out</seg></tuv>
+      <tuv xml:lang="ko"><seg>이미지 확대 감소\n축소</seg></tuv>
+    </tu>
+    <tu tuid="214">
+      <tuv xml:lang="en"><seg>Default Nest</seg></tuv>
+      <tuv xml:lang="ko"><seg>기본 중첩</seg></tuv>
+    </tu>
+    <tu tuid="215">
+      <tuv xml:lang="en"><seg>Define Custom Layer</seg></tuv>
+      <tuv xml:lang="ko"><seg>사용자 정의 레이어 정의</seg></tuv>
+    </tu>
+    <tu tuid="216">
+      <tuv xml:lang="en"><seg>Delete &amp;Image After Processing</seg></tuv>
+      <tuv xml:lang="ko"><seg>처리 후 이미지 삭제 (&amp;I)</seg></tuv>
+    </tu>
+    <tu tuid="217">
+      <tuv xml:lang="en"><seg>Delete Pattern...</seg></tuv>
+      <tuv xml:lang="ko"><seg>형식 삭제...</seg></tuv>
+    </tu>
+    <tu tuid="218">
+      <tuv xml:lang="en"><seg>Delete the selected Cutter Path prefix</seg></tuv>
+      <tuv xml:lang="ko"><seg>선택한 절단기 경로 접두사 삭제</seg></tuv>
+    </tu>
+    <tu tuid="219">
+      <tuv xml:lang="en"><seg>Deleting Files...</seg></tuv>
+      <tuv xml:lang="ko"><seg>파일 삭제 중...</seg></tuv>
+    </tu>
+    <tu tuid="220">
+      <tuv xml:lang="en"><seg>Depends On</seg></tuv>
+      <tuv xml:lang="ko"><seg>종속:</seg></tuv>
+    </tu>
+    <tu tuid="221">
+      <tuv xml:lang="en"><seg>Desktop</seg></tuv>
+      <tuv xml:lang="ko"><seg>바탕 화면</seg></tuv>
+    </tu>
+    <tu tuid="222">
+      <tuv xml:lang="en"><seg>Details</seg></tuv>
+      <tuv xml:lang="ko"><seg>세부 정보</seg></tuv>
+    </tu>
+    <tu tuid="223">
+      <tuv xml:lang="en"><seg>Device Setup</seg></tuv>
+      <tuv xml:lang="ko"><seg>장치 준비</seg></tuv>
+    </tu>
+    <tu tuid="224">
+      <tuv xml:lang="en"><seg>Direct</seg></tuv>
+      <tuv xml:lang="ko"><seg>직접</seg></tuv>
+    </tu>
+    <tu tuid="225">
+      <tuv xml:lang="en"><seg>Disabled</seg></tuv>
+      <tuv xml:lang="ko"><seg>사용 안함</seg></tuv>
+    </tu>
+    <tu tuid="226">
+      <tuv xml:lang="en"><seg>Display Name</seg></tuv>
+      <tuv xml:lang="ko"><seg>표시 이름</seg></tuv>
+    </tu>
+    <tu tuid="227">
+      <tuv xml:lang="en"><seg>Display warning when removing single images</seg></tuv>
+      <tuv xml:lang="ko"><seg>단일 이미지 제거 시 경고 표시</seg></tuv>
+    </tu>
+    <tu tuid="228">
+      <tuv xml:lang="en"><seg>DisplayMaker X-12 / 62</seg></tuv>
+      <tuv xml:lang="ko"><seg>DisplayMaker X-12 / 62</seg></tuv>
+    </tu>
+    <tu tuid="229">
+      <tuv xml:lang="en"><seg>Do %s%d</seg></tuv>
+      <tuv xml:lang="ko"><seg>실행 %s%d</seg></tuv>
+    </tu>
+    <tu tuid="230">
+      <tuv xml:lang="en"><seg>Do you want to get multiple patch readings from a different copy of the swatch?</seg></tuv>
+      <tuv xml:lang="ko"><seg>스왓치의 다른 복사로 다중 매치 읽기를 원하십니까?</seg></tuv>
+    </tu>
+    <tu tuid="231">
+      <tuv xml:lang="en"><seg>Do you wish to save changes in this page before stopping?</seg></tuv>
+      <tuv xml:lang="ko"><seg>중지하기 전에 이 페이지의 변경 내용을 저장하시겠습니까?</seg></tuv>
+    </tu>
+    <tu tuid="232">
+      <tuv xml:lang="en"><seg>Don&apos;t ask again, always do this for mismatches with \n&apos;%s&apos;</seg></tuv>
+      <tuv xml:lang="ko"><seg>다시 묻지 마십시오. \n&apos;%s&apos;과(와) 일치하지 않는 경우 항상 이 작업을 수행하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="233">
+      <tuv xml:lang="en"><seg>Dot Pattern:</seg></tuv>
+      <tuv xml:lang="ko"><seg>돗트 형식:</seg></tuv>
+    </tu>
+    <tu tuid="234">
+      <tuv xml:lang="en"><seg>Double Strike:</seg></tuv>
+      <tuv xml:lang="ko"><seg>이중 취소선:</seg></tuv>
+    </tu>
+    <tu tuid="235">
+      <tuv xml:lang="en"><seg>Download Options</seg></tuv>
+      <tuv xml:lang="ko"><seg>다운로드 옵션</seg></tuv>
+    </tu>
+    <tu tuid="236">
+      <tuv xml:lang="en"><seg>Draft (2 pass, unidir),</seg></tuv>
+      <tuv xml:lang="ko"><seg>시험 인쇄(2 패스, 단방향),</seg></tuv>
+    </tu>
+    <tu tuid="237">
+      <tuv xml:lang="en"><seg>Drop Size Swatch</seg></tuv>
+      <tuv xml:lang="ko"><seg>전환 이미지:</seg></tuv>
+    </tu>
+    <tu tuid="238">
+      <tuv xml:lang="en"><seg>Drying &amp;Time</seg></tuv>
+      <tuv xml:lang="ko"><seg>건조 시간(&amp;T)</seg></tuv>
+    </tu>
+    <tu tuid="239">
+      <tuv xml:lang="en"><seg>Dual Stripe</seg></tuv>
+      <tuv xml:lang="ko"><seg>이중 줄무늬</seg></tuv>
+    </tu>
+    <tu tuid="240">
+      <tuv xml:lang="en"><seg>Duplication factor:</seg></tuv>
+      <tuv xml:lang="ko"><seg>중복 요소:</seg></tuv>
+    </tu>
+    <tu tuid="241">
+      <tuv xml:lang="en"><seg>EEPROM status bad.</seg></tuv>
+      <tuv xml:lang="ko"><seg>EEPROM 상태 불량.</seg></tuv>
+    </tu>
+    <tu tuid="242">
+      <tuv xml:lang="en"><seg>ERROR! - There are too many spot colors!</seg></tuv>
+      <tuv xml:lang="ko"><seg>에러! - 너무 많은 색상에 얼룩이 있습니다!</seg></tuv>
+    </tu>
+    <tu tuid="243">
+      <tuv xml:lang="en"><seg>ERROR: Failed to Load Element &apos;Language&apos;</seg></tuv>
+      <tuv xml:lang="ko"><seg>오류: &apos;언어&apos; 요소를 로드하지 못했습니다.</seg></tuv>
+    </tu>
+    <tu tuid="244">
+      <tuv xml:lang="en"><seg>ERROR: Failed to Load Elements Collection</seg></tuv>
+      <tuv xml:lang="ko"><seg>오류: 요소 모음을 로드하지 못했습니다.</seg></tuv>
+    </tu>
+    <tu tuid="245">
+      <tuv xml:lang="en"><seg>ERROR: Failed to load &apos;UpdateSources.html&apos;</seg></tuv>
+      <tuv xml:lang="ko"><seg>오류: &apos;UpdateSources.html&apos;을 로드하지 못했습니다.</seg></tuv>
+    </tu>
+    <tu tuid="246">
+      <tuv xml:lang="en"><seg>ERROR: Invalid Handle</seg></tuv>
+      <tuv xml:lang="ko"><seg>오류: 잘못된 처리</seg></tuv>
+    </tu>
+    <tu tuid="247">
+      <tuv xml:lang="en"><seg>Edge Quality</seg></tuv>
+      <tuv xml:lang="ko"><seg>에지 품질</seg></tuv>
+    </tu>
+    <tu tuid="248">
+      <tuv xml:lang="en"><seg>Edit Key File</seg></tuv>
+      <tuv xml:lang="ko"><seg>키 파일 편집</seg></tuv>
+    </tu>
+    <tu tuid="249">
+      <tuv xml:lang="en"><seg>Edit Patches</seg></tuv>
+      <tuv xml:lang="ko"><seg>패치 편집</seg></tuv>
+    </tu>
+    <tu tuid="250">
+      <tuv xml:lang="en"><seg>Edit Tile</seg></tuv>
+      <tuv xml:lang="ko"><seg>타일 수정</seg></tuv>
+    </tu>
+    <tu tuid="251">
+      <tuv xml:lang="en"><seg>Edit the default settings template.\nEdit Default Settings Template</seg></tuv>
+      <tuv xml:lang="ko"><seg>기본 설정 템플릿 편집\n기본 설정 템플릿 편집</seg></tuv>
+    </tu>
+    <tu tuid="252">
+      <tuv xml:lang="en"><seg>Electrostatic Printer</seg></tuv>
+      <tuv xml:lang="ko"><seg>정전기 프린터</seg></tuv>
+    </tu>
+    <tu tuid="253">
+      <tuv xml:lang="en"><seg>Enable</seg></tuv>
+      <tuv xml:lang="ko"><seg>허용</seg></tuv>
+    </tu>
+    <tu tuid="254">
+      <tuv xml:lang="en"><seg>Enable Heater Temperature</seg></tuv>
+      <tuv xml:lang="ko"><seg>히터 온도 허용</seg></tuv>
+    </tu>
+    <tu tuid="255">
+      <tuv xml:lang="en"><seg>Enable Platen Temperature</seg></tuv>
+      <tuv xml:lang="ko"><seg>압반 온도 사용</seg></tuv>
+    </tu>
+    <tu tuid="256">
+      <tuv xml:lang="en"><seg>Enable Variable Data</seg></tuv>
+      <tuv xml:lang="ko"><seg>변수 데이터 사용</seg></tuv>
+    </tu>
+    <tu tuid="257">
+      <tuv xml:lang="en"><seg>Encrypted Font #: %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>암호화된 글꼴 #: %s</seg></tuv>
+    </tu>
+    <tu tuid="258">
+      <tuv xml:lang="en"><seg>Engine is offline.</seg></tuv>
+      <tuv xml:lang="ko"><seg>엔진이 오프라인 상태입니다.</seg></tuv>
+    </tu>
+    <tu tuid="259">
+      <tuv xml:lang="en"><seg>Enhanced Fast</seg></tuv>
+      <tuv xml:lang="ko"><seg>고품질 고속</seg></tuv>
+    </tu>
+    <tu tuid="260">
+      <tuv xml:lang="en"><seg>Enter a name for this frame size.</seg></tuv>
+      <tuv xml:lang="ko"><seg>이 프레임 크기의 이름을 입력하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="261">
+      <tuv xml:lang="en"><seg>Epson Large</seg></tuv>
+      <tuv xml:lang="ko"><seg>Epson Large</seg></tuv>
+    </tu>
+    <tu tuid="262">
+      <tuv xml:lang="en"><seg>Error %d! *** Check printer for more information.</seg></tuv>
+      <tuv xml:lang="ko"><seg>오류 %d! *** 자세한 내용을 보려면 프린터를 확인하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="263">
+      <tuv xml:lang="en"><seg>Error - port data bad, reconfigure port!\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>오류 - 포트 데이터를 잘못되었습니다. 포트를 다시 구성하십시오!\n</seg></tuv>
+    </tu>
+    <tu tuid="264">
+      <tuv xml:lang="en"><seg>Error communicating with printer.</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터와 통신하는 중 오류가 발생했습니다.</seg></tuv>
+    </tu>
+    <tu tuid="265">
+      <tuv xml:lang="en"><seg>Error reading cartridges information</seg></tuv>
+      <tuv xml:lang="ko"><seg>카트리지 정보 읽기 오류입니다.</seg></tuv>
+    </tu>
+    <tu tuid="266">
+      <tuv xml:lang="en"><seg>Error: %s\n\nPlease correct the error condition and check the front panel of the printer to see if additional action is required.</seg></tuv>
+      <tuv xml:lang="ko"><seg>오류: %s\n\n오류를 수정하고 프린터 전면 패널을 점검하여 추가적인 조치가 필요한지 확인하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="267">
+      <tuv xml:lang="en"><seg>Error: Initializing Header.</seg></tuv>
+      <tuv xml:lang="ko"><seg>오류: 헤더를 초기화하는 중입니다.</seg></tuv>
+    </tu>
+    <tu tuid="268">
+      <tuv xml:lang="en"><seg>Error: Populating Passes combo box. X Resolution: %d, Y Resolution %d</seg></tuv>
+      <tuv xml:lang="ko"><seg>오류: 패스 콤보 상자를 채우는 중입니다. X 해상도: %d, Y 해상도 %d</seg></tuv>
+    </tu>
+    <tu tuid="269">
+      <tuv xml:lang="en"><seg>Error: Sending Light Cyan Data to the Printer.</seg></tuv>
+      <tuv xml:lang="ko"><seg>오류: 밝은 청록 데이터를 프린터로 보내는 중입니다.</seg></tuv>
+    </tu>
+    <tu tuid="270">
+      <tuv xml:lang="en"><seg>Error: Writing IFD to file.</seg></tuv>
+      <tuv xml:lang="ko"><seg>오류: IFD를 파일로 쓰는 중입니다.</seg></tuv>
+    </tu>
+    <tu tuid="271">
+      <tuv xml:lang="en"><seg>Examine the ink limit swatch and choose the darkest value that does not show puddling or ink bleeding.</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 한계 스왓치를 확인하여 잉크가 범벅이 되거나 흐르지 않는 가장 진한 값을 선택하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="272">
+      <tuv xml:lang="en"><seg>Expand or Contract Paths</seg></tuv>
+      <tuv xml:lang="ko"><seg>경로 확장 또는 축소</seg></tuv>
+    </tu>
+    <tu tuid="273">
+      <tuv xml:lang="en"><seg>Export Media</seg></tuv>
+      <tuv xml:lang="ko"><seg>소재 내보내기</seg></tuv>
+    </tu>
+    <tu tuid="274">
+      <tuv xml:lang="en"><seg>Exports image and creates a new image file.\nExport Image As</seg></tuv>
+      <tuv xml:lang="ko"><seg>이미지 내보내고 새로운 이미지 파일 만들기. \n이미지 내보내기</seg></tuv>
+    </tu>
+    <tu tuid="275">
+      <tuv xml:lang="en"><seg>Extracting:</seg></tuv>
+      <tuv xml:lang="ko"><seg>추출:</seg></tuv>
+    </tu>
+    <tu tuid="276">
+      <tuv xml:lang="en"><seg>FTP Forwarding</seg></tuv>
+      <tuv xml:lang="ko"><seg>FTP 전달</seg></tuv>
+    </tu>
+    <tu tuid="277">
+      <tuv xml:lang="en"><seg>Failed to add station.</seg></tuv>
+      <tuv xml:lang="ko"><seg>스테이션을 추가하지 못했습니다.</seg></tuv>
+    </tu>
+    <tu tuid="278">
+      <tuv xml:lang="en"><seg>Failed to edit printer info for &apos;%s&apos;\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>&apos;%s&apos;에 대한 프린터 정보 편집 실패 \n</seg></tuv>
+    </tu>
+    <tu tuid="279">
+      <tuv xml:lang="en"><seg>Failed to initialize communication with the printer.  Please check your connection.</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터와 통신을 초기화하지 못했습니다.  연결을 확인하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="280">
+      <tuv xml:lang="en"><seg>Failed to load order report.</seg></tuv>
+      <tuv xml:lang="ko"><seg>주문 보고서를 로드하지 못했습니다.</seg></tuv>
+    </tu>
+    <tu tuid="281">
+      <tuv xml:lang="en"><seg>Failed to open port for file %s.</seg></tuv>
+      <tuv xml:lang="ko"><seg>파일 %s의 포트를 열지 못했습니다.</seg></tuv>
+    </tu>
+    <tu tuid="282">
+      <tuv xml:lang="en"><seg>Failed to start PrinterInstaller!</seg></tuv>
+      <tuv xml:lang="ko"><seg>PrinterInstaller를 시작하지 못했습니다!</seg></tuv>
+    </tu>
+    <tu tuid="283">
+      <tuv xml:lang="en"><seg>Failed to update printer. Press finish to exit.</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터를 업데이트하지 못했습니다. 마치려면 종료를 누르십시오.</seg></tuv>
+    </tu>
+    <tu tuid="284">
+      <tuv xml:lang="en"><seg>Fans Only</seg></tuv>
+      <tuv xml:lang="ko"><seg>팬만</seg></tuv>
+    </tu>
+    <tu tuid="285">
+      <tuv xml:lang="en"><seg>Feed Adjustment:</seg></tuv>
+      <tuv xml:lang="ko"><seg>공급 조정:</seg></tuv>
+    </tu>
+    <tu tuid="286">
+      <tuv xml:lang="en"><seg>File / Folder Locations:</seg></tuv>
+      <tuv xml:lang="ko"><seg>파일 / 폴더 위치:</seg></tuv>
+    </tu>
+    <tu tuid="287">
+      <tuv xml:lang="en"><seg>File Type:</seg></tuv>
+      <tuv xml:lang="ko"><seg>파일 형식:</seg></tuv>
+    </tu>
+    <tu tuid="288">
+      <tuv xml:lang="en"><seg>Fill Non-Image Area</seg></tuv>
+      <tuv xml:lang="ko"><seg>비 이미지 영역 채우기</seg></tuv>
+    </tu>
+    <tu tuid="289">
+      <tuv xml:lang="en"><seg>Fine &amp; Wave 4</seg></tuv>
+      <tuv xml:lang="ko"><seg>양호한 웨이브 4</seg></tuv>
+    </tu>
+    <tu tuid="290">
+      <tuv xml:lang="en"><seg>Finishing</seg></tuv>
+      <tuv xml:lang="ko"><seg>종료 중</seg></tuv>
+    </tu>
+    <tu tuid="291">
+      <tuv xml:lang="en"><seg>Fit Policy: %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>맞춤 정책: %s</seg></tuv>
+    </tu>
+    <tu tuid="292">
+      <tuv xml:lang="en"><seg>Flatbed Mode</seg></tuv>
+      <tuv xml:lang="ko"><seg>평판 모드</seg></tuv>
+    </tu>
+    <tu tuid="293">
+      <tuv xml:lang="en"><seg>Flip every other tile</seg></tuv>
+      <tuv xml:lang="ko"><seg>한 열씩 건너 타일 뒤집기</seg></tuv>
+    </tu>
+    <tu tuid="294">
+      <tuv xml:lang="en"><seg>Fluorescent Pink</seg></tuv>
+      <tuv xml:lang="ko"><seg>형광 핑크</seg></tuv>
+    </tu>
+    <tu tuid="295">
+      <tuv xml:lang="en"><seg>Font Directories:</seg></tuv>
+      <tuv xml:lang="ko"><seg>글꼴 디렉터리:</seg></tuv>
+    </tu>
+    <tu tuid="296">
+      <tuv xml:lang="en"><seg>For job(s) where an image already exists:</seg></tuv>
+      <tuv xml:lang="ko"><seg>이미지가 이미 있는 작업의 경우:</seg></tuv>
+    </tu>
+    <tu tuid="297">
+      <tuv xml:lang="en"><seg>Four Pass</seg></tuv>
+      <tuv xml:lang="ko"><seg>4 패스</seg></tuv>
+    </tu>
+    <tu tuid="298">
+      <tuv xml:lang="en"><seg>Frequency</seg></tuv>
+      <tuv xml:lang="ko"><seg>주파수</seg></tuv>
+    </tu>
+    <tu tuid="299">
+      <tuv xml:lang="en"><seg>Front cover open. Close the cover.</seg></tuv>
+      <tuv xml:lang="ko"><seg>앞면 덮개가 열려 있습니다. 덮개를 닫으십시오.</seg></tuv>
+    </tu>
+    <tu tuid="300">
+      <tuv xml:lang="en"><seg>Fully save print data to HDD before printing</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄하기 전에 전체 인쇄 데이터를 HDD에 저장하십시오</seg></tuv>
+    </tu>
+    <tu tuid="301">
+      <tuv xml:lang="en"><seg>G7® Tolerance</seg></tuv>
+      <tuv xml:lang="ko"><seg>G7® 허용차</seg></tuv>
+    </tu>
+    <tu tuid="302">
+      <tuv xml:lang="en"><seg>GZT Printer Manager software could not be started.</seg></tuv>
+      <tuv xml:lang="ko"><seg>GZT 프린터 관리자 소프트웨어를 시작할 수 없습니다.</seg></tuv>
+    </tu>
+    <tu tuid="303">
+      <tuv xml:lang="en"><seg>General Settings</seg></tuv>
+      <tuv xml:lang="ko"><seg>일반 설정</seg></tuv>
+    </tu>
+    <tu tuid="304">
+      <tuv xml:lang="en"><seg>Generating cut paths for cutting.</seg></tuv>
+      <tuv xml:lang="ko"><seg>자르기 경로를 만드는 중입니다.</seg></tuv>
+    </tu>
+    <tu tuid="305">
+      <tuv xml:lang="en"><seg>Glossy</seg></tuv>
+      <tuv xml:lang="ko"><seg>광택</seg></tuv>
+    </tu>
+    <tu tuid="306">
+      <tuv xml:lang="en"><seg>Gradient</seg></tuv>
+      <tuv xml:lang="ko"><seg>그라데이션</seg></tuv>
+    </tu>
+    <tu tuid="307">
+      <tuv xml:lang="en"><seg>Graphics 1, 8p, sym, 400 cps</seg></tuv>
+      <tuv xml:lang="ko"><seg>그래픽 1, 8p, 기호, 400cps</seg></tuv>
+    </tu>
+    <tu tuid="308">
+      <tuv xml:lang="en"><seg>Graphics 3, 8p, bi, 320 cps</seg></tuv>
+      <tuv xml:lang="ko"><seg>그래픽 3, 8p, 양방향, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="309">
+      <tuv xml:lang="en"><seg>Gray Balance Swatch [Profile Name - %s]</seg></tuv>
+      <tuv xml:lang="ko"><seg>회색조 균형 스왓치 [프로파일 이름 - %s]</seg></tuv>
+    </tu>
+    <tu tuid="310">
+      <tuv xml:lang="en"><seg>Grayscale Correction Curve</seg></tuv>
+      <tuv xml:lang="ko"><seg>Grayscale 보정 곡선</seg></tuv>
+    </tu>
+    <tu tuid="311">
+      <tuv xml:lang="en"><seg>Gretag Bellise</seg></tuv>
+      <tuv xml:lang="ko"><seg>Gretag Bellise</seg></tuv>
+    </tu>
+    <tu tuid="312">
+      <tuv xml:lang="en"><seg>Grey % (0-100)</seg></tuv>
+      <tuv xml:lang="ko"><seg>회색 %(0-100)</seg></tuv>
+    </tu>
+    <tu tuid="313">
+      <tuv xml:lang="en"><seg>Grip released error</seg></tuv>
+      <tuv xml:lang="ko"><seg>그립 해제 오류</seg></tuv>
+    </tu>
+    <tu tuid="314">
+      <tuv xml:lang="en"><seg>H&amp;istogram...</seg></tuv>
+      <tuv xml:lang="ko"><seg>히스토그램 (&amp;I)...</seg></tuv>
+    </tu>
+    <tu tuid="315">
+      <tuv xml:lang="en"><seg>HP DesignJet 50</seg></tuv>
+      <tuv xml:lang="ko"><seg>HP DesignJet 50</seg></tuv>
+    </tu>
+    <tu tuid="316">
+      <tuv xml:lang="en"><seg>HP750C</seg></tuv>
+      <tuv xml:lang="ko"><seg>HP750C</seg></tuv>
+    </tu>
+    <tu tuid="317">
+      <tuv xml:lang="en"><seg>Half Speed 4 Cut</seg></tuv>
+      <tuv xml:lang="ko"><seg>1/2배속 4번 절단</seg></tuv>
+    </tu>
+    <tu tuid="318">
+      <tuv xml:lang="en"><seg>Head 1</seg></tuv>
+      <tuv xml:lang="ko"><seg>헤드 1</seg></tuv>
+    </tu>
+    <tu tuid="319">
+      <tuv xml:lang="en"><seg>Head board FIFO is full.</seg></tuv>
+      <tuv xml:lang="ko"><seg>헤드 보드 FIFO가 꽉 차 있습니다.</seg></tuv>
+    </tu>
+    <tu tuid="320">
+      <tuv xml:lang="en"><seg>Heads B, C</seg></tuv>
+      <tuv xml:lang="ko"><seg>헤드 B, C</seg></tuv>
+    </tu>
+    <tu tuid="321">
+      <tuv xml:lang="en"><seg>Heater Heating</seg></tuv>
+      <tuv xml:lang="ko"><seg>가열기 예열</seg></tuv>
+    </tu>
+    <tu tuid="322">
+      <tuv xml:lang="en"><seg>Height</seg></tuv>
+      <tuv xml:lang="ko"><seg>높이</seg></tuv>
+    </tu>
+    <tu tuid="323">
+      <tuv xml:lang="en"><seg>HiFi Solvent</seg></tuv>
+      <tuv xml:lang="ko"><seg>HiFi 용제</seg></tuv>
+    </tu>
+    <tu tuid="324">
+      <tuv xml:lang="en"><seg>High A</seg></tuv>
+      <tuv xml:lang="ko"><seg>높음 A</seg></tuv>
+    </tu>
+    <tu tuid="325">
+      <tuv xml:lang="en"><seg>High Quality (HQ2)</seg></tuv>
+      <tuv xml:lang="ko"><seg>고품질(HQ2)</seg></tuv>
+    </tu>
+    <tu tuid="326">
+      <tuv xml:lang="en"><seg>High Speed Mode 1</seg></tuv>
+      <tuv xml:lang="ko"><seg>고속 모드 1</seg></tuv>
+    </tu>
+    <tu tuid="327">
+      <tuv xml:lang="en"><seg>History Printer View</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터 보기 기록</seg></tuv>
+    </tu>
+    <tu tuid="328">
+      <tuv xml:lang="en"><seg>Home position not detected. Please call service.</seg></tuv>
+      <tuv xml:lang="ko"><seg>홈 위치를 찾을 수 없습니다. 서비스 센터로 문의하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="329">
+      <tuv xml:lang="en"><seg>Horizontal Offset: %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>가로 오프셋: %s</seg></tuv>
+    </tu>
+    <tu tuid="330">
+      <tuv xml:lang="en"><seg>ICC</seg></tuv>
+      <tuv xml:lang="ko"><seg>ICC</seg></tuv>
+    </tu>
+    <tu tuid="331">
+      <tuv xml:lang="en"><seg>ICC Profile Table</seg></tuv>
+      <tuv xml:lang="ko"><seg>ICC 프로파일 테이블</seg></tuv>
+    </tu>
+    <tu tuid="332">
+      <tuv xml:lang="en"><seg>ICCSwatch.onx</seg></tuv>
+      <tuv xml:lang="ko"><seg>ICCSwatch.onx</seg></tuv>
+    </tu>
+    <tu tuid="333">
+      <tuv xml:lang="en"><seg>ILFORD</seg></tuv>
+      <tuv xml:lang="ko"><seg>ILFORD</seg></tuv>
+    </tu>
+    <tu tuid="334">
+      <tuv xml:lang="en"><seg>ISO A0</seg></tuv>
+      <tuv xml:lang="ko"><seg>ISO A0</seg></tuv>
+    </tu>
+    <tu tuid="335">
+      <tuv xml:lang="en"><seg>Idle (ready to print)</seg></tuv>
+      <tuv xml:lang="ko"><seg>유휴(인쇄 준비 완료)</seg></tuv>
+    </tu>
+    <tu tuid="336">
+      <tuv xml:lang="en"><seg>If you are having trouble connecting to the server, make sure you have a valid Internet connection. If you can access the Internet with a web browser, contact your IT department for help with the %%app_name%% configuration settings.</seg></tuv>
+      <tuv xml:lang="ko"><seg>서버 접속에 문제가 있는 경우, 인터넷 접속이 유효한지 확인하십시오. 웹 브라우저로 인터넷에 액세스할 수 있는 경우, IT 부서에 문의하여 %%app_name%% 구성 설정에 대한 지원을 받으십시오.</seg></tuv>
+    </tu>
+    <tu tuid="337">
+      <tuv xml:lang="en"><seg>Ignore 100% target ink values</seg></tuv>
+      <tuv xml:lang="ko"><seg>100% 대상 잉크 값 무시</seg></tuv>
+    </tu>
+    <tu tuid="338">
+      <tuv xml:lang="en"><seg>Image Brightness</seg></tuv>
+      <tuv xml:lang="ko"><seg>이미지 밝기</seg></tuv>
+    </tu>
+    <tu tuid="339">
+      <tuv xml:lang="en"><seg>Image Operations:</seg></tuv>
+      <tuv xml:lang="ko"><seg>이미지 조작:</seg></tuv>
+    </tu>
+    <tu tuid="340">
+      <tuv xml:lang="en"><seg>Image Tools</seg></tuv>
+      <tuv xml:lang="ko"><seg>이미지 도구</seg></tuv>
+    </tu>
+    <tu tuid="341">
+      <tuv xml:lang="en"><seg>Image size:</seg></tuv>
+      <tuv xml:lang="ko"><seg>이미지 크기:</seg></tuv>
+    </tu>
+    <tu tuid="342">
+      <tuv xml:lang="en"><seg>Import Media:</seg></tuv>
+      <tuv xml:lang="ko"><seg>소재 가져오기:</seg></tuv>
+    </tu>
+    <tu tuid="343">
+      <tuv xml:lang="en"><seg>Import...</seg></tuv>
+      <tuv xml:lang="ko"><seg>가져오기...</seg></tuv>
+    </tu>
+    <tu tuid="344">
+      <tuv xml:lang="en"><seg>Includes bleed/trim width %s and height %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>화상 재단 물림/트림 너비 %s 및 높이 %s을(를) 포함합니다.</seg></tuv>
+    </tu>
+    <tu tuid="345">
+      <tuv xml:lang="en"><seg>Information:</seg></tuv>
+      <tuv xml:lang="ko"><seg>정보:</seg></tuv>
+    </tu>
+    <tu tuid="346">
+      <tuv xml:lang="en"><seg>Ink Cartridge Error</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 카트리지 오류</seg></tuv>
+    </tu>
+    <tu tuid="347">
+      <tuv xml:lang="en"><seg>Ink Density Factor</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 밀도 계수</seg></tuv>
+    </tu>
+    <tu tuid="348">
+      <tuv xml:lang="en"><seg>Ink Limiting Profiles</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 한계 프로파일</seg></tuv>
+    </tu>
+    <tu tuid="349">
+      <tuv xml:lang="en"><seg>Ink Saving</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 절약</seg></tuv>
+    </tu>
+    <tu tuid="350">
+      <tuv xml:lang="en"><seg>Ink cartridge combination error</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 카트리지 조합 오류</seg></tuv>
+    </tu>
+    <tu tuid="351">
+      <tuv xml:lang="en"><seg>Ink low</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 부족</seg></tuv>
+    </tu>
+    <tu tuid="352">
+      <tuv xml:lang="en"><seg>Ink low CL unavailable - Green</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 부족 CL 사용 불가능 - 녹색</seg></tuv>
+    </tu>
+    <tu tuid="353">
+      <tuv xml:lang="en"><seg>Ink supply error. (Dark M)</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 공급 오류. (어두운 M)</seg></tuv>
+    </tu>
+    <tu tuid="354">
+      <tuv xml:lang="en"><seg>Install</seg></tuv>
+      <tuv xml:lang="ko"><seg>설치(I)</seg></tuv>
+    </tu>
+    <tu tuid="355">
+      <tuv xml:lang="en"><seg>Intent</seg></tuv>
+      <tuv xml:lang="ko"><seg>용도</seg></tuv>
+    </tu>
+    <tu tuid="356">
+      <tuv xml:lang="en"><seg>Internal guide D is open.\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>내부 안내서 D가 열려 있음.\n</seg></tuv>
+    </tu>
+    <tu tuid="357">
+      <tuv xml:lang="en"><seg>Invalid Configuration</seg></tuv>
+      <tuv xml:lang="ko"><seg>잘못된 구성</seg></tuv>
+    </tu>
+    <tu tuid="358">
+      <tuv xml:lang="en"><seg>Invalid Response received from the server.</seg></tuv>
+      <tuv xml:lang="ko"><seg>서버로부터 잘못된 응답이 수신되었습니다.</seg></tuv>
+    </tu>
+    <tu tuid="359">
+      <tuv xml:lang="en"><seg>Invalid output resolution for this device.</seg></tuv>
+      <tuv xml:lang="ko"><seg>이 장치의 출력 해상도가 잘못됨.</seg></tuv>
+    </tu>
+    <tu tuid="360">
+      <tuv xml:lang="en"><seg>It is recommended to turn off &quot;Print Multiple Rows at a Time&quot; in the Placement Strategy when printing multiple copies that span more than one row.</seg></tuv>
+      <tuv xml:lang="ko"><seg>두 행 이상에 걸친 여러 복사본을 인쇄할 때 배치 계획에서 &quot;한 번에 여러 행 인쇄&quot;를 끄는 것이 좋습니다.</seg></tuv>
+    </tu>
+    <tu tuid="361">
+      <tuv xml:lang="en"><seg>JOBS IN ORDER</seg></tuv>
+      <tuv xml:lang="ko"><seg>대기 중인 작업</seg></tuv>
+    </tu>
+    <tu tuid="362">
+      <tuv xml:lang="en"><seg>Jaws Rip option is not available!</seg></tuv>
+      <tuv xml:lang="ko"><seg>Jaws Rip 옵션을 사용할 수 없습니다!</seg></tuv>
+    </tu>
+    <tu tuid="363">
+      <tuv xml:lang="en"><seg>Job Creation:</seg></tuv>
+      <tuv xml:lang="ko"><seg>작업 만들기:</seg></tuv>
+    </tu>
+    <tu tuid="364">
+      <tuv xml:lang="en"><seg>Job Log</seg></tuv>
+      <tuv xml:lang="ko"><seg>작업 로그</seg></tuv>
+    </tu>
+    <tu tuid="365">
+      <tuv xml:lang="en"><seg>Job Progress</seg></tuv>
+      <tuv xml:lang="ko"><seg>작업 진행</seg></tuv>
+    </tu>
+    <tu tuid="366">
+      <tuv xml:lang="en"><seg>Job View</seg></tuv>
+      <tuv xml:lang="ko"><seg>작업 보기</seg></tuv>
+    </tu>
+    <tu tuid="367">
+      <tuv xml:lang="en"><seg>JobID not known by Controller.</seg></tuv>
+      <tuv xml:lang="ko"><seg>작업 ID가 컨트롤러에 알려져 있지 않습니다.</seg></tuv>
+    </tu>
+    <tu tuid="368">
+      <tuv xml:lang="en"><seg>KB</seg></tuv>
+      <tuv xml:lang="ko"><seg>KB</seg></tuv>
+    </tu>
+    <tu tuid="369">
+      <tuv xml:lang="en"><seg>Keep Black Mode</seg></tuv>
+      <tuv xml:lang="ko"><seg>검정 모드 유지</seg></tuv>
+    </tu>
+    <tu tuid="370">
+      <tuv xml:lang="en"><seg>Key Write Error</seg></tuv>
+      <tuv xml:lang="ko"><seg>키 쓰기 오류</seg></tuv>
+    </tu>
+    <tu tuid="371">
+      <tuv xml:lang="en"><seg>Kodak PosterShop Pro</seg></tuv>
+      <tuv xml:lang="ko"><seg>Kodak PosterShop Pro</seg></tuv>
+    </tu>
+    <tu tuid="372">
+      <tuv xml:lang="en"><seg>L*a*b* Source Image</seg></tuv>
+      <tuv xml:lang="ko"><seg>L*a*b* 소스 이미지</seg></tuv>
+    </tu>
+    <tu tuid="373">
+      <tuv xml:lang="en"><seg>LLk</seg></tuv>
+      <tuv xml:lang="ko"><seg>LLk</seg></tuv>
+    </tu>
+    <tu tuid="374">
+      <tuv xml:lang="en"><seg>Label Color</seg></tuv>
+      <tuv xml:lang="ko"><seg>레이블 색상</seg></tuv>
+    </tu>
+    <tu tuid="375">
+      <tuv xml:lang="en"><seg>Lamp Power</seg></tuv>
+      <tuv xml:lang="ko"><seg>램프 세기</seg></tuv>
+    </tu>
+    <tu tuid="376">
+      <tuv xml:lang="en"><seg>Large Format Printers</seg></tuv>
+      <tuv xml:lang="ko"><seg>대형 포맷 프린터</seg></tuv>
+    </tu>
+    <tu tuid="377">
+      <tuv xml:lang="en"><seg>Last scan failed. Please rescan.</seg></tuv>
+      <tuv xml:lang="ko"><seg>마지막 스캔에 실패했습니다. 다시 스캔하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="378">
+      <tuv xml:lang="en"><seg>Layer Name:</seg></tuv>
+      <tuv xml:lang="ko"><seg>레이어 이름:</seg></tuv>
+    </tu>
+    <tu tuid="379">
+      <tuv xml:lang="en"><seg>Left Margin</seg></tuv>
+      <tuv xml:lang="ko"><seg>왼쪽 여백</seg></tuv>
+    </tu>
+    <tu tuid="380">
+      <tuv xml:lang="en"><seg>Legacy</seg></tuv>
+      <tuv xml:lang="ko"><seg>레거시</seg></tuv>
+    </tu>
+    <tu tuid="381">
+      <tuv xml:lang="en"><seg>Level 3</seg></tuv>
+      <tuv xml:lang="ko"><seg>수준 3</seg></tuv>
+    </tu>
+    <tu tuid="382">
+      <tuv xml:lang="en"><seg>Library of &amp;type:</seg></tuv>
+      <tuv xml:lang="ko"><seg>라이브러리 유형(&amp;T):</seg></tuv>
+    </tu>
+    <tu tuid="383">
+      <tuv xml:lang="en"><seg>Light Jet 5000</seg></tuv>
+      <tuv xml:lang="ko"><seg>Light Jet 5000</seg></tuv>
+    </tu>
+    <tu tuid="384">
+      <tuv xml:lang="en"><seg>LightFast Dye 4 Color</seg></tuv>
+      <tuv xml:lang="ko"><seg>라이트패스트 염료 4 색상</seg></tuv>
+    </tu>
+    <tu tuid="385">
+      <tuv xml:lang="en"><seg>Line Screen</seg></tuv>
+      <tuv xml:lang="ko"><seg>선 화면</seg></tuv>
+    </tu>
+    <tu tuid="386">
+      <tuv xml:lang="en"><seg>Lines/Fast</seg></tuv>
+      <tuv xml:lang="ko"><seg>라인/빠르게</seg></tuv>
+    </tu>
+    <tu tuid="387">
+      <tuv xml:lang="en"><seg>Load the Media</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체 로드</seg></tuv>
+    </tu>
+    <tu tuid="388">
+      <tuv xml:lang="en"><seg>Local</seg></tuv>
+      <tuv xml:lang="ko"><seg>로컬</seg></tuv>
+    </tu>
+    <tu tuid="389">
+      <tuv xml:lang="en"><seg>Log</seg></tuv>
+      <tuv xml:lang="ko"><seg>로그</seg></tuv>
+    </tu>
+    <tu tuid="390">
+      <tuv xml:lang="en"><seg>Low Speed</seg></tuv>
+      <tuv xml:lang="ko"><seg>저속</seg></tuv>
+    </tu>
+    <tu tuid="391">
+      <tuv xml:lang="en"><seg>Lt Magenta</seg></tuv>
+      <tuv xml:lang="ko"><seg>밝은 자홍</seg></tuv>
+    </tu>
+    <tu tuid="392">
+      <tuv xml:lang="en"><seg>Lt-Lt-Light Green</seg></tuv>
+      <tuv xml:lang="ko"><seg>가장 밝은 녹색</seg></tuv>
+    </tu>
+    <tu tuid="393">
+      <tuv xml:lang="en"><seg>M L Black</seg></tuv>
+      <tuv xml:lang="ko"><seg>M L 검정</seg></tuv>
+    </tu>
+    <tu tuid="394">
+      <tuv xml:lang="en"><seg>Magenta Pattern</seg></tuv>
+      <tuv xml:lang="ko"><seg>자홍 패턴</seg></tuv>
+    </tu>
+    <tu tuid="395">
+      <tuv xml:lang="en"><seg>Main tank ink end - Light Cyan</seg></tuv>
+      <tuv xml:lang="ko"><seg>기본 탱크 잉크 끝 - 밝은 청록</seg></tuv>
+    </tu>
+    <tu tuid="396">
+      <tuv xml:lang="en"><seg>Maintenance tank full (1)</seg></tuv>
+      <tuv xml:lang="ko"><seg>관리 탱크 꽉 참(1)</seg></tuv>
+    </tu>
+    <tu tuid="397">
+      <tuv xml:lang="en"><seg>Make Path</seg></tuv>
+      <tuv xml:lang="ko"><seg>경로 만들기</seg></tuv>
+    </tu>
+    <tu tuid="398">
+      <tuv xml:lang="en"><seg>Manage Screen Configurations</seg></tuv>
+      <tuv xml:lang="ko"><seg>화면 구성 관리</seg></tuv>
+    </tu>
+    <tu tuid="399">
+      <tuv xml:lang="en"><seg>Manual Targeting</seg></tuv>
+      <tuv xml:lang="ko"><seg>수동 대상 지정</seg></tuv>
+    </tu>
+    <tu tuid="400">
+      <tuv xml:lang="en"><seg>Margins (%s): top:%.2f, left:%.2f, right:%.2f, bottom:%.2f</seg></tuv>
+      <tuv xml:lang="ko"><seg>여백(%s): 위:%.2f, 왼쪽:%.2f, 오른쪽:%.2f, 아래:%.2f</seg></tuv>
+    </tu>
+    <tu tuid="401">
+      <tuv xml:lang="en"><seg>Marks and Labels</seg></tuv>
+      <tuv xml:lang="ko"><seg>표시 및 레이블</seg></tuv>
+    </tu>
+    <tu tuid="402">
+      <tuv xml:lang="en"><seg>Max CII:</seg></tuv>
+      <tuv xml:lang="ko"><seg>최대 CII:</seg></tuv>
+    </tu>
+    <tu tuid="403">
+      <tuv xml:lang="en"><seg>Max ΔCh</seg></tuv>
+      <tuv xml:lang="ko"><seg>최대 ΔCh</seg></tuv>
+    </tu>
+    <tu tuid="404">
+      <tuv xml:lang="en"><seg>Maximum Height:</seg></tuv>
+      <tuv xml:lang="ko"><seg>최대 높이:</seg></tuv>
+    </tu>
+    <tu tuid="405">
+      <tuv xml:lang="en"><seg>MaximumTile Size (inches):</seg></tuv>
+      <tuv xml:lang="ko"><seg>최대 타일 크기(인치):</seg></tuv>
+    </tu>
+    <tu tuid="406">
+      <tuv xml:lang="en"><seg>Measure ColorCheck Swatch</seg></tuv>
+      <tuv xml:lang="ko"><seg>ColorCheck 스왓치 측정</seg></tuv>
+    </tu>
+    <tu tuid="407">
+      <tuv xml:lang="en"><seg>Measured:</seg></tuv>
+      <tuv xml:lang="ko"><seg>측정 수치:</seg></tuv>
+    </tu>
+    <tu tuid="408">
+      <tuv xml:lang="en"><seg>Measurement of Swatch Needed</seg></tuv>
+      <tuv xml:lang="ko"><seg>스왓치 측정이 필요함</seg></tuv>
+    </tu>
+    <tu tuid="409">
+      <tuv xml:lang="en"><seg>Media Archive OML File (*.OML)</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체 보관 OML 파일(*.OML)</seg></tuv>
+    </tu>
+    <tu tuid="410">
+      <tuv xml:lang="en"><seg>Media Cost</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체 비용</seg></tuv>
+    </tu>
+    <tu tuid="411">
+      <tuv xml:lang="en"><seg>Media Group</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체 그룹</seg></tuv>
+    </tu>
+    <tu tuid="412">
+      <tuv xml:lang="en"><seg>Media Settings</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체 설정</seg></tuv>
+    </tu>
+    <tu tuid="413">
+      <tuv xml:lang="en"><seg>Media Type 2:</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체 유형 2:</seg></tuv>
+    </tu>
+    <tu tuid="414">
+      <tuv xml:lang="en"><seg>Media and Page Size</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체 및 페이지 크기</seg></tuv>
+    </tu>
+    <tu tuid="415">
+      <tuv xml:lang="en"><seg>Media/Page Size Selection</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체/페이지 크기 선택</seg></tuv>
+    </tu>
+    <tu tuid="416">
+      <tuv xml:lang="en"><seg>Medium Heavy (25-27 lbs.)</seg></tuv>
+      <tuv xml:lang="ko"><seg>약간 무거움(25-27 lbs.)</seg></tuv>
+    </tu>
+    <tu tuid="417">
+      <tuv xml:lang="en"><seg>Meters</seg></tuv>
+      <tuv xml:lang="ko"><seg>미터</seg></tuv>
+    </tu>
+    <tu tuid="418">
+      <tuv xml:lang="en"><seg>Middle</seg></tuv>
+      <tuv xml:lang="ko"><seg>중앙</seg></tuv>
+    </tu>
+    <tu tuid="419">
+      <tuv xml:lang="en"><seg>Mimaki CG-130FX</seg></tuv>
+      <tuv xml:lang="ko"><seg>Mimaki CG-130FX</seg></tuv>
+    </tu>
+    <tu tuid="420">
+      <tuv xml:lang="en"><seg>Minimum gray value to have a pixel become a cut path.</seg></tuv>
+      <tuv xml:lang="ko"><seg>픽셀을 포함한 최소 회색 값이 자르기 경로가 됩니다.</seg></tuv>
+    </tu>
+    <tu tuid="421">
+      <tuv xml:lang="en"><seg>Missing cartridge</seg></tuv>
+      <tuv xml:lang="ko"><seg>카트리지 없음</seg></tuv>
+    </tu>
+    <tu tuid="422">
+      <tuv xml:lang="en"><seg>Mode 10, 1p, bi, 320 cps</seg></tuv>
+      <tuv xml:lang="ko"><seg>모드 10, 1p, 양방향, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="423">
+      <tuv xml:lang="en"><seg>Mode 5, 3p, uni, 320 cps</seg></tuv>
+      <tuv xml:lang="ko"><seg>모드 5, 3p, 단방향, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="424">
+      <tuv xml:lang="en"><seg>Mode Evaluation</seg></tuv>
+      <tuv xml:lang="ko"><seg>모드 평가</seg></tuv>
+    </tu>
+    <tu tuid="425">
+      <tuv xml:lang="en"><seg>Modify Defaults</seg></tuv>
+      <tuv xml:lang="ko"><seg>기본값 변경</seg></tuv>
+    </tu>
+    <tu tuid="426">
+      <tuv xml:lang="en"><seg>Monochrome (Color Off)</seg></tuv>
+      <tuv xml:lang="ko"><seg>모노크롬(색상 끔)</seg></tuv>
+    </tu>
+    <tu tuid="427">
+      <tuv xml:lang="en"><seg>Move</seg></tuv>
+      <tuv xml:lang="ko"><seg>이동</seg></tuv>
+    </tu>
+    <tu tuid="428">
+      <tuv xml:lang="en"><seg>Move Up</seg></tuv>
+      <tuv xml:lang="ko"><seg>위로 이동</seg></tuv>
+    </tu>
+    <tu tuid="429">
+      <tuv xml:lang="en"><seg>Move to top</seg></tuv>
+      <tuv xml:lang="ko"><seg>맨 위로 이동</seg></tuv>
+    </tu>
+    <tu tuid="430">
+      <tuv xml:lang="en"><seg>Multichannel</seg></tuv>
+      <tuv xml:lang="ko"><seg>다중 채널</seg></tuv>
+    </tu>
+    <tu tuid="431">
+      <tuv xml:lang="en"><seg>Mutoh MutohRJ Options</seg></tuv>
+      <tuv xml:lang="ko"><seg>Mutoh MutohRJ 옵션</seg></tuv>
+    </tu>
+    <tu tuid="432">
+      <tuv xml:lang="en"><seg>NOTE</seg></tuv>
+      <tuv xml:lang="ko"><seg>참고</seg></tuv>
+    </tu>
+    <tu tuid="433">
+      <tuv xml:lang="en"><seg>Name Colors Used</seg></tuv>
+      <tuv xml:lang="ko"><seg>사용된 이름 색상</seg></tuv>
+    </tu>
+    <tu tuid="434">
+      <tuv xml:lang="en"><seg>Named Color Profile</seg></tuv>
+      <tuv xml:lang="ko"><seg>명명된 색상 프로파일</seg></tuv>
+    </tu>
+    <tu tuid="435">
+      <tuv xml:lang="en"><seg>NeoltCeramics Printer Resource DLL</seg></tuv>
+      <tuv xml:lang="ko"><seg>NeoltCeramics 프린터 리소스 DLL</seg></tuv>
+    </tu>
+    <tu tuid="436">
+      <tuv xml:lang="en"><seg>Neutrals</seg></tuv>
+      <tuv xml:lang="ko"><seg>중립</seg></tuv>
+    </tu>
+    <tu tuid="437">
+      <tuv xml:lang="en"><seg>New Pen Configuration</seg></tuv>
+      <tuv xml:lang="ko"><seg>새 펜 구성</seg></tuv>
+    </tu>
+    <tu tuid="438">
+      <tuv xml:lang="en"><seg>Next Job</seg></tuv>
+      <tuv xml:lang="ko"><seg>다음 작업</seg></tuv>
+    </tu>
+    <tu tuid="439">
+      <tuv xml:lang="en"><seg>No Filter</seg></tuv>
+      <tuv xml:lang="ko"><seg>필터 없음</seg></tuv>
+    </tu>
+    <tu tuid="440">
+      <tuv xml:lang="en"><seg>No Light Inks</seg></tuv>
+      <tuv xml:lang="ko"><seg>밝은 잉크 없음</seg></tuv>
+    </tu>
+    <tu tuid="441">
+      <tuv xml:lang="en"><seg>No Profiles</seg></tuv>
+      <tuv xml:lang="ko"><seg>프로파일 없음</seg></tuv>
+    </tu>
+    <tu tuid="442">
+      <tuv xml:lang="en"><seg>No default values for current resolution and media type</seg></tuv>
+      <tuv xml:lang="ko"><seg>현재 해상도 및 매체 유형의 기본값 없음</seg></tuv>
+    </tu>
+    <tu tuid="443">
+      <tuv xml:lang="en"><seg>No jobs are available for reprinting.</seg></tuv>
+      <tuv xml:lang="ko"><seg>재인쇄에 사용할 수 있는 작업이 없습니다.</seg></tuv>
+    </tu>
+    <tu tuid="444">
+      <tuv xml:lang="en"><seg>No photo cyan ink.\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>청록 사진 잉크가 없음.\n</seg></tuv>
+    </tu>
+    <tu tuid="445">
+      <tuv xml:lang="en"><seg>No version information</seg></tuv>
+      <tuv xml:lang="ko"><seg>버전 정보 없음</seg></tuv>
+    </tu>
+    <tu tuid="446">
+      <tuv xml:lang="en"><seg>Normal</seg></tuv>
+      <tuv xml:lang="ko"><seg>표준</seg></tuv>
+    </tu>
+    <tu tuid="447">
+      <tuv xml:lang="en"><seg>Normal Speed</seg></tuv>
+      <tuv xml:lang="ko"><seg>정상 속도</seg></tuv>
+    </tu>
+    <tu tuid="448">
+      <tuv xml:lang="en"><seg>Not Using G7 Native CMY</seg></tuv>
+      <tuv xml:lang="ko"><seg>G7 Native CMY 사용 안 함</seg></tuv>
+    </tu>
+    <tu tuid="449">
+      <tuv xml:lang="en"><seg>Note: Changing the Ink Limit type and clicking &apos;Print Swatch&apos; or the &apos;Next&apos; button will result in the loss of previous Ink Limit settings.</seg></tuv>
+      <tuv xml:lang="ko"><seg>참고: 잉크 한계 유형을 변경하고 &apos;스왓치 인쇄&apos; 또는 &apos;다음&apos; 단추를 클릭하면 이전 잉크 한계 설정이 손실됩니다.</seg></tuv>
+    </tu>
+    <tu tuid="450">
+      <tuv xml:lang="en"><seg>Note: The measurement condition switch should be in the position 0</seg></tuv>
+      <tuv xml:lang="ko"><seg>참고: 측정 조건 스위치는 위치 0에 있어야 합니다.</seg></tuv>
+    </tu>
+    <tu tuid="451">
+      <tuv xml:lang="en"><seg>Nozzle EVEN</seg></tuv>
+      <tuv xml:lang="ko"><seg>노즐 짝수</seg></tuv>
+    </tu>
+    <tu tuid="452">
+      <tuv xml:lang="en"><seg>Number of Printer Copies</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터 인쇄 매수</seg></tuv>
+    </tu>
+    <tu tuid="453">
+      <tuv xml:lang="en"><seg>OLF Support</seg></tuv>
+      <tuv xml:lang="ko"><seg>OLF 지원</seg></tuv>
+    </tu>
+    <tu tuid="454">
+      <tuv xml:lang="en"><seg>ONYX Hub is not supported by key. Server will only support API requests.</seg></tuv>
+      <tuv xml:lang="ko"><seg>ONYX Hub는 키에서 지원하지 않습니다. 서버는 API 요청만 지원합니다.</seg></tuv>
+    </tu>
+    <tu tuid="455">
+      <tuv xml:lang="en"><seg>OVR</seg></tuv>
+      <tuv xml:lang="ko"><seg>OVR</seg></tuv>
+    </tu>
+    <tu tuid="456">
+      <tuv xml:lang="en"><seg>Offset</seg></tuv>
+      <tuv xml:lang="ko"><seg>오프셋</seg></tuv>
+    </tu>
+    <tu tuid="457">
+      <tuv xml:lang="en"><seg>On Process</seg></tuv>
+      <tuv xml:lang="ko"><seg>처리 중</seg></tuv>
+    </tu>
+    <tu tuid="458">
+      <tuv xml:lang="en"><seg>Online Support Portal</seg></tuv>
+      <tuv xml:lang="ko"><seg>온라인 지원 포털</seg></tuv>
+    </tu>
+    <tu tuid="459">
+      <tuv xml:lang="en"><seg>Onyx Graphics, Inc.</seg></tuv>
+      <tuv xml:lang="ko"><seg>Onyx Graphics, Inc.</seg></tuv>
+    </tu>
+    <tu tuid="460">
+      <tuv xml:lang="en"><seg>Open File Separations</seg></tuv>
+      <tuv xml:lang="ko"><seg>파일 분리 열기</seg></tuv>
+    </tu>
+    <tu tuid="461">
+      <tuv xml:lang="en"><seg>Open Update Key File</seg></tuv>
+      <tuv xml:lang="ko"><seg>업데이트 키 파일 열기</seg></tuv>
+    </tu>
+    <tu tuid="462">
+      <tuv xml:lang="en"><seg>OpenCommunication on</seg></tuv>
+      <tuv xml:lang="ko"><seg>통신 열림</seg></tuv>
+    </tu>
+    <tu tuid="463">
+      <tuv xml:lang="en"><seg>Optimize Mode Name</seg></tuv>
+      <tuv xml:lang="ko"><seg>최적화 모드 이름</seg></tuv>
+    </tu>
+    <tu tuid="464">
+      <tuv xml:lang="en"><seg>Orange Ink Near End</seg></tuv>
+      <tuv xml:lang="ko"><seg>주황색 잉크 부족</seg></tuv>
+    </tu>
+    <tu tuid="465">
+      <tuv xml:lang="en"><seg>Original Image</seg></tuv>
+      <tuv xml:lang="ko"><seg>원본 이미지</seg></tuv>
+    </tu>
+    <tu tuid="466">
+      <tuv xml:lang="en"><seg>Outer Roller Pressure:</seg></tuv>
+      <tuv xml:lang="ko"><seg>외부 롤러 압력:</seg></tuv>
+    </tu>
+    <tu tuid="467">
+      <tuv xml:lang="en"><seg>Output Path:</seg></tuv>
+      <tuv xml:lang="ko"><seg>출력 경로:</seg></tuv>
+    </tu>
+    <tu tuid="468">
+      <tuv xml:lang="en"><seg>Ovedrride Default Dot Size</seg></tuv>
+      <tuv xml:lang="ko"><seg>기본 도트 크기 재지정</seg></tuv>
+    </tu>
+    <tu tuid="469">
+      <tuv xml:lang="en"><seg>Overlay (White on Color/Metal)</seg></tuv>
+      <tuv xml:lang="ko"><seg>오버레이(컬러/금속 바탕에 흰색)</seg></tuv>
+    </tu>
+    <tu tuid="470">
+      <tuv xml:lang="en"><seg>Override Pass Mode</seg></tuv>
+      <tuv xml:lang="ko"><seg>패스 모드 무시</seg></tuv>
+    </tu>
+    <tu tuid="471">
+      <tuv xml:lang="en"><seg>P&amp;references...</seg></tuv>
+      <tuv xml:lang="ko"><seg>기본 설정 (&amp;R)...</seg></tuv>
+    </tu>
+    <tu tuid="472">
+      <tuv xml:lang="en"><seg>PDF Files</seg></tuv>
+      <tuv xml:lang="ko"><seg>PDF 파일</seg></tuv>
+    </tu>
+    <tu tuid="473">
+      <tuv xml:lang="en"><seg>PRINTER Files (*.PRINTER)|*.PRINTER|</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터 파일 (*.프린터)|*.프린터|</seg></tuv>
+    </tu>
+    <tu tuid="474">
+      <tuv xml:lang="en"><seg>PS/PDF Options</seg></tuv>
+      <tuv xml:lang="ko"><seg>PS/PDF 옵션</seg></tuv>
+    </tu>
+    <tu tuid="475">
+      <tuv xml:lang="en"><seg>Page &amp;Num:</seg></tuv>
+      <tuv xml:lang="ko"><seg>페이지 번호(&amp;N):</seg></tuv>
+    </tu>
+    <tu tuid="476">
+      <tuv xml:lang="en"><seg>Page Size Name</seg></tuv>
+      <tuv xml:lang="ko"><seg>페이지 크기 이름</seg></tuv>
+    </tu>
+    <tu tuid="477">
+      <tuv xml:lang="en"><seg>Pannel Setting</seg></tuv>
+      <tuv xml:lang="ko"><seg>패널 설정</seg></tuv>
+    </tu>
+    <tu tuid="478">
+      <tuv xml:lang="en"><seg>Paper No. %d</seg></tuv>
+      <tuv xml:lang="ko"><seg>용지 번호 %d</seg></tuv>
+    </tu>
+    <tu tuid="479">
+      <tuv xml:lang="en"><seg>Paper change unfinished error</seg></tuv>
+      <tuv xml:lang="ko"><seg>용지 변경 미완료 오류</seg></tuv>
+    </tu>
+    <tu tuid="480">
+      <tuv xml:lang="en"><seg>Paper returns to cassette after printing</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 후 카세트로 용지 반환</seg></tuv>
+    </tu>
+    <tu tuid="481">
+      <tuv xml:lang="en"><seg>Parity</seg></tuv>
+      <tuv xml:lang="ko"><seg>패리티</seg></tuv>
+    </tu>
+    <tu tuid="482">
+      <tuv xml:lang="en"><seg>Passes</seg></tuv>
+      <tuv xml:lang="ko"><seg>패스</seg></tuv>
+    </tu>
+    <tu tuid="483">
+      <tuv xml:lang="en"><seg>Patch Gap:</seg></tuv>
+      <tuv xml:lang="ko"><seg>패치 간격:</seg></tuv>
+    </tu>
+    <tu tuid="484">
+      <tuv xml:lang="en"><seg>Patches per ink: %d</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 당 패치: %d</seg></tuv>
+    </tu>
+    <tu tuid="485">
+      <tuv xml:lang="en"><seg>Pattern Spreading works best on straight lines and sharp corners.</seg></tuv>
+      <tuv xml:lang="ko"><seg>형식 확산은 직선과 뚜렷한 모서리에서 효과가 가장 우수합니다.</seg></tuv>
+    </tu>
+    <tu tuid="486">
+      <tuv xml:lang="en"><seg>Pen Weight:</seg></tuv>
+      <tuv xml:lang="ko"><seg>펜 높이:</seg></tuv>
+    </tu>
+    <tu tuid="487">
+      <tuv xml:lang="en"><seg>Percentage of CII &lt; 1:</seg></tuv>
+      <tuv xml:lang="ko"><seg>CII의 백분율 &lt; 1:</seg></tuv>
+    </tu>
+    <tu tuid="488">
+      <tuv xml:lang="en"><seg>Perform sheet mount cleaning.</seg></tuv>
+      <tuv xml:lang="ko"><seg>시트 탑재 청소를 수행합니다.</seg></tuv>
+    </tu>
+    <tu tuid="489">
+      <tuv xml:lang="en"><seg>Photo Cyan</seg></tuv>
+      <tuv xml:lang="ko"><seg>사진 청록</seg></tuv>
+    </tu>
+    <tu tuid="490">
+      <tuv xml:lang="en"><seg>Physical Prints</seg></tuv>
+      <tuv xml:lang="ko"><seg>실제 인쇄</seg></tuv>
+    </tu>
+    <tu tuid="491">
+      <tuv xml:lang="en"><seg>Pixel Double</seg></tuv>
+      <tuv xml:lang="ko"><seg>이중 픽셀</seg></tuv>
+    </tu>
+    <tu tuid="492">
+      <tuv xml:lang="en"><seg>Platen</seg></tuv>
+      <tuv xml:lang="ko"><seg>압반</seg></tuv>
+    </tu>
+    <tu tuid="493">
+      <tuv xml:lang="en"><seg>Please check and retype the fields marked with red stars.\nPlease note that an e-mail containing your unlock code will be sent to this e-mail address.</seg></tuv>
+      <tuv xml:lang="ko"><seg>빨간색 별표로 표시된 필드를 확인하고 다시 입력하십시오.\n전자 우편을 보낼 때 이 메일 주소로 잠금 해제 코드를 기재하여 보냅니다.</seg></tuv>
+    </tu>
+    <tu tuid="494">
+      <tuv xml:lang="en"><seg>Please enter a name for the printer.</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터에 대한 이름을 입력하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="495">
+      <tuv xml:lang="en"><seg>Please insert chart.</seg></tuv>
+      <tuv xml:lang="ko"><seg>차트를 삽입하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="496">
+      <tuv xml:lang="en"><seg>Please place the device on the white reference, and then press the measure button to calibrate.\n\nPlease do not lift the device from the white reference until the next instruction.</seg></tuv>
+      <tuv xml:lang="ko"><seg>장치를 흰색 참조에 놓은 다음 측정 단추를 눌러 보정하십시오.\n\n다음 지침이 나타날 때까지 장치를 흰색 참조에서 들어 올리지 마십시오.</seg></tuv>
+    </tu>
+    <tu tuid="497">
+      <tuv xml:lang="en"><seg>Please select a port for the device.</seg></tuv>
+      <tuv xml:lang="ko"><seg>장치의 포트를 선택하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="498">
+      <tuv xml:lang="en"><seg>Please wait for a few seconds while detecting keys.</seg></tuv>
+      <tuv xml:lang="ko"><seg>키를 감지하는 데 몇 초가 걸릴 수 있습니다. 기다려 주십시오.</seg></tuv>
+    </tu>
+    <tu tuid="499">
+      <tuv xml:lang="en"><seg>Port Busy</seg></tuv>
+      <tuv xml:lang="ko"><seg>포트 사용 중</seg></tuv>
+    </tu>
+    <tu tuid="500">
+      <tuv xml:lang="en"><seg>Port Write Error (%d):</seg></tuv>
+      <tuv xml:lang="ko"><seg>포트 쓰기 오류(%d):</seg></tuv>
+    </tu>
+    <tu tuid="501">
+      <tuv xml:lang="en"><seg>Post Lamp:</seg></tuv>
+      <tuv xml:lang="ko"><seg>이후 램프:</seg></tuv>
+    </tu>
+    <tu tuid="502">
+      <tuv xml:lang="en"><seg>PosterShop</seg></tuv>
+      <tuv xml:lang="ko"><seg>PosterShop</seg></tuv>
+    </tu>
+    <tu tuid="503">
+      <tuv xml:lang="en"><seg>PosterShop Server - Epson 5000 Only</seg></tuv>
+      <tuv xml:lang="ko"><seg>PosterShop Server - Epson 5000 전용</seg></tuv>
+    </tu>
+    <tu tuid="504">
+      <tuv xml:lang="en"><seg>Postscript Source Image</seg></tuv>
+      <tuv xml:lang="ko"><seg>Postscript 소스 이미지</seg></tuv>
+    </tu>
+    <tu tuid="505">
+      <tuv xml:lang="en"><seg>Pre-cure Power:</seg></tuv>
+      <tuv xml:lang="ko"><seg>전경화 전력:</seg></tuv>
+    </tu>
+    <tu tuid="506">
+      <tuv xml:lang="en"><seg>Preflight</seg></tuv>
+      <tuv xml:lang="ko"><seg>Preflight</seg></tuv>
+    </tu>
+    <tu tuid="507">
+      <tuv xml:lang="en"><seg>Preparing</seg></tuv>
+      <tuv xml:lang="ko"><seg>준비</seg></tuv>
+    </tu>
+    <tu tuid="508">
+      <tuv xml:lang="en"><seg>Preset Summary</seg></tuv>
+      <tuv xml:lang="ko"><seg>미리 설정 요약</seg></tuv>
+    </tu>
+    <tu tuid="509">
+      <tuv xml:lang="en"><seg>Preview Changes</seg></tuv>
+      <tuv xml:lang="ko"><seg>변경 내용 미리보기</seg></tuv>
+    </tu>
+    <tu tuid="510">
+      <tuv xml:lang="en"><seg>Previous setting: %.1f, new setting: %.1f</seg></tuv>
+      <tuv xml:lang="ko"><seg>이전 설정: %.1f, 새 설정: %.1f</seg></tuv>
+    </tu>
+    <tu tuid="511">
+      <tuv xml:lang="en"><seg>Primer -&gt; Color (Underprint)</seg></tuv>
+      <tuv xml:lang="ko"><seg>프라이머 -&gt; 색상(언더 프린트)</seg></tuv>
+    </tu>
+    <tu tuid="512">
+      <tuv xml:lang="en"><seg>Print Barcode Label</seg></tuv>
+      <tuv xml:lang="ko"><seg>바코드 레이블 인쇄</seg></tuv>
+    </tu>
+    <tu tuid="513">
+      <tuv xml:lang="en"><seg>Print Cyan Ink with:</seg></tuv>
+      <tuv xml:lang="ko"><seg>청록 잉크 인쇄:</seg></tuv>
+    </tu>
+    <tu tuid="514">
+      <tuv xml:lang="en"><seg>Print Forwarding</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 전달</seg></tuv>
+    </tu>
+    <tu tuid="515">
+      <tuv xml:lang="en"><seg>Print Label</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 레이블</seg></tuv>
+    </tu>
+    <tu tuid="516">
+      <tuv xml:lang="en"><seg>Print Mode Name:</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 모드 이름:</seg></tuv>
+    </tu>
+    <tu tuid="517">
+      <tuv xml:lang="en"><seg>Print Order:</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 순서:</seg></tuv>
+    </tu>
+    <tu tuid="518">
+      <tuv xml:lang="en"><seg>Print Reflection</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 반사</seg></tuv>
+    </tu>
+    <tu tuid="519">
+      <tuv xml:lang="en"><seg>Print Surface Temperature:</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 표면 온도:</seg></tuv>
+    </tu>
+    <tu tuid="520">
+      <tuv xml:lang="en"><seg>Print White Ink with:</seg></tuv>
+      <tuv xml:lang="ko"><seg>흰색 잉크 인쇄:</seg></tuv>
+    </tu>
+    <tu tuid="521">
+      <tuv xml:lang="en"><seg>Print and Read the Ink Limits swatch</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 한계 스왓치 인쇄 및 읽기</seg></tuv>
+    </tu>
+    <tu tuid="522">
+      <tuv xml:lang="en"><seg>Print grey balance swatch.</seg></tuv>
+      <tuv xml:lang="ko"><seg>회색 균형 스왓치를 인쇄합니다.</seg></tuv>
+    </tu>
+    <tu tuid="523">
+      <tuv xml:lang="en"><seg>Print mode selectors</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 모드 선택기</seg></tuv>
+    </tu>
+    <tu tuid="524">
+      <tuv xml:lang="en"><seg>Print to mode specific folder</seg></tuv>
+      <tuv xml:lang="ko"><seg>모드 지정 폴더에 인쇄</seg></tuv>
+    </tu>
+    <tu tuid="525">
+      <tuv xml:lang="en"><seg>Printed Media Area</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄된 매체 영역</seg></tuv>
+    </tu>
+    <tu tuid="526">
+      <tuv xml:lang="en"><seg>Printer Device</seg></tuv>
+      <tuv xml:lang="ko"><seg>출력장치</seg></tuv>
+    </tu>
+    <tu tuid="527">
+      <tuv xml:lang="en"><seg>Printer Initializing</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터 초기화</seg></tuv>
+    </tu>
+    <tu tuid="528">
+      <tuv xml:lang="en"><seg>Printer Options...</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터 옵션...</seg></tuv>
+    </tu>
+    <tu tuid="529">
+      <tuv xml:lang="en"><seg>Printer Versions</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터 버전</seg></tuv>
+    </tu>
+    <tu tuid="530">
+      <tuv xml:lang="en"><seg>Printer error!</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터 오류!</seg></tuv>
+    </tu>
+    <tu tuid="531">
+      <tuv xml:lang="en"><seg>Printer is powered off.</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터의 전원이 꺼져 있습니다.</seg></tuv>
+    </tu>
+    <tu tuid="532">
+      <tuv xml:lang="en"><seg>Printer&apos;s loaded ink set is different from the one selected for the job.</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터에 로드한 잉크 설정이 이 작업에 선택된 잉크 설정과 다릅니다.</seg></tuv>
+    </tu>
+    <tu tuid="533">
+      <tuv xml:lang="en"><seg>Printing Completed Successfully</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄가 성공적으로 완료되었습니다.</seg></tuv>
+    </tu>
+    <tu tuid="534">
+      <tuv xml:lang="en"><seg>Printing gutter must be installed</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 Gutter를 설치해야 합니다.</seg></tuv>
+    </tu>
+    <tu tuid="535">
+      <tuv xml:lang="en"><seg>Prints Due (Job Ticket)</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 기한(작업 티켓)</seg></tuv>
+    </tu>
+    <tu tuid="536">
+      <tuv xml:lang="en"><seg>Process Channel:</seg></tuv>
+      <tuv xml:lang="ko"><seg>처리 채널:</seg></tuv>
+    </tu>
+    <tu tuid="537">
+      <tuv xml:lang="en"><seg>Process raster dithering at interpretation</seg></tuv>
+      <tuv xml:lang="ko"><seg>해석 시 래스터 디더링 수행</seg></tuv>
+    </tu>
+    <tu tuid="538">
+      <tuv xml:lang="en"><seg>Processing to print %d copies of &apos;%s&apos;...\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>%d 인쇄 처리 중, 총 매수 &apos;%s&apos;...\n</seg></tuv>
+    </tu>
+    <tu tuid="539">
+      <tuv xml:lang="en"><seg>Production (HQ1)</seg></tuv>
+      <tuv xml:lang="ko"><seg>제품(HQ1)</seg></tuv>
+    </tu>
+    <tu tuid="540">
+      <tuv xml:lang="en"><seg>Production uni-directional</seg></tuv>
+      <tuv xml:lang="ko"><seg>제품 단방향</seg></tuv>
+    </tu>
+    <tu tuid="541">
+      <tuv xml:lang="en"><seg>Profile Generator</seg></tuv>
+      <tuv xml:lang="ko"><seg>프로파일 생성기</seg></tuv>
+    </tu>
+    <tu tuid="542">
+      <tuv xml:lang="en"><seg>Profiler problem on the printer!</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터의 프로파일러 문제입니다!</seg></tuv>
+    </tu>
+    <tu tuid="543">
+      <tuv xml:lang="en"><seg>Prompt for Output Folder</seg></tuv>
+      <tuv xml:lang="ko"><seg>출력 폴더 프롬프트</seg></tuv>
+    </tu>
+    <tu tuid="544">
+      <tuv xml:lang="en"><seg>Properties</seg></tuv>
+      <tuv xml:lang="ko"><seg>속성</seg></tuv>
+    </tu>
+    <tu tuid="545">
+      <tuv xml:lang="en"><seg>Quality (HQ2)</seg></tuv>
+      <tuv xml:lang="ko"><seg>품질(HQ2)</seg></tuv>
+    </tu>
+    <tu tuid="546">
+      <tuv xml:lang="en"><seg>Quality 12, 12p, 320 cps, Bidir</seg></tuv>
+      <tuv xml:lang="ko"><seg>품질 12, 12p, 320 cps, 양방향</seg></tuv>
+    </tu>
+    <tu tuid="547">
+      <tuv xml:lang="en"><seg>Quality 3, 18p, sym, 240 cps</seg></tuv>
+      <tuv xml:lang="ko"><seg>품질 3, 18p, 기호, 240 cps</seg></tuv>
+    </tu>
+    <tu tuid="548">
+      <tuv xml:lang="en"><seg>Quality 5, 8p, uni, 240 cps</seg></tuv>
+      <tuv xml:lang="ko"><seg>품질 5, 8p, 단방향, 240 cps</seg></tuv>
+    </tu>
+    <tu tuid="549">
+      <tuv xml:lang="en"><seg>Quality uni-directional</seg></tuv>
+      <tuv xml:lang="ko"><seg>품질 단방향</seg></tuv>
+    </tu>
+    <tu tuid="550">
+      <tuv xml:lang="en"><seg>Queue entry is not running.</seg></tuv>
+      <tuv xml:lang="ko"><seg>대기열 항목이 실행 중이지 않습니다.</seg></tuv>
+    </tu>
+    <tu tuid="551">
+      <tuv xml:lang="en"><seg>QuickGCR Level</seg></tuv>
+      <tuv xml:lang="ko"><seg>QuickGCR 수준</seg></tuv>
+    </tu>
+    <tu tuid="552">
+      <tuv xml:lang="en"><seg>RGB Percent</seg></tuv>
+      <tuv xml:lang="ko"><seg>RGB 퍼센트</seg></tuv>
+    </tu>
+    <tu tuid="553">
+      <tuv xml:lang="en"><seg>RGI Printer Info</seg></tuv>
+      <tuv xml:lang="ko"><seg>RGI 프린터 정보</seg></tuv>
+    </tu>
+    <tu tuid="554">
+      <tuv xml:lang="en"><seg>RasterFileMode6</seg></tuv>
+      <tuv xml:lang="ko"><seg>RasterFileMode6</seg></tuv>
+    </tu>
+    <tu tuid="555">
+      <tuv xml:lang="en"><seg>Read Date:</seg></tuv>
+      <tuv xml:lang="ko"><seg>읽은 날짜:</seg></tuv>
+    </tu>
+    <tu tuid="556">
+      <tuv xml:lang="en"><seg>Read the ink restriction swatch</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 제한 스왓치 읽기</seg></tuv>
+    </tu>
+    <tu tuid="557">
+      <tuv xml:lang="en"><seg>Ready</seg></tuv>
+      <tuv xml:lang="ko"><seg>준비</seg></tuv>
+    </tu>
+    <tu tuid="558">
+      <tuv xml:lang="en"><seg>Recalibrate</seg></tuv>
+      <tuv xml:lang="ko"><seg>재보정</seg></tuv>
+    </tu>
+    <tu tuid="559">
+      <tuv xml:lang="en"><seg>Recent Library</seg></tuv>
+      <tuv xml:lang="ko"><seg>최근 라이브러리</seg></tuv>
+    </tu>
+    <tu tuid="560">
+      <tuv xml:lang="en"><seg>Red Limit</seg></tuv>
+      <tuv xml:lang="ko"><seg>빨간색 한계</seg></tuv>
+    </tu>
+    <tu tuid="561">
+      <tuv xml:lang="en"><seg>Refresh Page</seg></tuv>
+      <tuv xml:lang="ko"><seg>페이지 재생</seg></tuv>
+    </tu>
+    <tu tuid="562">
+      <tuv xml:lang="en"><seg>Registration Pin:</seg></tuv>
+      <tuv xml:lang="ko"><seg>등록 핀:</seg></tuv>
+    </tu>
+    <tu tuid="563">
+      <tuv xml:lang="en"><seg>Release</seg></tuv>
+      <tuv xml:lang="ko"><seg>릴리스</seg></tuv>
+    </tu>
+    <tu tuid="564">
+      <tuv xml:lang="en"><seg>Remove &apos;%s&apos; from Queue?</seg></tuv>
+      <tuv xml:lang="ko"><seg>대기 행렬에서 &apos;%s&apos;을(를) 제거하시겠습니까?</seg></tuv>
+    </tu>
+    <tu tuid="565">
+      <tuv xml:lang="en"><seg>Rename Calibration</seg></tuv>
+      <tuv xml:lang="ko"><seg>보정 이름 변경</seg></tuv>
+    </tu>
+    <tu tuid="566">
+      <tuv xml:lang="en"><seg>Render:</seg></tuv>
+      <tuv xml:lang="ko"><seg>렌더:</seg></tuv>
+    </tu>
+    <tu tuid="567">
+      <tuv xml:lang="en"><seg>Replace files the engine has lost.</seg></tuv>
+      <tuv xml:lang="ko"><seg>엔진에서 유실된 파일을 대체하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="568">
+      <tuv xml:lang="en"><seg>Report Results</seg></tuv>
+      <tuv xml:lang="ko"><seg>보고 결과</seg></tuv>
+    </tu>
+    <tu tuid="569">
+      <tuv xml:lang="en"><seg>Request Registration Code</seg></tuv>
+      <tuv xml:lang="ko"><seg>등록 코드 요청</seg></tuv>
+    </tu>
+    <tu tuid="570">
+      <tuv xml:lang="en"><seg>Reset Pattern</seg></tuv>
+      <tuv xml:lang="ko"><seg>패턴 재설정</seg></tuv>
+    </tu>
+    <tu tuid="571">
+      <tuv xml:lang="en"><seg>Resolution:</seg></tuv>
+      <tuv xml:lang="ko"><seg>해상도:</seg></tuv>
+    </tu>
+    <tu tuid="572">
+      <tuv xml:lang="en"><seg>Retain Aspect Ratio</seg></tuv>
+      <tuv xml:lang="ko"><seg>가로세로비 유지</seg></tuv>
+    </tu>
+    <tu tuid="573">
+      <tuv xml:lang="en"><seg>Revised</seg></tuv>
+      <tuv xml:lang="ko"><seg>수정됨</seg></tuv>
+    </tu>
+    <tu tuid="574">
+      <tuv xml:lang="en"><seg>Right Lamp Power %</seg></tuv>
+      <tuv xml:lang="ko"><seg>오른쪽 램프 전력 %</seg></tuv>
+    </tu>
+    <tu tuid="575">
+      <tuv xml:lang="en"><seg>Rip</seg></tuv>
+      <tuv xml:lang="ko"><seg>Rip</seg></tuv>
+    </tu>
+    <tu tuid="576">
+      <tuv xml:lang="en"><seg>Roll 1</seg></tuv>
+      <tuv xml:lang="ko"><seg>롤 1</seg></tuv>
+    </tu>
+    <tu tuid="577">
+      <tuv xml:lang="en"><seg>Roll back media by the amount designated.</seg></tuv>
+      <tuv xml:lang="ko"><seg>지정된 양만큼의 매체를 롤백하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="578">
+      <tuv xml:lang="en"><seg>Rotate</seg></tuv>
+      <tuv xml:lang="ko"><seg>회전</seg></tuv>
+    </tu>
+    <tu tuid="579">
+      <tuv xml:lang="en"><seg>Rotate individual tiles</seg></tuv>
+      <tuv xml:lang="ko"><seg>개별 타일 회전</seg></tuv>
+    </tu>
+    <tu tuid="580">
+      <tuv xml:lang="en"><seg>Row / Column</seg></tuv>
+      <tuv xml:lang="ko"><seg>행 / 열</seg></tuv>
+    </tu>
+    <tu tuid="581">
+      <tuv xml:lang="en"><seg>Running General Settings Config...\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>일반 설정 구성 실행 중...\n</seg></tuv>
+    </tu>
+    <tu tuid="582">
+      <tuv xml:lang="en"><seg>S7</seg></tuv>
+      <tuv xml:lang="ko"><seg>S7</seg></tuv>
+    </tu>
+    <tu tuid="583">
+      <tuv xml:lang="en"><seg>SCSI Scan</seg></tuv>
+      <tuv xml:lang="ko"><seg>SCSI 스캔</seg></tuv>
+    </tu>
+    <tu tuid="584">
+      <tuv xml:lang="en"><seg>Sa&amp;ve Media</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체 저장 (&amp;V)</seg></tuv>
+    </tu>
+    <tu tuid="585">
+      <tuv xml:lang="en"><seg>Saturation Extreme</seg></tuv>
+      <tuv xml:lang="ko"><seg>채도 극한</seg></tuv>
+    </tu>
+    <tu tuid="586">
+      <tuv xml:lang="en"><seg>Save Linear Model as:</seg></tuv>
+      <tuv xml:lang="ko"><seg>선형 모델을 다음 이름으로 저장:</seg></tuv>
+    </tu>
+    <tu tuid="587">
+      <tuv xml:lang="en"><seg>Save the active document\nSave</seg></tuv>
+      <tuv xml:lang="ko"><seg>활성 문서를 저장합니다.\n저장</seg></tuv>
+    </tu>
+    <tu tuid="588">
+      <tuv xml:lang="en"><seg>Scale Up</seg></tuv>
+      <tuv xml:lang="ko"><seg>배율 증가</seg></tuv>
+    </tu>
+    <tu tuid="589">
+      <tuv xml:lang="en"><seg>Scan the row from Left to Right as instructed before.\nStart&gt;&gt;&gt;------------------&gt;&gt;&gt;Stop</seg></tuv>
+      <tuv xml:lang="ko"><seg>이전의 지시에 따라 왼쪽에서 오른쪽으로 행을 스캔합니다.\n시작&gt;&gt;&gt;------------------&gt;&gt;&gt;중지</seg></tuv>
+    </tu>
+    <tu tuid="590">
+      <tuv xml:lang="en"><seg>Scramble Swatch</seg></tuv>
+      <tuv xml:lang="ko"><seg>스크램블 스왓치</seg></tuv>
+    </tu>
+    <tu tuid="591">
+      <tuv xml:lang="en"><seg>Searching IP Address....please wait!</seg></tuv>
+      <tuv xml:lang="ko"><seg>IP 주소를 검색하는 중입니다. 기다리십시오.</seg></tuv>
+    </tu>
+    <tu tuid="592">
+      <tuv xml:lang="en"><seg>Select &apos;Create another media&apos; to return to the beginning of the Create New Media wizard and create another media.</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체 만들기 마법사의 처음으로 돌아가 다른 매체를 만들려면 &apos;다른 매체 선택&apos;을 선택합니다.</seg></tuv>
+    </tu>
+    <tu tuid="593">
+      <tuv xml:lang="en"><seg>Select Icc Profile</seg></tuv>
+      <tuv xml:lang="ko"><seg>Icc 프로파일 선택</seg></tuv>
+    </tu>
+    <tu tuid="594">
+      <tuv xml:lang="en"><seg>Select Mode:</seg></tuv>
+      <tuv xml:lang="ko"><seg>모드 선택:</seg></tuv>
+    </tu>
+    <tu tuid="595">
+      <tuv xml:lang="en"><seg>Select TWAIN_32 Source Select TWAIN_32 Source</seg></tuv>
+      <tuv xml:lang="ko"><seg>TWAIN_32 소스 선택 TWAIN_32 소스 선택</seg></tuv>
+    </tu>
+    <tu tuid="596">
+      <tuv xml:lang="en"><seg>Select a compatible Reference Standard:</seg></tuv>
+      <tuv xml:lang="ko"><seg>호환 가능한 참조 표준 선택:</seg></tuv>
+    </tu>
+    <tu tuid="597">
+      <tuv xml:lang="en"><seg>Select an existing Calibration or create a new one.</seg></tuv>
+      <tuv xml:lang="ko"><seg>기존의 보정을 선택하거나 새 보정을 만듭니다.</seg></tuv>
+    </tu>
+    <tu tuid="598">
+      <tuv xml:lang="en"><seg>Select options for the workflow</seg></tuv>
+      <tuv xml:lang="ko"><seg>워크플로우의 옵션 선택</seg></tuv>
+    </tu>
+    <tu tuid="599">
+      <tuv xml:lang="en"><seg>Select the Ink Configuration to use</seg></tuv>
+      <tuv xml:lang="ko"><seg>사용할 잉크 구성 선택</seg></tuv>
+    </tu>
+    <tu tuid="600">
+      <tuv xml:lang="en"><seg>Select the left and right margins set on the printer panel. These will be used when retrieving the page size from the printer.</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터 패널에서 설정된 좌우 여백을 선택합니다. 프린터에서 용지 크기를 검색할 때 이것을 사용하게 됩니다.</seg></tuv>
+    </tu>
+    <tu tuid="601">
+      <tuv xml:lang="en"><seg>Select the print mode&apos;s resolution</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 모드의 해상도 선택</seg></tuv>
+    </tu>
+    <tu tuid="602">
+      <tuv xml:lang="en"><seg>Select/Deselect All</seg></tuv>
+      <tuv xml:lang="ko"><seg>모두 선택/선택 해제</seg></tuv>
+    </tu>
+    <tu tuid="603">
+      <tuv xml:lang="en"><seg>Selects the current page</seg></tuv>
+      <tuv xml:lang="ko"><seg>현재 페이지를 선택합니다.</seg></tuv>
+    </tu>
+    <tu tuid="604">
+      <tuv xml:lang="en"><seg>Send job to &quot;Ready to Print area&quot;</seg></tuv>
+      <tuv xml:lang="ko"><seg>작업을 &quot;인쇄 준비 완료 영역&quot;으로 보내기</seg></tuv>
+    </tu>
+    <tu tuid="605">
+      <tuv xml:lang="en"><seg>Separation Bar Width:</seg></tuv>
+      <tuv xml:lang="ko"><seg>분리대 폭:</seg></tuv>
+    </tu>
+    <tu tuid="606">
+      <tuv xml:lang="en"><seg>Server cannot share the same port number with database.</seg></tuv>
+      <tuv xml:lang="ko"><seg>서버는 데이터베이스와 동일한 포트 번호를 공유할 수 없습니다.</seg></tuv>
+    </tu>
+    <tu tuid="607">
+      <tuv xml:lang="en"><seg>Set As &amp;Active</seg></tuv>
+      <tuv xml:lang="ko"><seg>활성으로 저장(&amp;A)</seg></tuv>
+    </tu>
+    <tu tuid="608">
+      <tuv xml:lang="en"><seg>Set Dotted Top Marks</seg></tuv>
+      <tuv xml:lang="ko"><seg>점 형식의 위 표시 설정</seg></tuv>
+    </tu>
+    <tu tuid="609">
+      <tuv xml:lang="en"><seg>Set Label Distance</seg></tuv>
+      <tuv xml:lang="ko"><seg>레이블 거리 설정</seg></tuv>
+    </tu>
+    <tu tuid="610">
+      <tuv xml:lang="en"><seg>Set Page Size to Image Size</seg></tuv>
+      <tuv xml:lang="ko"><seg>이미지 크기로 페이지 크기 설정</seg></tuv>
+    </tu>
+    <tu tuid="611">
+      <tuv xml:lang="en"><seg>Set by Control Panel</seg></tuv>
+      <tuv xml:lang="ko"><seg>제어판에서 설정</seg></tuv>
+    </tu>
+    <tu tuid="612">
+      <tuv xml:lang="en"><seg>Set to Defaults</seg></tuv>
+      <tuv xml:lang="ko"><seg>초기화</seg></tuv>
+    </tu>
+    <tu tuid="613">
+      <tuv xml:lang="en"><seg>Settings Changed</seg></tuv>
+      <tuv xml:lang="ko"><seg>설정 변경됨</seg></tuv>
+    </tu>
+    <tu tuid="614">
+      <tuv xml:lang="en"><seg>Setup print options for the active job\nPrint Setup</seg></tuv>
+      <tuv xml:lang="ko"><seg>활성 작업의 인쇄 옵션 설정. \n인쇄 설정</seg></tuv>
+    </tu>
+    <tu tuid="615">
+      <tuv xml:lang="en"><seg>Sharpness:</seg></tuv>
+      <tuv xml:lang="ko"><seg>선명도:</seg></tuv>
+    </tu>
+    <tu tuid="616">
+      <tuv xml:lang="en"><seg>Show Current</seg></tuv>
+      <tuv xml:lang="ko"><seg>현재 상태 표시</seg></tuv>
+    </tu>
+    <tu tuid="617">
+      <tuv xml:lang="en"><seg>Show Steps</seg></tuv>
+      <tuv xml:lang="ko"><seg>단계 표시</seg></tuv>
+    </tu>
+    <tu tuid="618">
+      <tuv xml:lang="en"><seg>Show or hide the status bar\nToggle StatusBar</seg></tuv>
+      <tuv xml:lang="ko"><seg>상태 표시줄을 표시하거나 숨깁니다.\n상태 표시줄 전환</seg></tuv>
+    </tu>
+    <tu tuid="619">
+      <tuv xml:lang="en"><seg>Side A prints with</seg></tuv>
+      <tuv xml:lang="ko"><seg>다음 측면으로 측면 A 인쇄</seg></tuv>
+    </tu>
+    <tu tuid="620">
+      <tuv xml:lang="en"><seg>Silver Nozzles</seg></tuv>
+      <tuv xml:lang="ko"><seg>은색 노즐</seg></tuv>
+    </tu>
+    <tu tuid="621">
+      <tuv xml:lang="en"><seg>Six Pass</seg></tuv>
+      <tuv xml:lang="ko"><seg>6 패스</seg></tuv>
+    </tu>
+    <tu tuid="622">
+      <tuv xml:lang="en"><seg>Sizing (Perforated Board)</seg></tuv>
+      <tuv xml:lang="ko"><seg>크기 조정(천공형 보드)</seg></tuv>
+    </tu>
+    <tu tuid="623">
+      <tuv xml:lang="en"><seg>Slider5</seg></tuv>
+      <tuv xml:lang="ko"><seg>Slider5</seg></tuv>
+    </tu>
+    <tu tuid="624">
+      <tuv xml:lang="en"><seg>Smallest</seg></tuv>
+      <tuv xml:lang="ko"><seg>가장 작음</seg></tuv>
+    </tu>
+    <tu tuid="625">
+      <tuv xml:lang="en"><seg>Software protection key error!  There could be a faulty connection,\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>소프트웨어 보호 키 오류!  연결이 잘못되었을 수 있습니다.\n</seg></tuv>
+    </tu>
+    <tu tuid="626">
+      <tuv xml:lang="en"><seg>Source Icons</seg></tuv>
+      <tuv xml:lang="ko"><seg>소스 아이콘</seg></tuv>
+    </tu>
+    <tu tuid="627">
+      <tuv xml:lang="en"><seg>Spacing (inches):</seg></tuv>
+      <tuv xml:lang="ko"><seg>간격 조정(인치):</seg></tuv>
+    </tu>
+    <tu tuid="628">
+      <tuv xml:lang="en"><seg>Specialty Ink Print Method:</seg></tuv>
+      <tuv xml:lang="ko"><seg>특수 잉크 인쇄 방법:</seg></tuv>
+    </tu>
+    <tu tuid="629">
+      <tuv xml:lang="en"><seg>SpectroProofer Error</seg></tuv>
+      <tuv xml:lang="ko"><seg>SpectroProofer 오류</seg></tuv>
+    </tu>
+    <tu tuid="630">
+      <tuv xml:lang="en"><seg>Spin3</seg></tuv>
+      <tuv xml:lang="ko"><seg>Spin3</seg></tuv>
+    </tu>
+    <tu tuid="631">
+      <tuv xml:lang="en"><seg>Spooler online</seg></tuv>
+      <tuv xml:lang="ko"><seg>스풀러 온라인</seg></tuv>
+    </tu>
+    <tu tuid="632">
+      <tuv xml:lang="en"><seg>Spot 3</seg></tuv>
+      <tuv xml:lang="ko"><seg>스폿 3</seg></tuv>
+    </tu>
+    <tu tuid="633">
+      <tuv xml:lang="en"><seg>Spot Color Print Mode:</seg></tuv>
+      <tuv xml:lang="ko"><seg>스폿 색상 인쇄 모드:</seg></tuv>
+    </tu>
+    <tu tuid="634">
+      <tuv xml:lang="en"><seg>Spot colors to substitute with Black Linearization:</seg></tuv>
+      <tuv xml:lang="ko"><seg>검정색 선형화로 대체할 스폿 색상:</seg></tuv>
+    </tu>
+    <tu tuid="635">
+      <tuv xml:lang="en"><seg>Spot6</seg></tuv>
+      <tuv xml:lang="ko"><seg>스폿6</seg></tuv>
+    </tu>
+    <tu tuid="636">
+      <tuv xml:lang="en"><seg>Standard Calcomp Printers</seg></tuv>
+      <tuv xml:lang="ko"><seg>표준 Calcomp 프린터</seg></tuv>
+    </tu>
+    <tu tuid="637">
+      <tuv xml:lang="en"><seg>Standards Simulation</seg></tuv>
+      <tuv xml:lang="ko"><seg>표준 시뮬레이션</seg></tuv>
+    </tu>
+    <tu tuid="638">
+      <tuv xml:lang="en"><seg>Start internal color calibration</seg></tuv>
+      <tuv xml:lang="ko"><seg>내부 색상 보정 시작</seg></tuv>
+    </tu>
+    <tu tuid="639">
+      <tuv xml:lang="en"><seg>StaticResolutionName</seg></tuv>
+      <tuv xml:lang="ko"><seg>StaticResolutionName</seg></tuv>
+    </tu>
+    <tu tuid="640">
+      <tuv xml:lang="en"><seg>Status is loading...</seg></tuv>
+      <tuv xml:lang="ko"><seg>상태를 로드 중입니다...</seg></tuv>
+    </tu>
+    <tu tuid="641">
+      <tuv xml:lang="en"><seg>Steps</seg></tuv>
+      <tuv xml:lang="ko"><seg>단계</seg></tuv>
+    </tu>
+    <tu tuid="642">
+      <tuv xml:lang="en"><seg>Stopping HTTP Service on port %d\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>포트 %d에서 HTTP 서비스 중지 중\n</seg></tuv>
+    </tu>
+    <tu tuid="643">
+      <tuv xml:lang="en"><seg>Strikes:</seg></tuv>
+      <tuv xml:lang="ko"><seg>스트라이크:</seg></tuv>
+    </tu>
+    <tu tuid="644">
+      <tuv xml:lang="en"><seg>Submit next side B job.\n\nWhat is on side A:\n    &quot;%s&quot;</seg></tuv>
+      <tuv xml:lang="ko"><seg>다음 측면 B 작업을 제출합니다.\n\n측면 A:\n    &quot;%s&quot;에 있는 항목</seg></tuv>
+    </tu>
+    <tu tuid="645">
+      <tuv xml:lang="en"><seg>Substrate advance compensation</seg></tuv>
+      <tuv xml:lang="ko"><seg>기판 고급 보정</seg></tuv>
+    </tu>
+    <tu tuid="646">
+      <tuv xml:lang="en"><seg>Successfully upgraded database to version %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>데이터베이스를 %s 버전으로 업그레이드했습니다.</seg></tuv>
+    </tu>
+    <tu tuid="647">
+      <tuv xml:lang="en"><seg>SummaCut D620</seg></tuv>
+      <tuv xml:lang="ko"><seg>SummaCut D620</seg></tuv>
+    </tu>
+    <tu tuid="648">
+      <tuv xml:lang="en"><seg>SummaSign T1400_PRO</seg></tuv>
+      <tuv xml:lang="ko"><seg>SummaSign T1400_PRO</seg></tuv>
+    </tu>
+    <tu tuid="649">
+      <tuv xml:lang="en"><seg>Surface Colors</seg></tuv>
+      <tuv xml:lang="ko"><seg>표면 색상</seg></tuv>
+    </tu>
+    <tu tuid="650">
+      <tuv xml:lang="en"><seg>Swatch Options</seg></tuv>
+      <tuv xml:lang="ko"><seg>스왓치 옵션</seg></tuv>
+    </tu>
+    <tu tuid="651">
+      <tuv xml:lang="en"><seg>Swatch:</seg></tuv>
+      <tuv xml:lang="ko"><seg>스왓치:</seg></tuv>
+    </tu>
+    <tu tuid="652">
+      <tuv xml:lang="en"><seg>System Restart</seg></tuv>
+      <tuv xml:lang="ko"><seg>시스템 다시 시작</seg></tuv>
+    </tu>
+    <tu tuid="653">
+      <tuv xml:lang="en"><seg>TRANSMITTING        DATA</seg></tuv>
+      <tuv xml:lang="ko"><seg>데이터        전송</seg></tuv>
+    </tu>
+    <tu tuid="654">
+      <tuv xml:lang="en"><seg>Take-up reel</seg></tuv>
+      <tuv xml:lang="ko"><seg>출력물 되감개</seg></tuv>
+    </tu>
+    <tu tuid="655">
+      <tuv xml:lang="en"><seg>Target Density:</seg></tuv>
+      <tuv xml:lang="ko"><seg>대상 밀도:</seg></tuv>
+    </tu>
+    <tu tuid="656">
+      <tuv xml:lang="en"><seg>Templates have been disabled because the image is tiled</seg></tuv>
+      <tuv xml:lang="ko"><seg>이미지가 타일링되어서 템플리트가 비활성화되었습니다.</seg></tuv>
+    </tu>
+    <tu tuid="657">
+      <tuv xml:lang="en"><seg>Testing TCP/IP Settings</seg></tuv>
+      <tuv xml:lang="ko"><seg>TCP/IP 설정 테스트</seg></tuv>
+    </tu>
+    <tu tuid="658">
+      <tuv xml:lang="en"><seg>The Color Management System could not be started.</seg></tuv>
+      <tuv xml:lang="ko"><seg>색상 관리 시스템이 시작되지 않았습니다.</seg></tuv>
+    </tu>
+    <tu tuid="659">
+      <tuv xml:lang="en"><seg>The ICC profile %s will be encoded with a &quot;watermark.&quot;\n It will only work in ONYX software.</seg></tuv>
+      <tuv xml:lang="ko"><seg>ICC 프로파일 %s은(는) &quot;워터마크&quot;로 인코딩됩니다.\n ONYX 소프트웨어에서만 작동합니다.</seg></tuv>
+    </tu>
+    <tu tuid="660">
+      <tuv xml:lang="en"><seg>The Mutoh KONA and SC Pro support up to 8 custom patterns per job.</seg></tuv>
+      <tuv xml:lang="ko"><seg>Mutoh KONA와 SC Pro는 작업당 최대 8개의 사용자 정의 형식을 지원합니다.</seg></tuv>
+    </tu>
+    <tu tuid="661">
+      <tuv xml:lang="en"><seg>The Scan Speed is too large for the resolution specified.</seg></tuv>
+      <tuv xml:lang="ko"><seg>스캔 속도는 지정된 해상도에 대해 너무 큽니다.</seg></tuv>
+    </tu>
+    <tu tuid="662">
+      <tuv xml:lang="en"><seg>The acquired image file has an invalid image file format.\n\nPlease try again.</seg></tuv>
+      <tuv xml:lang="ko"><seg>가져온 이미지 파일의 형식이 잘못되었습니다.\n\n다시 시도하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="663">
+      <tuv xml:lang="en"><seg>The buffer passed to te SCSI request was not aligned properly.</seg></tuv>
+      <tuv xml:lang="ko"><seg>SCSI 요청으로 전송된 버퍼가 잘못 맞춰졌습니다.</seg></tuv>
+    </tu>
+    <tu tuid="664">
+      <tuv xml:lang="en"><seg>The current media type does not have a calibration for this resolution. The image will be sent and will be printed as soon as a calibration is chosen.</seg></tuv>
+      <tuv xml:lang="ko"><seg>현재 매체 종류에는 이 해상도에 대한 보정이 없습니다. 보정이 선택되면 이미지가 전송 및 인쇄됩니다.</seg></tuv>
+    </tu>
+    <tu tuid="665">
+      <tuv xml:lang="en"><seg>The disk &quot;%s&quot; is invalid.</seg></tuv>
+      <tuv xml:lang="ko"><seg>디스크 &quot;%s&quot;이(가) 올바르지 않습니다.</seg></tuv>
+    </tu>
+    <tu tuid="666">
+      <tuv xml:lang="en"><seg>The first compatible media found will automatically be selected (Don&apos;t show this dialog again).</seg></tuv>
+      <tuv xml:lang="ko"><seg>처음 확인된 호환 가능 매체가 자동으로 선택됩니다(이 대화를 다시 표시하지 마십시오).</seg></tuv>
+    </tu>
+    <tu tuid="667">
+      <tuv xml:lang="en"><seg>The hardware key has been removed.</seg></tuv>
+      <tuv xml:lang="ko"><seg>하드웨어 키가 제거되었습니다.</seg></tuv>
+    </tu>
+    <tu tuid="668">
+      <tuv xml:lang="en"><seg>The image is too large for the selected media\nPrintable Area %d Pixels\nImage Width %d Pixels</seg></tuv>
+      <tuv xml:lang="ko"><seg>이미지가 선택된 매체에 대해 너무 큽니다.\n인쇄 가능 영역 %d 픽셀\n이미지 너비 %d 픽셀</seg></tuv>
+    </tu>
+    <tu tuid="669">
+      <tuv xml:lang="en"><seg>The ink system is not primed.</seg></tuv>
+      <tuv xml:lang="ko"><seg>잉크 시스템이 프라이밍되지 않았습니다.</seg></tuv>
+    </tu>
+    <tu tuid="670">
+      <tuv xml:lang="en"><seg>The list of medias is empty. Please verify that one or more media have been correctly loaded on the printer and in the Epson Control Dashboard.</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체 목록이 비어 있습니다. 프린터와 Epson Control Dashboard에서 하나 이상의 매체가 올바르게 로딩되었는지 확인해 주십시오.</seg></tuv>
+    </tu>
+    <tu tuid="671">
+      <tuv xml:lang="en"><seg>The media offset and image width is greater than the print width allowed. Please check your media options.</seg></tuv>
+      <tuv xml:lang="ko"><seg>매체 오프셋 및 이미지 너비는 허용된 인쇄 너비보다 커야 합니다. 매체 옵션을 확인하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="672">
+      <tuv xml:lang="en"><seg>The new media&apos;s color configuration may require ink restrictions in order to get good output.  If you would like to set ink restrictions now, press the Ink Restrictions button.  Otherwise press the Next button.</seg></tuv>
+      <tuv xml:lang="ko"><seg>양질의 출력을 얻기 위해서 새로운 매체의 색상 구성은 잉크 제한이 필요할 수도 있습니다. 지금 잉크 제한을 설정하려면, 잉크 제한 버튼을 누르시고, 그렇지 않으면 다음 버튼을 누르십시오.</seg></tuv>
+    </tu>
+    <tu tuid="673">
+      <tuv xml:lang="en"><seg>The print head temperature is too high. Please wait.</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 헤드 온도가 너무 높습니다. 잠시 기다리십시오.</seg></tuv>
+    </tu>
+    <tu tuid="674">
+      <tuv xml:lang="en"><seg>The printer has reported the following error(s):\n\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터에서 다음 오류를 보고했습니다:\n\n</seg></tuv>
+    </tu>
+    <tu tuid="675">
+      <tuv xml:lang="en"><seg>The printer is cooling the print heads. Please wait. (The ambient temperature must be decreased to avoid print interruption.) After 10 minutes of interruption, you can select to start or cancel the print.</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터가 인쇄 헤드를 냉각시키고 있습니다. 잠시 기다리십시오. (인쇄가 중단되지 않도록 주위 온도를 낮춰야 합니다.) 중단된 지 10분 후에 인쇄 시작 또는 취소를 선택할 수 있습니다.</seg></tuv>
+    </tu>
+    <tu tuid="676">
+      <tuv xml:lang="en"><seg>The printer must be connected via TCP/IP to use get status information</seg></tuv>
+      <tuv xml:lang="ko"><seg>상태 정보 가져오기를 사용하려면 TCP/IP를 통해 프린터를 연결해야 합니다</seg></tuv>
+    </tu>
+    <tu tuid="677">
+      <tuv xml:lang="en"><seg>The printer&apos;s serial number matches the serial number entered in the &quot;Global Printer Options&quot; dialog</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터의 일련 번호가 &quot;Global Printer Options&quot;(글로벌 프린터 옵션) 대화에 입력한 일련 번호와 일치합니다.</seg></tuv>
+    </tu>
+    <tu tuid="678">
+      <tuv xml:lang="en"><seg>The requested data was not found</seg></tuv>
+      <tuv xml:lang="ko"><seg>요청한 데이터를 찾을 수 없습니다.</seg></tuv>
+    </tu>
+    <tu tuid="679">
+      <tuv xml:lang="en"><seg>The selected print mode is invalid.</seg></tuv>
+      <tuv xml:lang="ko"><seg>선택한 인쇄 모드가 잘못되었습니다.</seg></tuv>
+    </tu>
+    <tu tuid="680">
+      <tuv xml:lang="en"><seg>The source must be given a name</seg></tuv>
+      <tuv xml:lang="ko"><seg>소스에 이름을 지정해야 합니다.</seg></tuv>
+    </tu>
+    <tu tuid="681">
+      <tuv xml:lang="en"><seg>The swatch format is not valid. Please check your values.</seg></tuv>
+      <tuv xml:lang="ko"><seg>스왓치 형식이 유효하지 않습니다. 값을 확인하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="682">
+      <tuv xml:lang="en"><seg>The write has failed</seg></tuv>
+      <tuv xml:lang="ko"><seg>쓰기에 실패했습니다.</seg></tuv>
+    </tu>
+    <tu tuid="683">
+      <tuv xml:lang="en"><seg>There are no paths to cut</seg></tuv>
+      <tuv xml:lang="ko"><seg>자를 경로가 없습니다</seg></tuv>
+    </tu>
+    <tu tuid="684">
+      <tuv xml:lang="en"><seg>There is currently no key data available.  Please refresh the view or open a valid .keyfile file.</seg></tuv>
+      <tuv xml:lang="ko"><seg>현재 사용 가능한 키 데이터가 없습니다.  보기를 새로 고치거나 유효한 .keyfile 파일을 여십시오.</seg></tuv>
+    </tu>
+    <tu tuid="685">
+      <tuv xml:lang="en"><seg>There may be problems when the width is less than %.1f inches (%.1f cm).</seg></tuv>
+      <tuv xml:lang="ko"><seg>너비가 %.1f인치(%.1fcm) 미만일 때 문제가 발생할 수 있습니다.</seg></tuv>
+    </tu>
+    <tu tuid="686">
+      <tuv xml:lang="en"><seg>There was an error during processing!</seg></tuv>
+      <tuv xml:lang="ko"><seg>처리하는 중 오류가 발생했습니다.</seg></tuv>
+    </tu>
+    <tu tuid="687">
+      <tuv xml:lang="en"><seg>There was an error setting the resolution for the Scitex Screen.</seg></tuv>
+      <tuv xml:lang="ko"><seg>Scitex Screen에 대한 해상도를 설정하는 중 오류가 발생했습니다.</seg></tuv>
+    </tu>
+    <tu tuid="688">
+      <tuv xml:lang="en"><seg>Thin</seg></tuv>
+      <tuv xml:lang="ko"><seg>얆음</seg></tuv>
+    </tu>
+    <tu tuid="689">
+      <tuv xml:lang="en"><seg>This column can not be hidden</seg></tuv>
+      <tuv xml:lang="ko"><seg>이 열을 숨길 수 없습니다</seg></tuv>
+    </tu>
+    <tu tuid="690">
+      <tuv xml:lang="en"><seg>This dialog allows you to reassign the printer driver&apos;s default output channels to different color bars on the printer. Each output channel must have a unique number from 1-8.</seg></tuv>
+      <tuv xml:lang="ko"><seg>이 대화 상자를 사용하여 프린터 드라이버의 기본 출력 채널을 프린터의 다른 색상 막대로 다시 할당할 수 있습니다. 각 출력 채널은 1-8의 고유 번호를 가져야 합니다.</seg></tuv>
+    </tu>
+    <tu tuid="691">
+      <tuv xml:lang="en"><seg>This job is still waiting to be printed. It can not be reprinted.</seg></tuv>
+      <tuv xml:lang="ko"><seg>이 작업은 여전히 인쇄 대기 중입니다. 다시 인쇄할 수 없습니다.</seg></tuv>
+    </tu>
+    <tu tuid="692">
+      <tuv xml:lang="en"><seg>This step is used to verify that the adjustments made in the G7® Grayscale Correction step are within G7® Grayscale tolerances.</seg></tuv>
+      <tuv xml:lang="ko"><seg>이 단계는 G7® Grayscale 보정 단계에서 수행된 조정이 G7® Grayscale 허용차 내에 있는지를 확인하는 데 사용됩니다.</seg></tuv>
+    </tu>
+    <tu tuid="693">
+      <tuv xml:lang="en"><seg>Tiff File Options</seg></tuv>
+      <tuv xml:lang="ko"><seg>Tiff 파일 옵션</seg></tuv>
+    </tu>
+    <tu tuid="694">
+      <tuv xml:lang="en"><seg>Tile Outline Options</seg></tuv>
+      <tuv xml:lang="ko"><seg>타일 외곽선 옵션</seg></tuv>
+    </tu>
+    <tu tuid="695">
+      <tuv xml:lang="en"><seg>Tile(s) for %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>바둑판식 배열 %s</seg></tuv>
+    </tu>
+    <tu tuid="696">
+      <tuv xml:lang="en"><seg>Time Period</seg></tuv>
+      <tuv xml:lang="ko"><seg>기간:</seg></tuv>
+    </tu>
+    <tu tuid="697">
+      <tuv xml:lang="en"><seg>To &amp;Bottom</seg></tuv>
+      <tuv xml:lang="ko"><seg>맨 아래로(&amp;B)</seg></tuv>
+    </tu>
+    <tu tuid="698">
+      <tuv xml:lang="en"><seg>To: %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>끝: %s</seg></tuv>
+    </tu>
+    <tu tuid="699">
+      <tuv xml:lang="en"><seg>Too many media modes are available for this virtual printer -  the OS limits each virtual printer to %d modes for selection.\nPlease delete all unnecessary media using the Configure Printer dialog.\n\nNOTE: You must rebuild the ppd once you&apos;ve removed all unnecessary media.\nTo do this, simply disable then re-enable the printer within Printer Manager.</seg></tuv>
+      <tuv xml:lang="ko"><seg>이 가상 프린터에 사용할 수 있는 매체 모드가 너무 많습니다. OS는 각 가상 프린터가 선택할 수 있는 모드를 %d개로 제한합니다.\n구성 프린터 대화 상자를 사용하여 불필요한 매체를 모두 삭제하십시오.\n\n참고: 불필요한 매체를 모두 제거했으면 ppd를 다시 작성해야 합니다.\n이렇게 하려면 간단히 프린터 관리자 내에서 프린터를 비활성화했다가 다시 활성화하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="700">
+      <tuv xml:lang="en"><seg>Top Layer:</seg></tuv>
+      <tuv xml:lang="ko"><seg>상단 계층:</seg></tuv>
+    </tu>
+    <tu tuid="701">
+      <tuv xml:lang="en"><seg>Total Area:</seg></tuv>
+      <tuv xml:lang="ko"><seg>전체 영역:</seg></tuv>
+    </tu>
+    <tu tuid="702">
+      <tuv xml:lang="en"><seg>Total Printed Area</seg></tuv>
+      <tuv xml:lang="ko"><seg>총 인쇄된 영역</seg></tuv>
+    </tu>
+    <tu tuid="703">
+      <tuv xml:lang="en"><seg>Transitions</seg></tuv>
+      <tuv xml:lang="ko"><seg>전환</seg></tuv>
+    </tu>
+    <tu tuid="704">
+      <tuv xml:lang="en"><seg>Tray 4</seg></tuv>
+      <tuv xml:lang="ko"><seg>용지함 4</seg></tuv>
+    </tu>
+    <tu tuid="705">
+      <tuv xml:lang="en"><seg>Tweak Color Profiles</seg></tuv>
+      <tuv xml:lang="ko"><seg>색상 프로파일 조정</seg></tuv>
+    </tu>
+    <tu tuid="706">
+      <tuv xml:lang="en"><seg>Type: %s</seg></tuv>
+      <tuv xml:lang="ko"><seg>종류: %s</seg></tuv>
+    </tu>
+    <tu tuid="707">
+      <tuv xml:lang="en"><seg>USB connection error</seg></tuv>
+      <tuv xml:lang="ko"><seg>USB 연결 오류입니다.</seg></tuv>
+    </tu>
+    <tu tuid="708">
+      <tuv xml:lang="en"><seg>UV Lamp:</seg></tuv>
+      <tuv xml:lang="ko"><seg>UV 램프:</seg></tuv>
+    </tu>
+    <tu tuid="709">
+      <tuv xml:lang="en"><seg>Unable to Close TWAIN source:</seg></tuv>
+      <tuv xml:lang="ko"><seg>TWAIN 소스를 닫을 수 없음:</seg></tuv>
+    </tu>
+    <tu tuid="710">
+      <tuv xml:lang="en"><seg>Unable to build the list of frames.</seg></tuv>
+      <tuv xml:lang="ko"><seg>프레임 목록을 빌드할 수 없음.</seg></tuv>
+    </tu>
+    <tu tuid="711">
+      <tuv xml:lang="en"><seg>Unable to create start file &apos;%s&apos;\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>&apos;%s&apos; 시작 파일을 작성할 수 없음\n</seg></tuv>
+    </tu>
+    <tu tuid="712">
+      <tuv xml:lang="en"><seg>Unable to find default browser.  Please visit http://www.printmetryx.com to view PrintMetryx.</seg></tuv>
+      <tuv xml:lang="ko"><seg>기본 브라우저를 찾을 수 없습니다.  PrintMetryx를 보려면 http://www.printmetryx.com을 방문하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="713">
+      <tuv xml:lang="en"><seg>Unable to initialize Color Device Libarary.\nPlease check installation.</seg></tuv>
+      <tuv xml:lang="ko"><seg>색상 장치 라이브러리를 초기화할 수 없습니다.\n설치를 확인하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="714">
+      <tuv xml:lang="en"><seg>Unable to open a connection to the selector software. Port cannot be configured.</seg></tuv>
+      <tuv xml:lang="ko"><seg>선택기 소프트웨어에 연결을 열 수 없습니다. 포트를 구성할 수 없습니다.</seg></tuv>
+    </tu>
+    <tu tuid="715">
+      <tuv xml:lang="en"><seg>Unable to process image (</seg></tuv>
+      <tuv xml:lang="ko"><seg>이미지를 처리할 수 없습니다(</seg></tuv>
+    </tu>
+    <tu tuid="716">
+      <tuv xml:lang="en"><seg>Unable to send print data to the printer.</seg></tuv>
+      <tuv xml:lang="ko"><seg>인쇄 데이터를 프린터로 보낼 수 없습니다.</seg></tuv>
+    </tu>
+    <tu tuid="717">
+      <tuv xml:lang="en"><seg>Undefined</seg></tuv>
+      <tuv xml:lang="ko"><seg>정의되지 않음</seg></tuv>
+    </tu>
+    <tu tuid="718">
+      <tuv xml:lang="en"><seg>Unexpected bus free.</seg></tuv>
+      <tuv xml:lang="ko"><seg>예기치 않은 버스 비움.</seg></tuv>
+    </tu>
+    <tu tuid="719">
+      <tuv xml:lang="en"><seg>Uniform Area</seg></tuv>
+      <tuv xml:lang="ko"><seg>영역 같게</seg></tuv>
+    </tu>
+    <tu tuid="720">
+      <tuv xml:lang="en"><seg>Unknown Error</seg></tuv>
+      <tuv xml:lang="ko"><seg>알 수 없는 오류</seg></tuv>
+    </tu>
+    <tu tuid="721">
+      <tuv xml:lang="en"><seg>Unknown error 0x34</seg></tuv>
+      <tuv xml:lang="ko"><seg>알 수 없는 오류 0x34</seg></tuv>
+    </tu>
+    <tu tuid="722">
+      <tuv xml:lang="en"><seg>Unknown warning 0x0C</seg></tuv>
+      <tuv xml:lang="ko"><seg>알 수 없는 경고 0x0C</seg></tuv>
+    </tu>
+    <tu tuid="723">
+      <tuv xml:lang="en"><seg>Unknown warning 0x3A</seg></tuv>
+      <tuv xml:lang="ko"><seg>알 수 없는 경고 0x3A</seg></tuv>
+    </tu>
+    <tu tuid="724">
+      <tuv xml:lang="en"><seg>Unknown warning 0x5D</seg></tuv>
+      <tuv xml:lang="ko"><seg>알 수 없는 경고 0x5D</seg></tuv>
+    </tu>
+    <tu tuid="725">
+      <tuv xml:lang="en"><seg>Unregistered Version -</seg></tuv>
+      <tuv xml:lang="ko"><seg>등록되지 않은 버전 -</seg></tuv>
+    </tu>
+    <tu tuid="726">
+      <tuv xml:lang="en"><seg>Update Driver</seg></tuv>
+      <tuv xml:lang="ko"><seg>드라이버 업데이트</seg></tuv>
+    </tu>
+    <tu tuid="727">
+      <tuv xml:lang="en"><seg>Update the hardware key\nUpdate Key</seg></tuv>
+      <tuv xml:lang="ko"><seg>하드웨어 키를 업데이트합니다.\n키 업데이트</seg></tuv>
+    </tu>
+    <tu tuid="728">
+      <tuv xml:lang="en"><seg>Upgrade to Version 5</seg></tuv>
+      <tuv xml:lang="ko"><seg>버전 5로 업그레이드</seg></tuv>
+    </tu>
+    <tu tuid="729">
+      <tuv xml:lang="en"><seg>Use &quot;G7 Native CMY&quot;</seg></tuv>
+      <tuv xml:lang="ko"><seg>&quot;G7 Native CMY&quot; 사용</seg></tuv>
+    </tu>
+    <tu tuid="730">
+      <tuv xml:lang="en"><seg>Use Compression</seg></tuv>
+      <tuv xml:lang="ko"><seg>압축 적용</seg></tuv>
+    </tu>
+    <tu tuid="731">
+      <tuv xml:lang="en"><seg>Use Enhanced Print Mode</seg></tuv>
+      <tuv xml:lang="ko"><seg>고급 인쇄 모드 사용</seg></tuv>
+    </tu>
+    <tu tuid="732">
+      <tuv xml:lang="en"><seg>Use Light Ink at 100% Color Density</seg></tuv>
+      <tuv xml:lang="ko"><seg>100% 색상 농도에 연한 잉크 사용</seg></tuv>
+    </tu>
+    <tu tuid="733">
+      <tuv xml:lang="en"><seg>Use Pre Heater</seg></tuv>
+      <tuv xml:lang="ko"><seg>예열기 사용</seg></tuv>
+    </tu>
+    <tu tuid="734">
+      <tuv xml:lang="en"><seg>Use Watermark</seg></tuv>
+      <tuv xml:lang="ko"><seg>워터마크 사용</seg></tuv>
+    </tu>
+    <tu tuid="735">
+      <tuv xml:lang="en"><seg>Use default EPSON AccuPhoto light ink separations and ink restrictions.</seg></tuv>
+      <tuv xml:lang="ko"><seg>기본 EPSON AccuPhoto 밝은 잉크 분리 및 잉크 제한을 사용합니다.</seg></tuv>
+    </tu>
+    <tu tuid="736">
+      <tuv xml:lang="en"><seg>Use profile-based substrate correction</seg></tuv>
+      <tuv xml:lang="ko"><seg>프로파일별 기판 교정 사용</seg></tuv>
+    </tu>
+    <tu tuid="737">
+      <tuv xml:lang="en"><seg>Used ink tank is full.\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>사용한 잉크 탱크가 찼습니다.\n</seg></tuv>
+    </tu>
+    <tu tuid="738">
+      <tuv xml:lang="en"><seg>User defined data</seg></tuv>
+      <tuv xml:lang="ko"><seg>사용자 정의 데이터</seg></tuv>
+    </tu>
+    <tu tuid="739">
+      <tuv xml:lang="en"><seg>VALID SETTINGS</seg></tuv>
+      <tuv xml:lang="ko"><seg>유효한 설정</seg></tuv>
+    </tu>
+    <tu tuid="740">
+      <tuv xml:lang="en"><seg>VSD4 (Variable Dot-4)</seg></tuv>
+      <tuv xml:lang="ko"><seg>VSD4(가변 도트-4)</seg></tuv>
+    </tu>
+    <tu tuid="741">
+      <tuv xml:lang="en"><seg>Value (0-100)</seg></tuv>
+      <tuv xml:lang="ko"><seg>값(0-100)</seg></tuv>
+    </tu>
+    <tu tuid="742">
+      <tuv xml:lang="en"><seg>Variable Dot Curves</seg></tuv>
+      <tuv xml:lang="ko"><seg>가변 도트 곡선</seg></tuv>
+    </tu>
+    <tu tuid="743">
+      <tuv xml:lang="en"><seg>Varnish Ink End</seg></tuv>
+      <tuv xml:lang="ko"><seg>바니시 잉크 끝</seg></tuv>
+    </tu>
+    <tu tuid="744">
+      <tuv xml:lang="en"><seg>Version 2.x</seg></tuv>
+      <tuv xml:lang="ko"><seg>버전 2.x</seg></tuv>
+    </tu>
+    <tu tuid="745">
+      <tuv xml:lang="en"><seg>Vertical Repeats</seg></tuv>
+      <tuv xml:lang="ko"><seg>세로 반복</seg></tuv>
+    </tu>
+    <tu tuid="746">
+      <tuv xml:lang="en"><seg>View Measurements...</seg></tuv>
+      <tuv xml:lang="ko"><seg>측정 단위 보기...</seg></tuv>
+    </tu>
+    <tu tuid="747">
+      <tuv xml:lang="en"><seg>Views</seg></tuv>
+      <tuv xml:lang="ko"><seg>보기</seg></tuv>
+    </tu>
+    <tu tuid="748">
+      <tuv xml:lang="en"><seg>WARNING: Do not use the buttons on the table, or move the device out of range.</seg></tuv>
+      <tuv xml:lang="ko"><seg>주의:테이블의 버튼을 이용하지 마시고, 범위 내에서만 장치를 이동시키시오.</seg></tuv>
+    </tu>
+    <tu tuid="749">
+      <tuv xml:lang="en"><seg>Wait for the preset to be installed before clicking OK.</seg></tuv>
+      <tuv xml:lang="ko"><seg>미리 설정이 설치된 후에 확인을 클릭하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="750">
+      <tuv xml:lang="en"><seg>Waiting to Rip</seg></tuv>
+      <tuv xml:lang="ko"><seg>Rip 기다리는 중</seg></tuv>
+    </tu>
+    <tu tuid="751">
+      <tuv xml:lang="en"><seg>Warning Message Countdown Time</seg></tuv>
+      <tuv xml:lang="ko"><seg>경고 메시지 카운트다운 시간</seg></tuv>
+    </tu>
+    <tu tuid="752">
+      <tuv xml:lang="en"><seg>Warning:  Use of any non-Normal mode may result in loss of communication to the hardware protection key.  This will prevent you from performing some tasks.</seg></tuv>
+      <tuv xml:lang="ko"><seg>경고:  보통 이외의 모드를 사용하면 하드웨어 보호 키와의 통신이 끊길 수 있습니다.  그러면 일부 작업을 수행하지 못합니다.</seg></tuv>
+    </tu>
+    <tu tuid="753">
+      <tuv xml:lang="en"><seg>Warning: continuing may delete any existing swatch readings.</seg></tuv>
+      <tuv xml:lang="ko"><seg>경고: 계속 진행하면 기존 스왓치 읽기가 삭제될 수 있습니다.</seg></tuv>
+    </tu>
+    <tu tuid="754">
+      <tuv xml:lang="en"><seg>Watermark</seg></tuv>
+      <tuv xml:lang="ko"><seg>워터마크</seg></tuv>
+    </tu>
+    <tu tuid="755">
+      <tuv xml:lang="en"><seg>Web Portal</seg></tuv>
+      <tuv xml:lang="ko"><seg>웹 포털</seg></tuv>
+    </tu>
+    <tu tuid="756">
+      <tuv xml:lang="en"><seg>When enabled, this will add a drop-shadow to the text.</seg></tuv>
+      <tuv xml:lang="ko"><seg>사용하는 경우, 이 기능은 드롭 그림자를 텍스트에 추가합니다.</seg></tuv>
+    </tu>
+    <tu tuid="757">
+      <tuv xml:lang="en"><seg>White After</seg></tuv>
+      <tuv xml:lang="ko"><seg>흰색 후</seg></tuv>
+    </tu>
+    <tu tuid="758">
+      <tuv xml:lang="en"><seg>White Ink Options</seg></tuv>
+      <tuv xml:lang="ko"><seg>흰색 잉크 옵션</seg></tuv>
+    </tu>
+    <tu tuid="759">
+      <tuv xml:lang="en"><seg>White Plotting</seg></tuv>
+      <tuv xml:lang="ko"><seg>흰색 플로팅</seg></tuv>
+    </tu>
+    <tu tuid="760">
+      <tuv xml:lang="en"><seg>White2:</seg></tuv>
+      <tuv xml:lang="ko"><seg>흰색2:</seg></tuv>
+    </tu>
+    <tu tuid="761">
+      <tuv xml:lang="en"><seg>Windowed</seg></tuv>
+      <tuv xml:lang="ko"><seg>창 있음</seg></tuv>
+    </tu>
+    <tu tuid="762">
+      <tuv xml:lang="en"><seg>Work offline?</seg></tuv>
+      <tuv xml:lang="ko"><seg>작업이 오프라인 상태입니까?</seg></tuv>
+    </tu>
+    <tu tuid="763">
+      <tuv xml:lang="en"><seg>Wrap</seg></tuv>
+      <tuv xml:lang="ko"><seg>반복</seg></tuv>
+    </tu>
+    <tu tuid="764">
+      <tuv xml:lang="en"><seg>Wrong paper path</seg></tuv>
+      <tuv xml:lang="ko"><seg>잘못된 용지 경로</seg></tuv>
+    </tu>
+    <tu tuid="765">
+      <tuv xml:lang="en"><seg>Xerox ES</seg></tuv>
+      <tuv xml:lang="ko"><seg>Xerox ES</seg></tuv>
+    </tu>
+    <tu tuid="766">
+      <tuv xml:lang="en"><seg>Y Repeat Interval</seg></tuv>
+      <tuv xml:lang="ko"><seg>Y 반복 간격</seg></tuv>
+    </tu>
+    <tu tuid="767">
+      <tuv xml:lang="en"><seg>Yellow 2</seg></tuv>
+      <tuv xml:lang="ko"><seg>노랑 2</seg></tuv>
+    </tu>
+    <tu tuid="768">
+      <tuv xml:lang="en"><seg>Yes, stop creating this mode and save changes</seg></tuv>
+      <tuv xml:lang="ko"><seg>예, 이 모드 만들기를 중지하고 변경 내용을 저장합니다.</seg></tuv>
+    </tu>
+    <tu tuid="769">
+      <tuv xml:lang="en"><seg>You are about to delete a Resolution. This action cannot be undone.</seg></tuv>
+      <tuv xml:lang="ko"><seg>해상도를 삭제하려고 합니다. 이 작업은 취소할 수 없습니다.</seg></tuv>
+    </tu>
+    <tu tuid="770">
+      <tuv xml:lang="en"><seg>You have successfully edited this mode.</seg></tuv>
+      <tuv xml:lang="ko"><seg>이 모드를 성공적으로 편집했습니다.</seg></tuv>
+    </tu>
+    <tu tuid="771">
+      <tuv xml:lang="en"><seg>You need to edit Step &amp;&amp; Repeat jobs with Job Editor</seg></tuv>
+      <tuv xml:lang="ko"><seg>Job Editor로 단계 및 반복 작업을 편집해야 합니다.</seg></tuv>
+    </tu>
+    <tu tuid="772">
+      <tuv xml:lang="en"><seg>Your hardware key could not be found.  Please check that you have access to a network key (enter localhost:1947 in your internet browser to view all keys on the network) or that the proper key is connected to a USB port on this machine. If there is a key, verify that the correct security device drivers are installed.</seg></tuv>
+      <tuv xml:lang="ko"><seg>하드웨어 키를 찾을 수 없습니다.  네트워크 키에 액세스할 수 있는지와(인터넷 브라우저에 localhost:1947을 입력하면 네트워크의 모든 키를 볼 수 있음) 적절한 키가 이 컴퓨터의 USB 포트에 연결되었는지 확인하십시오. 키가 있는 경우 올바른 보안 장치 드라이버가 설치되었는지 확인하십시오.</seg></tuv>
+    </tu>
+    <tu tuid="773">
+      <tuv xml:lang="en"><seg>Your hardware key is programmed to ONLY run BETA software.  Please contact your dealer for a key upgrade.\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>하드웨어 키가 베타 소프트웨어만 실행하도록 프로그램되지 않았습니다.  키 업그레이드는 판매업체에 문의하십시오.\n</seg></tuv>
+    </tu>
+    <tu tuid="774">
+      <tuv xml:lang="en"><seg>Zero-line Marks</seg></tuv>
+      <tuv xml:lang="ko"><seg>제로라인 표시</seg></tuv>
+    </tu>
+    <tu tuid="775">
+      <tuv xml:lang="en"><seg>Zooms in to the next default zoom level</seg></tuv>
+      <tuv xml:lang="ko"><seg>다음 기본 줌 레벨로 확대합니다.</seg></tuv>
+    </tu>
+    <tu tuid="776">
+      <tuv xml:lang="en"><seg>[Process-</seg></tuv>
+      <tuv xml:lang="ko"><seg>[처리-</seg></tuv>
+    </tu>
+    <tu tuid="777">
+      <tuv xml:lang="en"><seg>\nLoaded substrate:\n</seg></tuv>
+      <tuv xml:lang="ko"><seg>\n로드된 기판:\n</seg></tuv>
+    </tu>
+    <tu tuid="778">
+      <tuv xml:lang="en"><seg>\t\n\r\\ ()&lt;&gt;[]{}/%</seg></tuv>
+      <tuv xml:lang="ko"><seg>\t\n\r\\ ()&lt;&gt;[]{}/%</seg></tuv>
+    </tu>
+    <tu tuid="779">
+      <tuv xml:lang="en"><seg>borderless</seg></tuv>
+      <tuv xml:lang="ko"><seg>테두리 없음</seg></tuv>
+    </tu>
+    <tu tuid="780">
+      <tuv xml:lang="en"><seg>fail</seg></tuv>
+      <tuv xml:lang="ko"><seg>실패</seg></tuv>
+    </tu>
+    <tu tuid="781">
+      <tuv xml:lang="en"><seg>lm</seg></tuv>
+      <tuv xml:lang="ko"><seg>lm</seg></tuv>
+    </tu>
+    <tu tuid="782">
+      <tuv xml:lang="en"><seg>n%</seg></tuv>
+      <tuv xml:lang="ko"><seg>n%</seg></tuv>
+    </tu>
+    <tu tuid="783">
+      <tuv xml:lang="en"><seg>printer</seg></tuv>
+      <tuv xml:lang="ko"><seg>프린터</seg></tuv>
+    </tu>
+    <tu tuid="784">
+      <tuv xml:lang="en"><seg>running</seg></tuv>
+      <tuv xml:lang="ko"><seg>실행 중</seg></tuv>
+    </tu>
+    <tu tuid="785">
+      <tuv xml:lang="en"><seg>toolBar</seg></tuv>
+      <tuv xml:lang="ko"><seg>도구 모음</seg></tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,3150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header adminlang="en-US" creationdate="2020-08-25T23:30:03" creationtool="Onyx: Dictionary Strings Util" creationtoolversion="1.0" datatype="unknown" o-tmf="unknown" segtype="sentence" srclang="en"/>
+  <body>
+    <tu tuid="0">
+      <tuv xml:lang="en"><seg> of </seg></tuv>
+      <tuv xml:lang="zh-TW"><seg> 所屬 </seg></tuv>
+    </tu>
+    <tu tuid="1">
+      <tuv xml:lang="en"><seg>% of Patches0</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>% 色樣</seg></tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="en"><seg>%.2lf sq m000</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>%.2lf 平方公尺</seg></tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="en"><seg>%d Color</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>%d 顏色</seg></tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="en"><seg>%d sec</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>%d 秒</seg></tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="en"><seg>%s &amp;Help</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>%s 說明(&amp;H)</seg></tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="en"><seg>%s Job/Image Files|*.onx;*.tif;*.tiff;*.tga;*.bmp;*.dib;*.ct;*.sct;*.jpg;*.jpe;*.jpeg;*.jfif;*.jp2;*.psd;*.gif;*.pcx;*.pcd;*.ps;*.eps;*.pdf;*.rpf;*.sid;*.ils;*.png;*.ocw|</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>%s 工作/影像檔案|*.onx;*.tif;*.tiff;*.tga;*.bmp;*.dib;*.ct;*.sct;*.jpg;*.jpe;*.jpeg;*.jfif;*.jp2;*.psd;*.gif;*.pcx;*.pcd;*.ps;*.eps;*.pdf;*.rpf;*.sid;*.ils;*.png;*.ocw|</seg></tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="en"><seg>%s Server Configuration</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>%s 伺服器組態</seg></tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="en"><seg>%s is not a valid job path.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>%s 是無效的工作路徑。</seg></tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="en"><seg>%s:%u</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>%s：%u</seg></tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="en"><seg>&amp;About CADPrint...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>關於 CADPrint(&amp;A)...</seg></tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="en"><seg>&amp;Archive</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>保存(&amp;A)</seg></tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="en"><seg>&amp;Calibrate Unit</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>校準單位(&amp;C)</seg></tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="en"><seg>&amp;Column Number</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>行號(&amp;C)</seg></tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="en"><seg>&amp;Cutting Method:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>剪裁方法(&amp;C)：</seg></tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="en"><seg>&amp;Edit</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>編輯(&amp;E)</seg></tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="en"><seg>&amp;Finish</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>完成(&amp;F)</seg></tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="en"><seg>&amp;Inches</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>英吋(&amp;I)</seg></tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="en"><seg>&amp;Maximum Percent Ink Printed:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印的最大百分比墨量(&amp;M)：</seg></tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="en"><seg>&amp;Nest with other jobs</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>與其他工作檔集印(&amp;N)</seg></tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="en"><seg>&amp;Page Sizes...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>頁面尺寸(&amp;P)...</seg></tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="en"><seg>&amp;Print Swatch</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印色板 (&amp;P)</seg></tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="en"><seg>&amp;Red</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>紅色(&amp;R)</seg></tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="en"><seg>&amp;Roll</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>捲筒(&amp;R)</seg></tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="en"><seg>&amp;Set Factor</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設定因數(&amp;S)</seg></tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="en"><seg>&amp;Tiling</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>拼接(&amp;T)</seg></tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="en"><seg>&amp;View</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>檢視(&amp;V)</seg></tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="en"><seg>(</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>(</seg></tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="en"><seg>(3 x 4 color)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>(3 x 4 色)</seg></tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="en"><seg>(Date:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>(日期：</seg></tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="en"><seg>(Order #:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>（訂單號：</seg></tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="en"><seg>(Total Time:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>(總時間：</seg></tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="en"><seg>*** No predefined modes for this resolution ***</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>*** 此解析度沒有預定義模式 ***</seg></tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="en"><seg>, Alignment:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 對準：</seg></tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="en"><seg>, Center Heater:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 中央加熱器：</seg></tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="en"><seg>, Double Ink:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 雙墨：</seg></tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="en"><seg>, Drying Time Between Scans:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 掃描之間的乾燥時間：</seg></tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="en"><seg>, Feed Up To Dryer:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 上升到乾燥器：</seg></tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="en"><seg>, Heater Status:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 加熱器狀態：</seg></tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="en"><seg>, Interleave Mode:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 插頁模式：</seg></tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="en"><seg>, Left (Inner - Middle):</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 左 (內 - 中)：</seg></tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="en"><seg>, Media Feed Mode:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 介質進紙模式：</seg></tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="en"><seg>, Multilayer:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 多層：</seg></tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="en"><seg>, Paper Size:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 紙張大小：</seg></tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="en"><seg>, Pen Tolerances: K:%u, C:%u, M:%u, Y:%u</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 印字頭容許度： K：%u, C：%u, M：%u, Y：%u</seg></tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="en"><seg>, Print Direction: %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>，列印方向： %s</seg></tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="en"><seg>, Rear Heater:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 後加熱器：</seg></tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="en"><seg>, Scan Speed:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 掃描速度：</seg></tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="en"><seg>, Spot Color Print Mode:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 特別色列印模式：</seg></tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="en"><seg>, Use Control Panel Settings:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 使用控制台設定：</seg></tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="en"><seg>, Weaving:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>, 編織：</seg></tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="en"><seg>- You have non zero paper value(s) in the output curves.\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>- 輸出曲線中有非 0 數值的紙張值。\n</seg></tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="en"><seg>00:00:00</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>00:00:00</seg></tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="en"><seg>1) &amp;Cyan Limit:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>1) 青色限制(&amp;C)：</seg></tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="en"><seg>100% Cyan DeltaE00</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>100% 青色 DeltaE00</seg></tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="en"><seg>120.5 in</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>120.5 英吋</seg></tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="en"><seg>16-Pass</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>16 次套印</seg></tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="en"><seg>2 Pass None 2</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>2 色階無 2</seg></tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="en"><seg>2-Sided Printing</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>雙面列印</seg></tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="en"><seg>3 Step Cut (High)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>3 步驟裁切 (高)</seg></tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="en"><seg>3.25 in./sec</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>3.25 英吋/秒</seg></tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="en"><seg>315 - Mode Options</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>315 - 模式選項</seg></tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="en"><seg>360x720, 4p, Bi, 320 cps</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>360x720, 4p, 雙向, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="en"><seg>4 Pass Wave 1</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>4 色階波動 1</seg></tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="en"><seg>4.00 in./sec</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>4.00 英吋/秒</seg></tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="en"><seg>5) &amp;Green Limit:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>5) 綠色限制(&amp;G)：</seg></tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="en"><seg>540x1440, 12p, 460 cps, Bidir</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>540x1440, 12p, 460 cps, 雙向</seg></tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="en"><seg>6 pass</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>6 次套印</seg></tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="en"><seg>720-FD Mode</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>720-FD Mode</seg></tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="en"><seg>8 Pass / 4 Pass</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>8 色階 / 4 色階</seg></tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="en"><seg>&lt;&lt;</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>&lt;&lt;</seg></tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="en"><seg>&lt;None&gt;</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>&lt;無&gt;</seg></tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="en"><seg>&lt;b&gt;Dark inks only:&lt;/b&gt; Disabled</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>&lt;b&gt;僅深色墨水：&lt;/b&gt; 已停用</seg></tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="en"><seg>&lt;b&gt;Transition:&lt;/b&gt; If your ink configuration has multiple ink levels per channel (e.g. Dark ink, plus light ink) this setting controls the rate of the transition between the two levels. It can be observed within the plot as a change in the angle of the curves.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>&lt;b&gt;轉換：&lt;/b&gt; 如果您的墨水組態在每個通道中有多個墨水色階 (例如深色墨水加上淺色墨水)，則此設定會控制兩個色階之間轉換比率。 當曲線角度有所改變時，可以透過圖像觀察變化。</seg></tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="en"><seg>&lt;html&gt;Select the cutter(s) to use.&lt;br&gt;This list may be changed later in the Application Settings dialog.&lt;/html&gt;</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>&lt;html&gt;選取要使用的裁剪器。&lt;br&gt;此清單稍後在「應用程式設定」對話方塊中可能會變更。&lt;/html&gt;</seg></tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="en"><seg>&gt;&gt;&gt;&gt; Interpreter Output and Errors &lt;&lt;&lt;&lt;</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>&gt;&gt;&gt;&gt; 解譯輸出和錯誤狀況顯示 &lt;&lt;&lt;&lt;</seg></tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="en"><seg>A Mode is a name that represents a method of printing. A Mode determines Resolution, Dot Pattern, Ink Configuration, and other settings.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>模式是代表列印方法的名稱。模式決定了解析度、網點、墨水組態及其他設定。</seg></tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="en"><seg>A filter with this name already exists.  Please enter a name other than %s for this filter.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>此名稱的濾鏡已存在。請輸入%s 以外的其他名稱。</seg></tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="en"><seg>A mode with this name already exists in the media.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>介質中已經有同名模式。</seg></tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="en"><seg>A skew jam.\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>歪斜卡紙。\n</seg></tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="en"><seg>A:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>A：</seg></tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="en"><seg>Abort installation</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>中止安裝</seg></tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="en"><seg>Above Normal</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>高於標準</seg></tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="en"><seg>AccuPhoto GSX Job Options</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>AccuPhoto GSX工作選項</seg></tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="en"><seg>Activation</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>啟用</seg></tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="en"><seg>Adapter</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>配接卡</seg></tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="en"><seg>Add Font</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>新增字型</seg></tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="en"><seg>Add More Red</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>加深紅色</seg></tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="en"><seg>Add Resolution</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>增加解析度</seg></tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="en"><seg>Add a resolution to the list of available resolutions\n\\Add Resolution</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>新增解析度到可用解析度清單。\n\\新增解析度</seg></tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="en"><seg>Added</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>已新增</seg></tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="en"><seg>Adjust if dark areas of rows D and E appear gray</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>如果列 D 和 E 的暗色區域呈現灰色則進行調整</seg></tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="en"><seg>Adv. Black&amp;White Photo</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>進階黑白照片</seg></tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="en"><seg>Advanced Path Generation</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>進階路徑生成</seg></tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="en"><seg>After deleting this print mode, the substrate will be also deleted. Are you sure that you want to delete the print mode?</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>刪除此列印模式之後，紙材也會遭刪除。 您確定要刪除列印模式？</seg></tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="en"><seg>Agfa Montana XII / 62</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Agfa Montana XII / 62</seg></tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="en"><seg>All %s Job/Image Files|*.onx;*.onc;*.tif;*.tiff;*.tga;*.bmp;*.dib;*.ct;*.sct;*.jpg;*.jpe;*.jpeg;*.jfif;*.jp2;*.psd;*.psb;*.gif;*.pcx;*.pcd;*.sid;*.ps;*.eps;*.pdf;*.rpf;*.ils;*.png|</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>所有 %s 作業/圖像 檔|*.onx;*.onc;*.tif;*.tiff;*.tga;*.bmp;*.dib;*.ct;*.sct;*.jpg;*.jpe;*.jpeg;*.jfif;*.jp2;*.psd;*.psb;*.gif;*.pcx;*.pcd;*.sid;*.ps;*.eps;*.pdf;*.rpf;*.ils;*.png|</seg></tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="en"><seg>All Medias</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>所有介質</seg></tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="en"><seg>All data for station %s will be deleted and cannot be undone. Do you want to continue?</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>工作站 %s 的所有資料將被刪除，無法撤銷。 您要繼續嗎？</seg></tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="en"><seg>Allow Infinite Length Rolls</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>允許無限長度捲動</seg></tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="en"><seg>Almost empty</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>幾乎空</seg></tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="en"><seg>An appropriate set of options is generally preselected automatically based on your ink setup for the media. For most users it is recommended that you simply click &lt;b&gt;Build&lt;/b&gt; to complete the profiling process. Advanced users can access the Build Options by clicking &lt;b&gt;Edit&lt;/b&gt;. The down arrow on the Edit button allows users to configure and save custom setups. These will appear in the Predefined Build Options drop-down menu. &lt;b&gt;NOTE:&lt;/b&gt; Custom built option presets are not auto-selected based on the ink setup of your media.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>通常會根據您在介質中的墨水設定自動預先選取適當的選項集。 對於大部份的使用者，建議您只要按一下&lt;b&gt;建立&lt;/b&gt;以完成設定檔程序即可。 進階使用者可以藉由按一下&lt;b&gt;編輯&lt;/b&gt;以存取建立選項。 「編輯」按鈕上的向下箭頭允許使用者設定與儲存自訂設定。 這些設定會出現在「預定義建立選項」下拉式功能表中。 &lt;b&gt;注意：&lt;/b&gt; 並不會根據您的介質墨水設定自動選取自訂建立選項預設。</seg></tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="en"><seg>An error occurred trying to open a tile for job &quot;%s%s&quot;.\n%s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>嘗試為工作 &quot;%s%s&quot; 開啟拼接時發生錯誤。\n%s</seg></tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="en"><seg>An error occurred while processing a command from the client.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>處理來自用戶端的命令時出錯。</seg></tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="en"><seg>An invalid field in the command data block has been sent to the printer.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>向印表機傳送的指令資料塊中有無效欄位。</seg></tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="en"><seg>Animate cut paths</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>動畫剪裁路徑</seg></tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="en"><seg>Apply Changes</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>套用變更</seg></tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="en"><seg>Archive Job Indefinitely</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>不確定是否保存工作</seg></tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="en"><seg>Are you sure you want to delete %s?</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>是否確實要刪除 %s？</seg></tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="en"><seg>Are you sure you want to delete this color: (</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>是否確實要刪除此顏色： (</seg></tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="en"><seg>Arial</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Arial</seg></tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="en"><seg>Assign output channels to process channels</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>指定輸出通道至處理通道</seg></tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="en"><seg>Auto Adjust</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>自動調整</seg></tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="en"><seg>Auto drying</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>自動乾燥</seg></tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="en"><seg>Automatic Even Tiling</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>自動等分拼接</seg></tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="en"><seg>Automatically import the media currently loaded on the printer</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>自動匯入目前已載入至印表機上的介質</seg></tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="en"><seg>Average ΔE</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>平均 ΔE</seg></tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="en"><seg>Background</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>背景</seg></tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="en"><seg>Band Reduction:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>頻帶縮減：</seg></tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="en"><seg>Banner 2, 6p, bi, 320 cps</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>橫幅 2, 6p, bi, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="en"><seg>Banner 4, 4p, bi, 320 cps</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>橫幅 4, 6p, bi, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="en"><seg>Barcode Properties</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>條碼屬性</seg></tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="en"><seg>Basic Contone</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>基本連續色調</seg></tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="en"><seg>Be sure to export the Zund CutCenter cutter materials</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>請務必匯出 Zund CutCenter 切紙器材料</seg></tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="en"><seg>Beta Version: %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>測試版本：%s</seg></tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="en"><seg>BiDirectional Printing,</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>雙向列印,</seg></tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="en"><seg>Bitmap (.bmp)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>點陣圖 (*.bmp)</seg></tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="en"><seg>Black Generation Profile Selection</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>黑色產生設定檔選擇</seg></tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="en"><seg>Black Width:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>黑色寬度：</seg></tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="en"><seg>Bleed Right: %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>出血右側：%s</seg></tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="en"><seg>Blue Limit</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>藍色限制</seg></tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="en"><seg>Borderless</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無邊框</seg></tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="en"><seg>Bottom Right Corner</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>右下角</seg></tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="en"><seg>BuffLen value is too small.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>BuffLen 值太小。</seg></tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="en"><seg>Build Profile - %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>建立色彩設定檔 - %s</seg></tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="en"><seg>By &amp;Copies</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>依據份數(&amp;C)</seg></tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="en"><seg>C&amp;alibrate...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>校準(&amp;A)...</seg></tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="en"><seg>CCX Files (*.proflist)|*.proflist|</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>CCX 檔案 (*.proflist)|*.proflist|</seg></tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="en"><seg>CMY Gray Generation</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>CMY 灰色產生</seg></tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="en"><seg>CMYK Curves</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>CMYK 曲線</seg></tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="en"><seg>CMYK scanned images not supported!</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>不支援 CMYK 掃描的影像！</seg></tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="en"><seg>CMYK+White+White</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>CMYK+白色+白色</seg></tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="en"><seg>CMYKcmSS</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>CMYKcmSS</seg></tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="en"><seg>Calcomp 50</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Calcomp 50</seg></tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="en"><seg>Calibration ID is NOT available</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>校準 ID 不可用</seg></tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="en"><seg>Can not install the medias. The Onyx software is not installed.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法安裝介質。未安裝 Onyx 軟體。</seg></tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="en"><seg>Canceling after current mode...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>當前模式之後取消...</seg></tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="en"><seg>Cannot create swatch!</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法建立色板！</seg></tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="en"><seg>Cannot open USB port - busy getting status.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法開啟 USB 連接埠 - 正在取得狀態。</seg></tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="en"><seg>Cannot run key updates: No key accessible.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法運行加密鎖更新：沒有訪問的加密鎖。</seg></tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="en"><seg>Canon FireWire</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Canon FireWire</seg></tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="en"><seg>Carriage Temperature:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>墨匣溫度：</seg></tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="en"><seg>Category</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>種類</seg></tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="en"><seg>Certificate invalid.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>憑證無效。</seg></tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="en"><seg>Change ZCC Material Selection...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>變更 ZCC 材料選擇...</seg></tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="en"><seg>Channel</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>色版</seg></tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="en"><seg>Chart Mode:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>圖表模式：</seg></tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="en"><seg>Checking Spooler Status...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>正在檢查排存程式狀態...</seg></tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="en"><seg>Choose Calibration</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選擇校準</seg></tuv>
+    </tu>
+    <tu tuid="159">
+      <tuv xml:lang="en"><seg>Choose Recent Folder:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選擇最近的資料夾：</seg></tuv>
+    </tu>
+    <tu tuid="160">
+      <tuv xml:lang="en"><seg>Choose the workflow to use:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選擇要使用的工作流程：</seg></tuv>
+    </tu>
+    <tu tuid="161">
+      <tuv xml:lang="en"><seg>Cleaning Liquid Cartridge Is Unset</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>清潔液匣復位</seg></tuv>
+    </tu>
+    <tu tuid="162">
+      <tuv xml:lang="en"><seg>Click + to create a new Media Group. Clicking this button will open a new dialog. Choose a name that will help you organize your media effectively, such as UV, Dye or a Media Manufacturer name.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>按一下 + 以建立新的介質群組。 按一下此按鈕將會開啟新的對話方塊。 請選擇能夠方便您有效組織介質的名稱，例如 UV、Dye 或介質製造商名稱。</seg></tuv>
+    </tu>
+    <tu tuid="163">
+      <tuv xml:lang="en"><seg>Click Print Swatch to print the Calibration swatch.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>按一下「列印色板」按鈕以列印校準色板。</seg></tuv>
+    </tu>
+    <tu tuid="164">
+      <tuv xml:lang="en"><seg>Click the Read Swatch button to read in the swatch using the selected color device.&lt;br&gt;&lt;br&gt;Once the swatch has been read in, a report will display indicating if there is conformance to the G7® Grayscale specification.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>按一下「讀取色板」按鈕，使用選取的色彩裝置讀入色板。&lt;br&gt;&lt;br&gt;讀入色板後會顯示報告，指出是否符合 G7® Grayscale 規格。</seg></tuv>
+    </tu>
+    <tu tuid="165">
+      <tuv xml:lang="en"><seg>Clients: %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>用戶端：%s</seg></tuv>
+    </tu>
+    <tu tuid="166">
+      <tuv xml:lang="en"><seg>Closed Communication</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>通訊關閉</seg></tuv>
+    </tu>
+    <tu tuid="167">
+      <tuv xml:lang="en"><seg>Collated</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>自動分頁</seg></tuv>
+    </tu>
+    <tu tuid="168">
+      <tuv xml:lang="en"><seg>Color -&gt; White -&gt; White</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>色彩 -&gt; 白色 -&gt; 白色</seg></tuv>
+    </tu>
+    <tu tuid="169">
+      <tuv xml:lang="en"><seg>Color Display:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>色彩顯示：</seg></tuv>
+    </tu>
+    <tu tuid="170">
+      <tuv xml:lang="en"><seg>Color Order: %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>顏色順序： %s</seg></tuv>
+    </tu>
+    <tu tuid="171">
+      <tuv xml:lang="en"><seg>Color Table Enabled</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>色彩表已啟用</seg></tuv>
+    </tu>
+    <tu tuid="172">
+      <tuv xml:lang="en"><seg>Color/&amp;Gray Levels</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>色階/灰階(&amp;G)</seg></tuv>
+    </tu>
+    <tu tuid="173">
+      <tuv xml:lang="en"><seg>Colorways (*.ocw)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Colorways (*.ocw)</seg></tuv>
+    </tu>
+    <tu tuid="174">
+      <tuv xml:lang="en"><seg>Communication driver did not initialize.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>通訊驅動程式未起始。</seg></tuv>
+    </tu>
+    <tu tuid="175">
+      <tuv xml:lang="en"><seg>Completed:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>已完成：</seg></tuv>
+    </tu>
+    <tu tuid="176">
+      <tuv xml:lang="en"><seg>Configure &amp;Adobe RIP...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設定 Adobe RIP(&amp;A)...</seg></tuv>
+    </tu>
+    <tu tuid="177">
+      <tuv xml:lang="en"><seg>Configure Elitron Cutter Marks</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設定 Elitron 切紙器標記</seg></tuv>
+    </tu>
+    <tu tuid="178">
+      <tuv xml:lang="en"><seg>Configure Light Ink Termination</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設定淡墨終點</seg></tuv>
+    </tu>
+    <tu tuid="179">
+      <tuv xml:lang="en"><seg>Configure PostScript RIP\nConfigure RIP</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設定向量檔 RIP\n設定 RIP</seg></tuv>
+    </tu>
+    <tu tuid="180">
+      <tuv xml:lang="en"><seg>Configure SummaCut Cutter Marks</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設定 SummaCut 切紙器標記</seg></tuv>
+    </tu>
+    <tu tuid="181">
+      <tuv xml:lang="en"><seg>Configured in Media Layers</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>在介質層設定</seg></tuv>
+    </tu>
+    <tu tuid="182">
+      <tuv xml:lang="en"><seg>Connecting to server...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>正在連接伺服器...</seg></tuv>
+    </tu>
+    <tu tuid="183">
+      <tuv xml:lang="en"><seg>Continuing in %d seconds</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>在 %d 秒鐘後繼續</seg></tuv>
+    </tu>
+    <tu tuid="184">
+      <tuv xml:lang="en"><seg>Control Panel</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>控制台</seg></tuv>
+    </tu>
+    <tu tuid="185">
+      <tuv xml:lang="en"><seg>Copies Tool</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>複製工具</seg></tuv>
+    </tu>
+    <tu tuid="186">
+      <tuv xml:lang="en"><seg>Copy Options</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>複製選項</seg></tuv>
+    </tu>
+    <tu tuid="187">
+      <tuv xml:lang="en"><seg>Copy:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>複製：</seg></tuv>
+    </tu>
+    <tu tuid="188">
+      <tuv xml:lang="en"><seg>Copyright © 1995-2006</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>版權所有 © 1995-2006</seg></tuv>
+    </tu>
+    <tu tuid="189">
+      <tuv xml:lang="en"><seg>Correction Factor</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>修正係數</seg></tuv>
+    </tu>
+    <tu tuid="190">
+      <tuv xml:lang="en"><seg>Could not load color info, check your printer configuration</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法載入色彩資訊，請檢查您的印表機設定</seg></tuv>
+    </tu>
+    <tu tuid="191">
+      <tuv xml:lang="en"><seg>Could not open TCP/IP connection to %s!</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法開啟至 %s 的 TCP/IP 連接！</seg></tuv>
+    </tu>
+    <tu tuid="192">
+      <tuv xml:lang="en"><seg>Count Pixels</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>計算像素</seg></tuv>
+    </tu>
+    <tu tuid="193">
+      <tuv xml:lang="en"><seg>Create Ink Limit</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>建立墨量限制</seg></tuv>
+    </tu>
+    <tu tuid="194">
+      <tuv xml:lang="en"><seg>Create Proof Automatically</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>自動建立校對</seg></tuv>
+    </tu>
+    <tu tuid="195">
+      <tuv xml:lang="en"><seg>Create a new Linearization:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>建立新的線性漸層：</seg></tuv>
+    </tu>
+    <tu tuid="196">
+      <tuv xml:lang="en"><seg>Created</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>建立時間</seg></tuv>
+    </tu>
+    <tu tuid="197">
+      <tuv xml:lang="en"><seg>Creekside Printer Configuration</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Creekside 印表機組態</seg></tuv>
+    </tu>
+    <tu tuid="198">
+      <tuv xml:lang="en"><seg>Crop to page</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>裁切到頁面</seg></tuv>
+    </tu>
+    <tu tuid="199">
+      <tuv xml:lang="en"><seg>Current File:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>目前檔案：</seg></tuv>
+    </tu>
+    <tu tuid="200">
+      <tuv xml:lang="en"><seg>Current Week</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>目前星期</seg></tuv>
+    </tu>
+    <tu tuid="201">
+      <tuv xml:lang="en"><seg>Custom Channel</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>自訂通道</seg></tuv>
+    </tu>
+    <tu tuid="202">
+      <tuv xml:lang="en"><seg>Custom Setting</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>自訂設定</seg></tuv>
+    </tu>
+    <tu tuid="203">
+      <tuv xml:lang="en"><seg>Custom...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>自訂...</seg></tuv>
+    </tu>
+    <tu tuid="204">
+      <tuv xml:lang="en"><seg>Customer Order ID: %ls</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>客戶訂單 ID： %ls</seg></tuv>
+    </tu>
+    <tu tuid="205">
+      <tuv xml:lang="en"><seg>Cut File Folder</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>剪裁檔資料夾</seg></tuv>
+    </tu>
+    <tu tuid="206">
+      <tuv xml:lang="en"><seg>Cut Path Tool</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>剪裁路徑工具</seg></tuv>
+    </tu>
+    <tu tuid="207">
+      <tuv xml:lang="en"><seg>Cut wait time:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>裁切等待時間：</seg></tuv>
+    </tu>
+    <tu tuid="208">
+      <tuv xml:lang="en"><seg>Cutter Marks: %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>切紙器標記：%s</seg></tuv>
+    </tu>
+    <tu tuid="209">
+      <tuv xml:lang="en"><seg>Cutters</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>裁剪器</seg></tuv>
+    </tu>
+    <tu tuid="210">
+      <tuv xml:lang="en"><seg>Czech</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>捷克文</seg></tuv>
+    </tu>
+    <tu tuid="211">
+      <tuv xml:lang="en"><seg>DN</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>下移</seg></tuv>
+    </tu>
+    <tu tuid="212">
+      <tuv xml:lang="en"><seg>Data Type or Port Name:\n\tChoose a selection from the pull-down menu, or type in a new name.  Use &quot;&lt;Port9100&gt;&quot; for HP devices and &quot;lpt1_passthru&quot; or &quot;lpt2_passthru&quot; for Intel Netports.  For other devices, refer to the device documentation.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>資料類型或埠名稱：\n\t從下拉式功能表中選取一個選項，或輸入新名稱。如果是 HP 裝置，請使用 &quot;&lt;Port9100&gt;&quot;；如果是 Intel Netports，則使用 &quot;lpt1_passthru&quot; 或 &quot;lpt2_passthru&quot;。至於其他裝置，請參考裝置說明文件。</seg></tuv>
+    </tu>
+    <tu tuid="213">
+      <tuv xml:lang="en"><seg>Decrement Image Magnification\nZoom Out</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>縮小影像\n縮小</seg></tuv>
+    </tu>
+    <tu tuid="214">
+      <tuv xml:lang="en"><seg>Default Nest</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>預設集印</seg></tuv>
+    </tu>
+    <tu tuid="215">
+      <tuv xml:lang="en"><seg>Define Custom Layer</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>定義自訂圖層</seg></tuv>
+    </tu>
+    <tu tuid="216">
+      <tuv xml:lang="en"><seg>Delete &amp;Image After Processing</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>處理後刪除影像(&amp;I)</seg></tuv>
+    </tu>
+    <tu tuid="217">
+      <tuv xml:lang="en"><seg>Delete Pattern...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>刪除網點...</seg></tuv>
+    </tu>
+    <tu tuid="218">
+      <tuv xml:lang="en"><seg>Delete the selected Cutter Path prefix</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>删除選定切紙器路徑首碼</seg></tuv>
+    </tu>
+    <tu tuid="219">
+      <tuv xml:lang="en"><seg>Deleting Files...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>正在刪除檔案...</seg></tuv>
+    </tu>
+    <tu tuid="220">
+      <tuv xml:lang="en"><seg>Depends On</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>取決於</seg></tuv>
+    </tu>
+    <tu tuid="221">
+      <tuv xml:lang="en"><seg>Desktop</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>桌面</seg></tuv>
+    </tu>
+    <tu tuid="222">
+      <tuv xml:lang="en"><seg>Details</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>詳細資訊</seg></tuv>
+    </tu>
+    <tu tuid="223">
+      <tuv xml:lang="en"><seg>Device Setup</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>裝置設定</seg></tuv>
+    </tu>
+    <tu tuid="224">
+      <tuv xml:lang="en"><seg>Direct</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>本機</seg></tuv>
+    </tu>
+    <tu tuid="225">
+      <tuv xml:lang="en"><seg>Disabled</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>停用</seg></tuv>
+    </tu>
+    <tu tuid="226">
+      <tuv xml:lang="en"><seg>Display Name</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>顯示名稱</seg></tuv>
+    </tu>
+    <tu tuid="227">
+      <tuv xml:lang="en"><seg>Display warning when removing single images</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>移除單一影像時顯示警告</seg></tuv>
+    </tu>
+    <tu tuid="228">
+      <tuv xml:lang="en"><seg>Do %s%d</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>做 %s%d</seg></tuv>
+    </tu>
+    <tu tuid="229">
+      <tuv xml:lang="en"><seg>Do you want to get multiple patch readings from a different copy of the swatch?</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>是否要取得不同樣本的多份色樣讀數?</seg></tuv>
+    </tu>
+    <tu tuid="230">
+      <tuv xml:lang="en"><seg>Do you wish to save changes in this page before stopping?</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>在停止之前是否儲存該頁面中的變更？</seg></tuv>
+    </tu>
+    <tu tuid="231">
+      <tuv xml:lang="en"><seg>Don&apos;t ask again, always do this for mismatches with \n&apos;%s&apos;</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>不要再詢問，與 \n&apos;%s&apos; 不符時永遠執行此動作</seg></tuv>
+    </tu>
+    <tu tuid="232">
+      <tuv xml:lang="en"><seg>Dot Pattern:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>網屏：</seg></tuv>
+    </tu>
+    <tu tuid="233">
+      <tuv xml:lang="en"><seg>Double Strike:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>雙重列印：</seg></tuv>
+    </tu>
+    <tu tuid="234">
+      <tuv xml:lang="en"><seg>Download Options</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>下載選項</seg></tuv>
+    </tu>
+    <tu tuid="235">
+      <tuv xml:lang="en"><seg>Draft (2 pass, unidir),</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>草圖 (2 次套印，單向)，</seg></tuv>
+    </tu>
+    <tu tuid="236">
+      <tuv xml:lang="en"><seg>Drop Size Swatch</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>墨滴大小色板：</seg></tuv>
+    </tu>
+    <tu tuid="237">
+      <tuv xml:lang="en"><seg>Drying &amp;Time</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>乾燥時間(&amp;T)</seg></tuv>
+    </tu>
+    <tu tuid="238">
+      <tuv xml:lang="en"><seg>Dual Stripe</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>雙帶</seg></tuv>
+    </tu>
+    <tu tuid="239">
+      <tuv xml:lang="en"><seg>Duplication factor:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>複製因素：</seg></tuv>
+    </tu>
+    <tu tuid="240">
+      <tuv xml:lang="en"><seg>EEPROM status bad.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>EEPROM 狀態不正確。</seg></tuv>
+    </tu>
+    <tu tuid="241">
+      <tuv xml:lang="en"><seg>ERROR! - There are too many spot colors!</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>錯誤! - 有太多的特別色!</seg></tuv>
+    </tu>
+    <tu tuid="242">
+      <tuv xml:lang="en"><seg>ERROR: Failed to load &apos;UpdateSources.html&apos;</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>錯誤：載入 &apos;UpdateSources.html&apos; 失敗</seg></tuv>
+    </tu>
+    <tu tuid="243">
+      <tuv xml:lang="en"><seg>Edge Quality</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>邊緣品質</seg></tuv>
+    </tu>
+    <tu tuid="244">
+      <tuv xml:lang="en"><seg>Edit Key File</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>編輯加密鎖檔案</seg></tuv>
+    </tu>
+    <tu tuid="245">
+      <tuv xml:lang="en"><seg>Edit Patches</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>編輯色樣</seg></tuv>
+    </tu>
+    <tu tuid="246">
+      <tuv xml:lang="en"><seg>Edit Tile</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>編輯拼接</seg></tuv>
+    </tu>
+    <tu tuid="247">
+      <tuv xml:lang="en"><seg>Edit the default settings template.\nEdit Default Settings Template</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>編輯預設設定範本。\n編輯預設設定範本</seg></tuv>
+    </tu>
+    <tu tuid="248">
+      <tuv xml:lang="en"><seg>Electrostatic Printer</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>靜電繪圖機</seg></tuv>
+    </tu>
+    <tu tuid="249">
+      <tuv xml:lang="en"><seg>Enable</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>啟用</seg></tuv>
+    </tu>
+    <tu tuid="250">
+      <tuv xml:lang="en"><seg>Enable Heater Temperature</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>啟用列印加熱器</seg></tuv>
+    </tu>
+    <tu tuid="251">
+      <tuv xml:lang="en"><seg>Enable Platen Temperature</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>啟用滾筒溫度</seg></tuv>
+    </tu>
+    <tu tuid="252">
+      <tuv xml:lang="en"><seg>Enable Variable Data</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>啟用可變資料</seg></tuv>
+    </tu>
+    <tu tuid="253">
+      <tuv xml:lang="en"><seg>Encrypted Font #: %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>加密字體編號：%s</seg></tuv>
+    </tu>
+    <tu tuid="254">
+      <tuv xml:lang="en"><seg>Engine is offline.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>引擎離線。</seg></tuv>
+    </tu>
+    <tu tuid="255">
+      <tuv xml:lang="en"><seg>Enhanced Fast</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>快速增強</seg></tuv>
+    </tu>
+    <tu tuid="256">
+      <tuv xml:lang="en"><seg>Enter a name for this frame size.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>為此畫面尺寸輸入名稱。</seg></tuv>
+    </tu>
+    <tu tuid="257">
+      <tuv xml:lang="en"><seg>Epson Large</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Epson 大</seg></tuv>
+    </tu>
+    <tu tuid="258">
+      <tuv xml:lang="en"><seg>Error %d! *** Check printer for more information.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>錯誤 %d!*** 檢查印表機以了解更多資訊。</seg></tuv>
+    </tu>
+    <tu tuid="259">
+      <tuv xml:lang="en"><seg>Error - port data bad, reconfigure port!\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>錯誤 ─ 埠資料錯誤，重新設定埠！\n</seg></tuv>
+    </tu>
+    <tu tuid="260">
+      <tuv xml:lang="en"><seg>Error communicating with printer.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>與印表機通訊時發生錯誤。</seg></tuv>
+    </tu>
+    <tu tuid="261">
+      <tuv xml:lang="en"><seg>Error reading cartridges information</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>讀取墨水匣資訊時發生錯誤</seg></tuv>
+    </tu>
+    <tu tuid="262">
+      <tuv xml:lang="en"><seg>Error: %s\n\nPlease correct the error condition and check the front panel of the printer to see if additional action is required.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>錯誤： %s\n\n請校正錯誤狀況，然後查看印表機前面板，判斷是否需要採取其他行動。</seg></tuv>
+    </tu>
+    <tu tuid="263">
+      <tuv xml:lang="en"><seg>Error: Initializing Header.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>錯誤： 初始化標題時出錯。</seg></tuv>
+    </tu>
+    <tu tuid="264">
+      <tuv xml:lang="en"><seg>Error: Populating Passes combo box. X Resolution: %d, Y Resolution %d</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>錯誤： 填入套印組合方塊時出錯。 X 解析度： %d, Y 解析度 %d</seg></tuv>
+    </tu>
+    <tu tuid="265">
+      <tuv xml:lang="en"><seg>Error: Sending Light Cyan Data to the Printer.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>錯誤：傳送淺青色資料至印表機時出錯。</seg></tuv>
+    </tu>
+    <tu tuid="266">
+      <tuv xml:lang="en"><seg>Error: Writing IFD to file.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>錯誤： 將 IFD 寫入檔案。</seg></tuv>
+    </tu>
+    <tu tuid="267">
+      <tuv xml:lang="en"><seg>Examine the ink limit swatch and choose the darkest value that does not show puddling or ink bleeding.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>檢查墨量限制色板並選擇不會顯示墨水積聚或墨水滲漏的最暗顏色。</seg></tuv>
+    </tu>
+    <tu tuid="268">
+      <tuv xml:lang="en"><seg>Expand or Contract Paths</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>擴展至縮小路徑</seg></tuv>
+    </tu>
+    <tu tuid="269">
+      <tuv xml:lang="en"><seg>Export Media</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>匯出介質</seg></tuv>
+    </tu>
+    <tu tuid="270">
+      <tuv xml:lang="en"><seg>Exports image and creates a new image file.\nExport Image As</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>匯出影像並建立新的影像檔案。\n將影像匯出為</seg></tuv>
+    </tu>
+    <tu tuid="271">
+      <tuv xml:lang="en"><seg>Extracting:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>正在解壓縮：</seg></tuv>
+    </tu>
+    <tu tuid="272">
+      <tuv xml:lang="en"><seg>FTP Forwarding</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>FTP 轉發</seg></tuv>
+    </tu>
+    <tu tuid="273">
+      <tuv xml:lang="en"><seg>Failed to add station.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法新增工作站。</seg></tuv>
+    </tu>
+    <tu tuid="274">
+      <tuv xml:lang="en"><seg>Failed to edit printer info for &apos;%s&apos;\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>編輯 &apos;%s&apos; 的印表機資訊失敗\n</seg></tuv>
+    </tu>
+    <tu tuid="275">
+      <tuv xml:lang="en"><seg>Failed to initialize communication with the printer.  Please check your connection.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>未能起始與印表機的通訊。  請檢查您的連線。</seg></tuv>
+    </tu>
+    <tu tuid="276">
+      <tuv xml:lang="en"><seg>Failed to load order report.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法載入訂單報告。</seg></tuv>
+    </tu>
+    <tu tuid="277">
+      <tuv xml:lang="en"><seg>Failed to open port for file %s.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法開啟檔案 %s 的連接埠。</seg></tuv>
+    </tu>
+    <tu tuid="278">
+      <tuv xml:lang="en"><seg>Failed to start PrinterInstaller!</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法啟動 PrinterInstaller！</seg></tuv>
+    </tu>
+    <tu tuid="279">
+      <tuv xml:lang="en"><seg>Failed to update printer. Press finish to exit.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>更新印表機失敗。按「完成」結束。</seg></tuv>
+    </tu>
+    <tu tuid="280">
+      <tuv xml:lang="en"><seg>Fans Only</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>僅風扇</seg></tuv>
+    </tu>
+    <tu tuid="281">
+      <tuv xml:lang="en"><seg>Feed Adjustment:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>進紙調整：</seg></tuv>
+    </tu>
+    <tu tuid="282">
+      <tuv xml:lang="en"><seg>File / Folder Locations:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>檔案/資料夾位置：</seg></tuv>
+    </tu>
+    <tu tuid="283">
+      <tuv xml:lang="en"><seg>File Type:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>檔案類型：</seg></tuv>
+    </tu>
+    <tu tuid="284">
+      <tuv xml:lang="en"><seg>Fill Non-Image Area</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>填滿非影像區域</seg></tuv>
+    </tu>
+    <tu tuid="285">
+      <tuv xml:lang="en"><seg>Fine &amp; Wave 4</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>精細和波動 4</seg></tuv>
+    </tu>
+    <tu tuid="286">
+      <tuv xml:lang="en"><seg>Finishing</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>後期工具</seg></tuv>
+    </tu>
+    <tu tuid="287">
+      <tuv xml:lang="en"><seg>Fit Policy: %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>符合政策：%s</seg></tuv>
+    </tu>
+    <tu tuid="288">
+      <tuv xml:lang="en"><seg>Flatbed Mode</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>平台模式</seg></tuv>
+    </tu>
+    <tu tuid="289">
+      <tuv xml:lang="en"><seg>Flip every other tile</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>每隔一個拼接塊翻轉</seg></tuv>
+    </tu>
+    <tu tuid="290">
+      <tuv xml:lang="en"><seg>Fluorescent Pink</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>螢光粉紅色</seg></tuv>
+    </tu>
+    <tu tuid="291">
+      <tuv xml:lang="en"><seg>Font Directories:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>字型目錄：</seg></tuv>
+    </tu>
+    <tu tuid="292">
+      <tuv xml:lang="en"><seg>For job(s) where an image already exists:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>對於影像已經存在的工作：</seg></tuv>
+    </tu>
+    <tu tuid="293">
+      <tuv xml:lang="en"><seg>Four Pass</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>4 色層</seg></tuv>
+    </tu>
+    <tu tuid="294">
+      <tuv xml:lang="en"><seg>Frequency</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>頻率</seg></tuv>
+    </tu>
+    <tu tuid="295">
+      <tuv xml:lang="en"><seg>Front cover open. Close the cover.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>前蓋是打開的。關閉前蓋。</seg></tuv>
+    </tu>
+    <tu tuid="296">
+      <tuv xml:lang="en"><seg>Fully save print data to HDD before printing</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印前將列印資料完全儲存至 HDD</seg></tuv>
+    </tu>
+    <tu tuid="297">
+      <tuv xml:lang="en"><seg>G7® Tolerance</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>G7® 容差</seg></tuv>
+    </tu>
+    <tu tuid="298">
+      <tuv xml:lang="en"><seg>GZT Printer Manager software could not be started.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法啟動 GZT 印表機管理員軟體。</seg></tuv>
+    </tu>
+    <tu tuid="299">
+      <tuv xml:lang="en"><seg>General Settings</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>一般設定</seg></tuv>
+    </tu>
+    <tu tuid="300">
+      <tuv xml:lang="en"><seg>Generating cut paths for cutting.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>正在產生進行裁剪的裁剪路徑。</seg></tuv>
+    </tu>
+    <tu tuid="301">
+      <tuv xml:lang="en"><seg>Glossy</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>亮面膠片</seg></tuv>
+    </tu>
+    <tu tuid="302">
+      <tuv xml:lang="en"><seg>Gradient</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>漸層</seg></tuv>
+    </tu>
+    <tu tuid="303">
+      <tuv xml:lang="en"><seg>Graphics 1, 8p, sym, 400 cps</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>圖形 1, 8p, sym, 400 cps</seg></tuv>
+    </tu>
+    <tu tuid="304">
+      <tuv xml:lang="en"><seg>Graphics 3, 8p, bi, 320 cps</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>圖形 3, 8p, bi, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="305">
+      <tuv xml:lang="en"><seg>Gray Balance Swatch [Profile Name - %s]</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>灰階平衡色板 [設定檔名稱 - %s]</seg></tuv>
+    </tu>
+    <tu tuid="306">
+      <tuv xml:lang="en"><seg>Grayscale Correction Curve</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>灰階校正曲線</seg></tuv>
+    </tu>
+    <tu tuid="307">
+      <tuv xml:lang="en"><seg>Gretag Bellise</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Gretag Bellise</seg></tuv>
+    </tu>
+    <tu tuid="308">
+      <tuv xml:lang="en"><seg>Grey % (0-100)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>灰度 % (0-100)</seg></tuv>
+    </tu>
+    <tu tuid="309">
+      <tuv xml:lang="en"><seg>Grip released error</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>鬆開的握把發生錯誤</seg></tuv>
+    </tu>
+    <tu tuid="310">
+      <tuv xml:lang="en"><seg>H&amp;istogram...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>分布圖(&amp;I)...</seg></tuv>
+    </tu>
+    <tu tuid="311">
+      <tuv xml:lang="en"><seg>HP DesignJet 50</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>HP DesignJet 50</seg></tuv>
+    </tu>
+    <tu tuid="312">
+      <tuv xml:lang="en"><seg>HP750C</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>HP750C</seg></tuv>
+    </tu>
+    <tu tuid="313">
+      <tuv xml:lang="en"><seg>Half Speed 4 Cut</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>半速 4 裁切</seg></tuv>
+    </tu>
+    <tu tuid="314">
+      <tuv xml:lang="en"><seg>Head 1</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印頭 1</seg></tuv>
+    </tu>
+    <tu tuid="315">
+      <tuv xml:lang="en"><seg>Head board FIFO is full.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>噴頭板 FIFO 已滿。</seg></tuv>
+    </tu>
+    <tu tuid="316">
+      <tuv xml:lang="en"><seg>Heads B, C</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印頭 B，C</seg></tuv>
+    </tu>
+    <tu tuid="317">
+      <tuv xml:lang="en"><seg>Heater Heating</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>加熱器加熱</seg></tuv>
+    </tu>
+    <tu tuid="318">
+      <tuv xml:lang="en"><seg>Height</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>高度</seg></tuv>
+    </tu>
+    <tu tuid="319">
+      <tuv xml:lang="en"><seg>HiFi Solvent</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>HiFi 溶劑</seg></tuv>
+    </tu>
+    <tu tuid="320">
+      <tuv xml:lang="en"><seg>High A</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>高 A</seg></tuv>
+    </tu>
+    <tu tuid="321">
+      <tuv xml:lang="en"><seg>High Quality (HQ2)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>高品質 (HQ2)</seg></tuv>
+    </tu>
+    <tu tuid="322">
+      <tuv xml:lang="en"><seg>High Speed Mode 1</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>高速模式 1</seg></tuv>
+    </tu>
+    <tu tuid="323">
+      <tuv xml:lang="en"><seg>History Printer View</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>歷史印表機檢視</seg></tuv>
+    </tu>
+    <tu tuid="324">
+      <tuv xml:lang="en"><seg>Home position not detected. Please call service.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>檢測不到原始位置。請與服務人員聯繫。</seg></tuv>
+    </tu>
+    <tu tuid="325">
+      <tuv xml:lang="en"><seg>Horizontal Offset: %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>水平偏移： %s</seg></tuv>
+    </tu>
+    <tu tuid="326">
+      <tuv xml:lang="en"><seg>ICC</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>國際色彩協會 (ICC)</seg></tuv>
+    </tu>
+    <tu tuid="327">
+      <tuv xml:lang="en"><seg>ICC Profile Table</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>ICC 色彩描述檔表</seg></tuv>
+    </tu>
+    <tu tuid="328">
+      <tuv xml:lang="en"><seg>ICCSwatch.onx</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>ICCSwatch.onx</seg></tuv>
+    </tu>
+    <tu tuid="329">
+      <tuv xml:lang="en"><seg>ILFORD</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>ILFORD</seg></tuv>
+    </tu>
+    <tu tuid="330">
+      <tuv xml:lang="en"><seg>ISO A0</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>ISO A0</seg></tuv>
+    </tu>
+    <tu tuid="331">
+      <tuv xml:lang="en"><seg>Idle (ready to print)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>閒置 (等待列印)</seg></tuv>
+    </tu>
+    <tu tuid="332">
+      <tuv xml:lang="en"><seg>If you are having trouble connecting to the server, make sure you have a valid Internet connection. If you can access the Internet with a web browser, contact your IT department for help with the %%app_name%% configuration settings.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>如果您在連線至伺服器時遇到困難，請確定您目前是有效的網際網路連線。 如果您是以網頁瀏覽器存取網際網路，請聯絡 IT 部門，了解正確的 %%app_name%% 組態設定。</seg></tuv>
+    </tu>
+    <tu tuid="333">
+      <tuv xml:lang="en"><seg>Ignore 100% target ink values</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>忽略 100% 目標墨水數值</seg></tuv>
+    </tu>
+    <tu tuid="334">
+      <tuv xml:lang="en"><seg>Image Brightness</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>圖像亮度</seg></tuv>
+    </tu>
+    <tu tuid="335">
+      <tuv xml:lang="en"><seg>Image Operations:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>影像作業：</seg></tuv>
+    </tu>
+    <tu tuid="336">
+      <tuv xml:lang="en"><seg>Image Tools</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>影像工具</seg></tuv>
+    </tu>
+    <tu tuid="337">
+      <tuv xml:lang="en"><seg>Image size:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>圖像大小：</seg></tuv>
+    </tu>
+    <tu tuid="338">
+      <tuv xml:lang="en"><seg>Import Media:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>匯入介質：</seg></tuv>
+    </tu>
+    <tu tuid="339">
+      <tuv xml:lang="en"><seg>Import...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>匯入...</seg></tuv>
+    </tu>
+    <tu tuid="340">
+      <tuv xml:lang="en"><seg>Includes bleed/trim width %s and height %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>包含出血/修剪寬度 %s 及高度 %s</seg></tuv>
+    </tu>
+    <tu tuid="341">
+      <tuv xml:lang="en"><seg>Information:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>資訊：</seg></tuv>
+    </tu>
+    <tu tuid="342">
+      <tuv xml:lang="en"><seg>Ink Cartridge Error</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>墨水匣錯誤</seg></tuv>
+    </tu>
+    <tu tuid="343">
+      <tuv xml:lang="en"><seg>Ink Density Factor</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>墨水密度因數</seg></tuv>
+    </tu>
+    <tu tuid="344">
+      <tuv xml:lang="en"><seg>Ink Limiting Profiles</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>墨量限制設定檔</seg></tuv>
+    </tu>
+    <tu tuid="345">
+      <tuv xml:lang="en"><seg>Ink Saving</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>節省的墨量</seg></tuv>
+    </tu>
+    <tu tuid="346">
+      <tuv xml:lang="en"><seg>Ink cartridge combination error</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>墨水匣組合錯誤</seg></tuv>
+    </tu>
+    <tu tuid="347">
+      <tuv xml:lang="en"><seg>Ink low</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>墨水偏低</seg></tuv>
+    </tu>
+    <tu tuid="348">
+      <tuv xml:lang="en"><seg>Ink low CL unavailable - Green</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>墨水偏低 CL 無法使用 - 綠色</seg></tuv>
+    </tu>
+    <tu tuid="349">
+      <tuv xml:lang="en"><seg>Ink supply error. (Dark M)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>墨水供給出錯。 (深洋紅色)</seg></tuv>
+    </tu>
+    <tu tuid="350">
+      <tuv xml:lang="en"><seg>Install</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>安裝</seg></tuv>
+    </tu>
+    <tu tuid="351">
+      <tuv xml:lang="en"><seg>Intent</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>方案</seg></tuv>
+    </tu>
+    <tu tuid="352">
+      <tuv xml:lang="en"><seg>Internal guide D is open.\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>內部導軌 D 開路。\n</seg></tuv>
+    </tu>
+    <tu tuid="353">
+      <tuv xml:lang="en"><seg>Invalid Configuration</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無效的組態</seg></tuv>
+    </tu>
+    <tu tuid="354">
+      <tuv xml:lang="en"><seg>Invalid Response received from the server.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>從伺服器收到的無效回應。</seg></tuv>
+    </tu>
+    <tu tuid="355">
+      <tuv xml:lang="en"><seg>Invalid output resolution for this device.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>此裝置的輸出解析度無效。</seg></tuv>
+    </tu>
+    <tu tuid="356">
+      <tuv xml:lang="en"><seg>It is recommended to turn off &quot;Print Multiple Rows at a Time&quot; in the Placement Strategy when printing multiple copies that span more than one row.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>在列印橫跨一列以上的多個副本時，建議關閉「佈局策略」中的「一次列印多列」。</seg></tuv>
+    </tu>
+    <tu tuid="357">
+      <tuv xml:lang="en"><seg>JOBS IN ORDER</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>訂單中的工作</seg></tuv>
+    </tu>
+    <tu tuid="358">
+      <tuv xml:lang="en"><seg>Jaws Rip option is not available!</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Jaws Rip 選項無法使用！</seg></tuv>
+    </tu>
+    <tu tuid="359">
+      <tuv xml:lang="en"><seg>Job Creation:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>建立工作：</seg></tuv>
+    </tu>
+    <tu tuid="360">
+      <tuv xml:lang="en"><seg>Job Log</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>工作日誌</seg></tuv>
+    </tu>
+    <tu tuid="361">
+      <tuv xml:lang="en"><seg>Job Progress</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>作業進度</seg></tuv>
+    </tu>
+    <tu tuid="362">
+      <tuv xml:lang="en"><seg>Job View</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>工作檢視</seg></tuv>
+    </tu>
+    <tu tuid="363">
+      <tuv xml:lang="en"><seg>JobID not known by Controller.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>JobID 為控制器所未知。</seg></tuv>
+    </tu>
+    <tu tuid="364">
+      <tuv xml:lang="en"><seg>KB</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>KB</seg></tuv>
+    </tu>
+    <tu tuid="365">
+      <tuv xml:lang="en"><seg>Keep Black Mode</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>保持黑色模式</seg></tuv>
+    </tu>
+    <tu tuid="366">
+      <tuv xml:lang="en"><seg>Key Write Error</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>加密鎖寫入錯誤</seg></tuv>
+    </tu>
+    <tu tuid="367">
+      <tuv xml:lang="en"><seg>Kodak PosterShop Pro</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Kodak PosterShop Pro</seg></tuv>
+    </tu>
+    <tu tuid="368">
+      <tuv xml:lang="en"><seg>L*a*b* Source Image</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>L*a*b* 原影像</seg></tuv>
+    </tu>
+    <tu tuid="369">
+      <tuv xml:lang="en"><seg>LLk</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>LLk</seg></tuv>
+    </tu>
+    <tu tuid="370">
+      <tuv xml:lang="en"><seg>Label Color</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>標籤色彩</seg></tuv>
+    </tu>
+    <tu tuid="371">
+      <tuv xml:lang="en"><seg>Lamp Power</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>燈的功率</seg></tuv>
+    </tu>
+    <tu tuid="372">
+      <tuv xml:lang="en"><seg>Large Format Printers</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>大格式印表機</seg></tuv>
+    </tu>
+    <tu tuid="373">
+      <tuv xml:lang="en"><seg>Last scan failed. Please rescan.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>最後掃描失敗。請重新掃描。</seg></tuv>
+    </tu>
+    <tu tuid="374">
+      <tuv xml:lang="en"><seg>Layer Name:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>圖層名稱：</seg></tuv>
+    </tu>
+    <tu tuid="375">
+      <tuv xml:lang="en"><seg>Learn more about the AutoUpdate system</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>瞭解關於自動更新系統的更多詳情</seg></tuv>
+    </tu>
+    <tu tuid="376">
+      <tuv xml:lang="en"><seg>Left Margin</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>左邊界</seg></tuv>
+    </tu>
+    <tu tuid="377">
+      <tuv xml:lang="en"><seg>Legacy</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>舊有</seg></tuv>
+    </tu>
+    <tu tuid="378">
+      <tuv xml:lang="en"><seg>Level 3</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>級別 3</seg></tuv>
+    </tu>
+    <tu tuid="379">
+      <tuv xml:lang="en"><seg>Library of &amp;type:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>檔案庫類型(&amp;T)：</seg></tuv>
+    </tu>
+    <tu tuid="380">
+      <tuv xml:lang="en"><seg>Light Jet 5000</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Light Jet 5000</seg></tuv>
+    </tu>
+    <tu tuid="381">
+      <tuv xml:lang="en"><seg>LightFast Dye 4 Color</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>耐光染料 4 色</seg></tuv>
+    </tu>
+    <tu tuid="382">
+      <tuv xml:lang="en"><seg>Line Screen</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>直線網屏</seg></tuv>
+    </tu>
+    <tu tuid="383">
+      <tuv xml:lang="en"><seg>Lines/Fast</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>線條/快速</seg></tuv>
+    </tu>
+    <tu tuid="384">
+      <tuv xml:lang="en"><seg>Load the Media</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>載入介質</seg></tuv>
+    </tu>
+    <tu tuid="385">
+      <tuv xml:lang="en"><seg>Local</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>本機</seg></tuv>
+    </tu>
+    <tu tuid="386">
+      <tuv xml:lang="en"><seg>Log</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>日誌</seg></tuv>
+    </tu>
+    <tu tuid="387">
+      <tuv xml:lang="en"><seg>Low Speed</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>低速</seg></tuv>
+    </tu>
+    <tu tuid="388">
+      <tuv xml:lang="en"><seg>Lt Magenta</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>淡洋紅色</seg></tuv>
+    </tu>
+    <tu tuid="389">
+      <tuv xml:lang="en"><seg>Lt-Lt-Light Green</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Lt-Lt-淡綠色</seg></tuv>
+    </tu>
+    <tu tuid="390">
+      <tuv xml:lang="en"><seg>M L Black</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>M L 黑色</seg></tuv>
+    </tu>
+    <tu tuid="391">
+      <tuv xml:lang="en"><seg>Magenta Pattern</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>紫色圖案</seg></tuv>
+    </tu>
+    <tu tuid="392">
+      <tuv xml:lang="en"><seg>Main tank ink end - Light Cyan</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>主墨水匣墨水用完 - 淺青色</seg></tuv>
+    </tu>
+    <tu tuid="393">
+      <tuv xml:lang="en"><seg>Maintenance tank full (1)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>維護墨水匣已滿 (1)</seg></tuv>
+    </tu>
+    <tu tuid="394">
+      <tuv xml:lang="en"><seg>Make Path</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>建立路徑</seg></tuv>
+    </tu>
+    <tu tuid="395">
+      <tuv xml:lang="en"><seg>Manage Screen Configurations</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>管理網屏設定</seg></tuv>
+    </tu>
+    <tu tuid="396">
+      <tuv xml:lang="en"><seg>Manual Targeting</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>手動設定目標</seg></tuv>
+    </tu>
+    <tu tuid="397">
+      <tuv xml:lang="en"><seg>Margins (%s): top:%.2f, left:%.2f, right:%.2f, bottom:%.2f</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>邊界 (%s)：頂部：%.2f, 左側：%.2f, 右側：%.2f, 底部：%.2f</seg></tuv>
+    </tu>
+    <tu tuid="398">
+      <tuv xml:lang="en"><seg>Marks and Labels</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>標記與標籤</seg></tuv>
+    </tu>
+    <tu tuid="399">
+      <tuv xml:lang="en"><seg>Max CII:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>最大 CII：</seg></tuv>
+    </tu>
+    <tu tuid="400">
+      <tuv xml:lang="en"><seg>Max ΔCh</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>最大 ΔCh</seg></tuv>
+    </tu>
+    <tu tuid="401">
+      <tuv xml:lang="en"><seg>Maximum Height:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>最大高度：</seg></tuv>
+    </tu>
+    <tu tuid="402">
+      <tuv xml:lang="en"><seg>MaximumTile Size (inches):</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>最大化拼接尺寸 (英吋)：</seg></tuv>
+    </tu>
+    <tu tuid="403">
+      <tuv xml:lang="en"><seg>Measure ColorCheck Swatch</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>測量 ColorCheck 色板</seg></tuv>
+    </tu>
+    <tu tuid="404">
+      <tuv xml:lang="en"><seg>Measured:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>已測量：</seg></tuv>
+    </tu>
+    <tu tuid="405">
+      <tuv xml:lang="en"><seg>Measurement of Swatch Needed</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>需要的色板測量</seg></tuv>
+    </tu>
+    <tu tuid="406">
+      <tuv xml:lang="en"><seg>Media Archive OML File (*.OML)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>介質保存 OML 檔 (*.OML)</seg></tuv>
+    </tu>
+    <tu tuid="407">
+      <tuv xml:lang="en"><seg>Media Cost</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>介質成本</seg></tuv>
+    </tu>
+    <tu tuid="408">
+      <tuv xml:lang="en"><seg>Media Group</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>介質群組</seg></tuv>
+    </tu>
+    <tu tuid="409">
+      <tuv xml:lang="en"><seg>Media Settings</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>介質設定</seg></tuv>
+    </tu>
+    <tu tuid="410">
+      <tuv xml:lang="en"><seg>Media Type 2:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>介質類型 2：</seg></tuv>
+    </tu>
+    <tu tuid="411">
+      <tuv xml:lang="en"><seg>Media and Page Size</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>介質與頁面尺寸</seg></tuv>
+    </tu>
+    <tu tuid="412">
+      <tuv xml:lang="en"><seg>Media/Page Size Selection</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>介質/頁面大小選項</seg></tuv>
+    </tu>
+    <tu tuid="413">
+      <tuv xml:lang="en"><seg>Medium Heavy (25-27 lbs.)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>中重 (25-27 磅)</seg></tuv>
+    </tu>
+    <tu tuid="414">
+      <tuv xml:lang="en"><seg>Meters</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>公尺</seg></tuv>
+    </tu>
+    <tu tuid="415">
+      <tuv xml:lang="en"><seg>Middle</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>中間</seg></tuv>
+    </tu>
+    <tu tuid="416">
+      <tuv xml:lang="en"><seg>Mimaki CG-130FX</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Mimaki CG-130FX</seg></tuv>
+    </tu>
+    <tu tuid="417">
+      <tuv xml:lang="en"><seg>Minimum gray value to have a pixel become a cut path.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>只有一個圖元的最小灰色值將成為裁切線。</seg></tuv>
+    </tu>
+    <tu tuid="418">
+      <tuv xml:lang="en"><seg>Missing cartridge</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>缺少墨匣</seg></tuv>
+    </tu>
+    <tu tuid="419">
+      <tuv xml:lang="en"><seg>Mode 10, 1p, bi, 320 cps</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>模式 10, 1p, 雙向, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="420">
+      <tuv xml:lang="en"><seg>Mode 5, 3p, uni, 320 cps</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>模式 5, 3p, 單向, 320 cps</seg></tuv>
+    </tu>
+    <tu tuid="421">
+      <tuv xml:lang="en"><seg>Mode Evaluation</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>模式評估</seg></tuv>
+    </tu>
+    <tu tuid="422">
+      <tuv xml:lang="en"><seg>Modify Defaults</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>修改預設值</seg></tuv>
+    </tu>
+    <tu tuid="423">
+      <tuv xml:lang="en"><seg>Monochrome (Color Off)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>單色 (色彩關閉)</seg></tuv>
+    </tu>
+    <tu tuid="424">
+      <tuv xml:lang="en"><seg>Move</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>移動</seg></tuv>
+    </tu>
+    <tu tuid="425">
+      <tuv xml:lang="en"><seg>Move Up</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>上移</seg></tuv>
+    </tu>
+    <tu tuid="426">
+      <tuv xml:lang="en"><seg>Move to top</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>移至頂端</seg></tuv>
+    </tu>
+    <tu tuid="427">
+      <tuv xml:lang="en"><seg>Multichannel</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>多通道</seg></tuv>
+    </tu>
+    <tu tuid="428">
+      <tuv xml:lang="en"><seg>Mutoh MutohRJ Options</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Mutoh MutohRJ 選項</seg></tuv>
+    </tu>
+    <tu tuid="429">
+      <tuv xml:lang="en"><seg>NOTE</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>注意</seg></tuv>
+    </tu>
+    <tu tuid="430">
+      <tuv xml:lang="en"><seg>Name Colors Used</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>為已使用的色彩命名</seg></tuv>
+    </tu>
+    <tu tuid="431">
+      <tuv xml:lang="en"><seg>Named Color Profile</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>已命名的色彩設定檔</seg></tuv>
+    </tu>
+    <tu tuid="432">
+      <tuv xml:lang="en"><seg>Neutrals</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>中性</seg></tuv>
+    </tu>
+    <tu tuid="433">
+      <tuv xml:lang="en"><seg>New Pen Configuration</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>新畫筆配置</seg></tuv>
+    </tu>
+    <tu tuid="434">
+      <tuv xml:lang="en"><seg>Next Job</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>下一工作</seg></tuv>
+    </tu>
+    <tu tuid="435">
+      <tuv xml:lang="en"><seg>No Filter</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無濾鏡</seg></tuv>
+    </tu>
+    <tu tuid="436">
+      <tuv xml:lang="en"><seg>No Light Inks</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無淺色墨水</seg></tuv>
+    </tu>
+    <tu tuid="437">
+      <tuv xml:lang="en"><seg>No Profiles</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>沒有設定檔</seg></tuv>
+    </tu>
+    <tu tuid="438">
+      <tuv xml:lang="en"><seg>No default values for current resolution and media type</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>目前的解析度與介質類型沒有預設值</seg></tuv>
+    </tu>
+    <tu tuid="439">
+      <tuv xml:lang="en"><seg>No jobs are available for reprinting.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>沒有可用於重新列印的工作。</seg></tuv>
+    </tu>
+    <tu tuid="440">
+      <tuv xml:lang="en"><seg>No photo cyan ink.\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無相片品質的青色墨水。\n</seg></tuv>
+    </tu>
+    <tu tuid="441">
+      <tuv xml:lang="en"><seg>No version information</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無版本資訊</seg></tuv>
+    </tu>
+    <tu tuid="442">
+      <tuv xml:lang="en"><seg>Normal</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>一般</seg></tuv>
+    </tu>
+    <tu tuid="443">
+      <tuv xml:lang="en"><seg>Normal Speed</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>一般速度</seg></tuv>
+    </tu>
+    <tu tuid="444">
+      <tuv xml:lang="en"><seg>Not Using G7 Native CMY</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>不使用 G7 Native CMY</seg></tuv>
+    </tu>
+    <tu tuid="445">
+      <tuv xml:lang="en"><seg>Note: Changing the Ink Limit type and clicking &apos;Print Swatch&apos; or the &apos;Next&apos; button will result in the loss of previous Ink Limit settings.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>注意： 變更墨量限制類型，然後按一下「列印色板」或「下一步」按鈕將會造成先前「墨量限制」設定遺失。</seg></tuv>
+    </tu>
+    <tu tuid="446">
+      <tuv xml:lang="en"><seg>Note: The measurement condition switch should be in the position 0</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>注意： 測量狀況開關應在位置 0</seg></tuv>
+    </tu>
+    <tu tuid="447">
+      <tuv xml:lang="en"><seg>Nozzle EVEN</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>噴嘴偶數</seg></tuv>
+    </tu>
+    <tu tuid="448">
+      <tuv xml:lang="en"><seg>Number of Printer Copies</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機份數</seg></tuv>
+    </tu>
+    <tu tuid="449">
+      <tuv xml:lang="en"><seg>OLF Support</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>OLF 支持</seg></tuv>
+    </tu>
+    <tu tuid="450">
+      <tuv xml:lang="en"><seg>ONYX Hub is not supported by key. Server will only support API requests.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>加密鎖不支援 ONYX Hub。 伺服器將僅支援 API 請求。</seg></tuv>
+    </tu>
+    <tu tuid="451">
+      <tuv xml:lang="en"><seg>OVR</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>OVR</seg></tuv>
+    </tu>
+    <tu tuid="452">
+      <tuv xml:lang="en"><seg>Océ Prem Bond 24lb</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Oce Prem Bond 24lb</seg></tuv>
+    </tu>
+    <tu tuid="453">
+      <tuv xml:lang="en"><seg>Offset</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>留邊</seg></tuv>
+    </tu>
+    <tu tuid="454">
+      <tuv xml:lang="en"><seg>On Process</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>處理</seg></tuv>
+    </tu>
+    <tu tuid="455">
+      <tuv xml:lang="en"><seg>Online Support Portal</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>線上支援網站入口</seg></tuv>
+    </tu>
+    <tu tuid="456">
+      <tuv xml:lang="en"><seg>Onyx Graphics, Inc.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Onyx Graphics, Inc.</seg></tuv>
+    </tu>
+    <tu tuid="457">
+      <tuv xml:lang="en"><seg>Open File Separations</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>開啟分色檔</seg></tuv>
+    </tu>
+    <tu tuid="458">
+      <tuv xml:lang="en"><seg>Open Update Key File</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>開啟更新加密鎖檔案</seg></tuv>
+    </tu>
+    <tu tuid="459">
+      <tuv xml:lang="en"><seg>OpenCommunication on</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>開啟通訊開</seg></tuv>
+    </tu>
+    <tu tuid="460">
+      <tuv xml:lang="en"><seg>Optimize Mode Name</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>最佳化模式名稱</seg></tuv>
+    </tu>
+    <tu tuid="461">
+      <tuv xml:lang="en"><seg>Orange Ink Near End</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>橙色墨水接近用完</seg></tuv>
+    </tu>
+    <tu tuid="462">
+      <tuv xml:lang="en"><seg>Original Image</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>原影像</seg></tuv>
+    </tu>
+    <tu tuid="463">
+      <tuv xml:lang="en"><seg>Outer Roller Pressure:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>外部部捲筒壓力：</seg></tuv>
+    </tu>
+    <tu tuid="464">
+      <tuv xml:lang="en"><seg>Output Path:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>輸出路徑：</seg></tuv>
+    </tu>
+    <tu tuid="465">
+      <tuv xml:lang="en"><seg>Ovedrride Default Dot Size</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>覆蓋預設點大小</seg></tuv>
+    </tu>
+    <tu tuid="466">
+      <tuv xml:lang="en"><seg>Overlay (White on Color/Metal)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>重疊 (彩色/金屬色底白色)</seg></tuv>
+    </tu>
+    <tu tuid="467">
+      <tuv xml:lang="en"><seg>Override Pass Mode</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>覆蓋套印模式</seg></tuv>
+    </tu>
+    <tu tuid="468">
+      <tuv xml:lang="en"><seg>P&amp;references...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>偏好選項(&amp;R)...</seg></tuv>
+    </tu>
+    <tu tuid="469">
+      <tuv xml:lang="en"><seg>PDF Files</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>PDF 檔案</seg></tuv>
+    </tu>
+    <tu tuid="470">
+      <tuv xml:lang="en"><seg>PRINTER Files (*.PRINTER)|*.PRINTER|</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機檔案 (*.PRINTER)|*.PRINTER|</seg></tuv>
+    </tu>
+    <tu tuid="471">
+      <tuv xml:lang="en"><seg>PS/PDF Options</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>PS/PDF 選項</seg></tuv>
+    </tu>
+    <tu tuid="472">
+      <tuv xml:lang="en"><seg>Page &amp;Num:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>頁碼(&amp;N)：</seg></tuv>
+    </tu>
+    <tu tuid="473">
+      <tuv xml:lang="en"><seg>Page Size Name</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>頁面尺寸名稱</seg></tuv>
+    </tu>
+    <tu tuid="474">
+      <tuv xml:lang="en"><seg>Pannel Setting</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>面板設定</seg></tuv>
+    </tu>
+    <tu tuid="475">
+      <tuv xml:lang="en"><seg>Paper No. %d</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>紙張數 %d</seg></tuv>
+    </tu>
+    <tu tuid="476">
+      <tuv xml:lang="en"><seg>Paper change unfinished error</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>紙張變更未完成錯誤</seg></tuv>
+    </tu>
+    <tu tuid="477">
+      <tuv xml:lang="en"><seg>Paper returns to cassette after printing</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印後紙張返回到紙匣</seg></tuv>
+    </tu>
+    <tu tuid="478">
+      <tuv xml:lang="en"><seg>Parity</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>同位檢查</seg></tuv>
+    </tu>
+    <tu tuid="479">
+      <tuv xml:lang="en"><seg>Passes</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>色階</seg></tuv>
+    </tu>
+    <tu tuid="480">
+      <tuv xml:lang="en"><seg>Patch Gap:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>色樣間隙：</seg></tuv>
+    </tu>
+    <tu tuid="481">
+      <tuv xml:lang="en"><seg>Patches per ink: %d</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>每種墨水的色樣數： %d</seg></tuv>
+    </tu>
+    <tu tuid="482">
+      <tuv xml:lang="en"><seg>Pattern Spreading works best on straight lines and sharp corners.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>樣式外擴在直線與銳角上有最佳的作用效果。</seg></tuv>
+    </tu>
+    <tu tuid="483">
+      <tuv xml:lang="en"><seg>Pen Weight:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>畫筆粗細：</seg></tuv>
+    </tu>
+    <tu tuid="484">
+      <tuv xml:lang="en"><seg>Percentage of CII &lt; 1:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>CII 的百分比 &lt; 1：</seg></tuv>
+    </tu>
+    <tu tuid="485">
+      <tuv xml:lang="en"><seg>Perform sheet mount cleaning.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>執行紙張座的清潔。</seg></tuv>
+    </tu>
+    <tu tuid="486">
+      <tuv xml:lang="en"><seg>Photo Cyan</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>相片青色</seg></tuv>
+    </tu>
+    <tu tuid="487">
+      <tuv xml:lang="en"><seg>Physical Prints</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>實物列印</seg></tuv>
+    </tu>
+    <tu tuid="488">
+      <tuv xml:lang="en"><seg>Pixel Double</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>像素加倍</seg></tuv>
+    </tu>
+    <tu tuid="489">
+      <tuv xml:lang="en"><seg>Platen</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>滾筒</seg></tuv>
+    </tu>
+    <tu tuid="490">
+      <tuv xml:lang="en"><seg>Please check and retype the fields marked with red stars.\nPlease note that an e-mail containing your unlock code will be sent to this e-mail address.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>請檢查並重新輸入標有紅色星號的欄位。\n請注意，含有您的解鎖代碼的電子郵件將發送到此電子郵件位址。</seg></tuv>
+    </tu>
+    <tu tuid="491">
+      <tuv xml:lang="en"><seg>Please enter a name for the printer.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>請輸入印表機的名稱。</seg></tuv>
+    </tu>
+    <tu tuid="492">
+      <tuv xml:lang="en"><seg>Please insert chart.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>請插入圖表。</seg></tuv>
+    </tu>
+    <tu tuid="493">
+      <tuv xml:lang="en"><seg>Please place the device on the white reference, and then press the measure button to calibrate.\n\nPlease do not lift the device from the white reference until the next instruction.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>請將裝置放置在白色參照物上，然後按下測量按鈕進行校準。\n\n在接到下一個指令前請不要將裝置抬離白色參照物。</seg></tuv>
+    </tu>
+    <tu tuid="494">
+      <tuv xml:lang="en"><seg>Please select a port for the device.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選取此裝置的通訊埠。</seg></tuv>
+    </tu>
+    <tu tuid="495">
+      <tuv xml:lang="en"><seg>Please wait for a few seconds while detecting keys.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>正在偵測加密鎖，請稍候幾秒鐘。</seg></tuv>
+    </tu>
+    <tu tuid="496">
+      <tuv xml:lang="en"><seg>Port Busy</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>埠忙碌中</seg></tuv>
+    </tu>
+    <tu tuid="497">
+      <tuv xml:lang="en"><seg>Port Write Error (%d):</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>埠寫入錯誤 (%d)：</seg></tuv>
+    </tu>
+    <tu tuid="498">
+      <tuv xml:lang="en"><seg>Post Lamp:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>柱燈：</seg></tuv>
+    </tu>
+    <tu tuid="499">
+      <tuv xml:lang="en"><seg>PosterShop</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>PosterShop</seg></tuv>
+    </tu>
+    <tu tuid="500">
+      <tuv xml:lang="en"><seg>PosterShop Server - Epson 5000 Only</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>PosterShop Server - 僅 Epson 5000</seg></tuv>
+    </tu>
+    <tu tuid="501">
+      <tuv xml:lang="en"><seg>Postscript Source Image</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>PostScript 原影像</seg></tuv>
+    </tu>
+    <tu tuid="502">
+      <tuv xml:lang="en"><seg>Pre-cure Power:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>預先固化功率：</seg></tuv>
+    </tu>
+    <tu tuid="503">
+      <tuv xml:lang="en"><seg>Preflight</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Preflight</seg></tuv>
+    </tu>
+    <tu tuid="504">
+      <tuv xml:lang="en"><seg>Preparing</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>正在準備</seg></tuv>
+    </tu>
+    <tu tuid="505">
+      <tuv xml:lang="en"><seg>Preset Summary</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>預設摘要</seg></tuv>
+    </tu>
+    <tu tuid="506">
+      <tuv xml:lang="en"><seg>Preview Changes</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>預覽變更</seg></tuv>
+    </tu>
+    <tu tuid="507">
+      <tuv xml:lang="en"><seg>Previous setting: %.1f, new setting: %.1f</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>先前設定：%.1f, 新設定：%.1f</seg></tuv>
+    </tu>
+    <tu tuid="508">
+      <tuv xml:lang="en"><seg>Primer -&gt; Color (Underprint)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>底漆 -&gt; 色彩 (列印底紋)</seg></tuv>
+    </tu>
+    <tu tuid="509">
+      <tuv xml:lang="en"><seg>Print Barcode Label</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印條碼標籤</seg></tuv>
+    </tu>
+    <tu tuid="510">
+      <tuv xml:lang="en"><seg>Print Cyan Ink with:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>以青色墨水列印：</seg></tuv>
+    </tu>
+    <tu tuid="511">
+      <tuv xml:lang="en"><seg>Print Forwarding</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>正向列印</seg></tuv>
+    </tu>
+    <tu tuid="512">
+      <tuv xml:lang="en"><seg>Print Label</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印標籤</seg></tuv>
+    </tu>
+    <tu tuid="513">
+      <tuv xml:lang="en"><seg>Print Mode Name:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印模式名稱：</seg></tuv>
+    </tu>
+    <tu tuid="514">
+      <tuv xml:lang="en"><seg>Print Order:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印順序：</seg></tuv>
+    </tu>
+    <tu tuid="515">
+      <tuv xml:lang="en"><seg>Print Reflection</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>鏡射列印</seg></tuv>
+    </tu>
+    <tu tuid="516">
+      <tuv xml:lang="en"><seg>Print Surface Temperature:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印表面溫度：</seg></tuv>
+    </tu>
+    <tu tuid="517">
+      <tuv xml:lang="en"><seg>Print White Ink with:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印白色墨水：</seg></tuv>
+    </tu>
+    <tu tuid="518">
+      <tuv xml:lang="en"><seg>Print and Read the Ink Limits swatch</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印並讀取墨量限制色板</seg></tuv>
+    </tu>
+    <tu tuid="519">
+      <tuv xml:lang="en"><seg>Print grey balance swatch.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印灰階平衡色板。</seg></tuv>
+    </tu>
+    <tu tuid="520">
+      <tuv xml:lang="en"><seg>Print mode selectors</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印模式選擇器</seg></tuv>
+    </tu>
+    <tu tuid="521">
+      <tuv xml:lang="en"><seg>Print to mode specific folder</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印到特定的模式資料夾</seg></tuv>
+    </tu>
+    <tu tuid="522">
+      <tuv xml:lang="en"><seg>Printed Media Area</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印介質域區</seg></tuv>
+    </tu>
+    <tu tuid="523">
+      <tuv xml:lang="en"><seg>Printer Device</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機裝置</seg></tuv>
+    </tu>
+    <tu tuid="524">
+      <tuv xml:lang="en"><seg>Printer Initializing</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機起始中</seg></tuv>
+    </tu>
+    <tu tuid="525">
+      <tuv xml:lang="en"><seg>Printer Options...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機選項...</seg></tuv>
+    </tu>
+    <tu tuid="526">
+      <tuv xml:lang="en"><seg>Printer Versions</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機版本</seg></tuv>
+    </tu>
+    <tu tuid="527">
+      <tuv xml:lang="en"><seg>Printer error!</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機錯誤！</seg></tuv>
+    </tu>
+    <tu tuid="528">
+      <tuv xml:lang="en"><seg>Printer is powered off.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機電源已關閉。</seg></tuv>
+    </tu>
+    <tu tuid="529">
+      <tuv xml:lang="en"><seg>Printer&apos;s loaded ink set is different from the one selected for the job.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機的載入墨水設定與為工作選取的設定不同。</seg></tuv>
+    </tu>
+    <tu tuid="530">
+      <tuv xml:lang="en"><seg>Printing Completed Successfully</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印已成功完成</seg></tuv>
+    </tu>
+    <tu tuid="531">
+      <tuv xml:lang="en"><seg>Printing gutter must be installed</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>必須安裝列印裝訂線</seg></tuv>
+    </tu>
+    <tu tuid="532">
+      <tuv xml:lang="en"><seg>Prints Due (Job Ticket)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印到期（工作單）</seg></tuv>
+    </tu>
+    <tu tuid="533">
+      <tuv xml:lang="en"><seg>Process Channel:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>程序通道：</seg></tuv>
+    </tu>
+    <tu tuid="534">
+      <tuv xml:lang="en"><seg>Process raster dithering at interpretation</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>讀取時處理光柵抖動</seg></tuv>
+    </tu>
+    <tu tuid="535">
+      <tuv xml:lang="en"><seg>Processing to print %d copies of &apos;%s&apos;...\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>正在處理以列印 %d 張，共 &apos;%s&apos; 張… \n</seg></tuv>
+    </tu>
+    <tu tuid="536">
+      <tuv xml:lang="en"><seg>Production (HQ1)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>產品 (HQ1)</seg></tuv>
+    </tu>
+    <tu tuid="537">
+      <tuv xml:lang="en"><seg>Production uni-directional</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>生產單向</seg></tuv>
+    </tu>
+    <tu tuid="538">
+      <tuv xml:lang="en"><seg>Profile Generator</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設定檔引擎</seg></tuv>
+    </tu>
+    <tu tuid="539">
+      <tuv xml:lang="en"><seg>Profiler problem on the printer!</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機上發生設定引擎錯誤！</seg></tuv>
+    </tu>
+    <tu tuid="540">
+      <tuv xml:lang="en"><seg>Prompt for Output Folder</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>輸出資料夾提示</seg></tuv>
+    </tu>
+    <tu tuid="541">
+      <tuv xml:lang="en"><seg>Properties</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>內容</seg></tuv>
+    </tu>
+    <tu tuid="542">
+      <tuv xml:lang="en"><seg>Quality (HQ2)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>品質 (HQ2)</seg></tuv>
+    </tu>
+    <tu tuid="543">
+      <tuv xml:lang="en"><seg>Quality 12, 12p, 320 cps, Bidir</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>品質 12, 12p, 320 cps, 雙向</seg></tuv>
+    </tu>
+    <tu tuid="544">
+      <tuv xml:lang="en"><seg>Quality 3, 18p, sym, 240 cps</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>品質 3, 18p, sym, 240 cps</seg></tuv>
+    </tu>
+    <tu tuid="545">
+      <tuv xml:lang="en"><seg>Quality 5, 8p, uni, 240 cps</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>品質 5, 8p, uni, 240 cps</seg></tuv>
+    </tu>
+    <tu tuid="546">
+      <tuv xml:lang="en"><seg>Quality uni-directional</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>品質單向</seg></tuv>
+    </tu>
+    <tu tuid="547">
+      <tuv xml:lang="en"><seg>Queue entry is not running.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>佇列項目未執行中。</seg></tuv>
+    </tu>
+    <tu tuid="548">
+      <tuv xml:lang="en"><seg>QuickGCR Level</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>快速 GCR 色階</seg></tuv>
+    </tu>
+    <tu tuid="549">
+      <tuv xml:lang="en"><seg>RGB Percent</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>RGB 百分比</seg></tuv>
+    </tu>
+    <tu tuid="550">
+      <tuv xml:lang="en"><seg>RGI Printer Info</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>RGI 印表機資訊</seg></tuv>
+    </tu>
+    <tu tuid="551">
+      <tuv xml:lang="en"><seg>RIPQueue</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>RIPQueue</seg></tuv>
+    </tu>
+    <tu tuid="552">
+      <tuv xml:lang="en"><seg>RasterFileMode6</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>RasterFileMode6</seg></tuv>
+    </tu>
+    <tu tuid="553">
+      <tuv xml:lang="en"><seg>Read Date:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>讀取日期：</seg></tuv>
+    </tu>
+    <tu tuid="554">
+      <tuv xml:lang="en"><seg>Read the ink restriction swatch</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>讀取墨量限制色板</seg></tuv>
+    </tu>
+    <tu tuid="555">
+      <tuv xml:lang="en"><seg>Ready</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>就緒</seg></tuv>
+    </tu>
+    <tu tuid="556">
+      <tuv xml:lang="en"><seg>Recalibrate</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>重新校準</seg></tuv>
+    </tu>
+    <tu tuid="557">
+      <tuv xml:lang="en"><seg>Recent Library</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>最近的檔案庫</seg></tuv>
+    </tu>
+    <tu tuid="558">
+      <tuv xml:lang="en"><seg>Red Limit</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>紅色限制</seg></tuv>
+    </tu>
+    <tu tuid="559">
+      <tuv xml:lang="en"><seg>Reduced HiFi Solvent</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>減少 HiFi 溶劑</seg></tuv>
+    </tu>
+    <tu tuid="560">
+      <tuv xml:lang="en"><seg>Refresh Page</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>重新整理頁面</seg></tuv>
+    </tu>
+    <tu tuid="561">
+      <tuv xml:lang="en"><seg>Registration Pin:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>註冊個人識別碼：</seg></tuv>
+    </tu>
+    <tu tuid="562">
+      <tuv xml:lang="en"><seg>Release</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>版本</seg></tuv>
+    </tu>
+    <tu tuid="563">
+      <tuv xml:lang="en"><seg>Remove &apos;%s&apos; from Queue?</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>要從佇列移除 &apos;%s&apos; 嗎？</seg></tuv>
+    </tu>
+    <tu tuid="564">
+      <tuv xml:lang="en"><seg>Rename Calibration</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>更名校準</seg></tuv>
+    </tu>
+    <tu tuid="565">
+      <tuv xml:lang="en"><seg>Render:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>成像：</seg></tuv>
+    </tu>
+    <tu tuid="566">
+      <tuv xml:lang="en"><seg>Replace files the engine has lost.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>取代引擎已經遺失的檔案。</seg></tuv>
+    </tu>
+    <tu tuid="567">
+      <tuv xml:lang="en"><seg>Report Results</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>報告結果</seg></tuv>
+    </tu>
+    <tu tuid="568">
+      <tuv xml:lang="en"><seg>Request Registration Code</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>請求註冊代碼</seg></tuv>
+    </tu>
+    <tu tuid="569">
+      <tuv xml:lang="en"><seg>Reset Pattern</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>重設樣式</seg></tuv>
+    </tu>
+    <tu tuid="570">
+      <tuv xml:lang="en"><seg>Resolution:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>解析度：</seg></tuv>
+    </tu>
+    <tu tuid="571">
+      <tuv xml:lang="en"><seg>Retain Aspect Ratio</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>保持縱橫比</seg></tuv>
+    </tu>
+    <tu tuid="572">
+      <tuv xml:lang="en"><seg>Revised</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>修訂的</seg></tuv>
+    </tu>
+    <tu tuid="573">
+      <tuv xml:lang="en"><seg>Right Lamp Power %</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>右側燈功率 %</seg></tuv>
+    </tu>
+    <tu tuid="574">
+      <tuv xml:lang="en"><seg>Rip</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Rip</seg></tuv>
+    </tu>
+    <tu tuid="575">
+      <tuv xml:lang="en"><seg>Roll 1</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>捲筒 1</seg></tuv>
+    </tu>
+    <tu tuid="576">
+      <tuv xml:lang="en"><seg>Roll back media by the amount designated.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>依照指定數量復原介質。</seg></tuv>
+    </tu>
+    <tu tuid="577">
+      <tuv xml:lang="en"><seg>Rotate</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>旋轉</seg></tuv>
+    </tu>
+    <tu tuid="578">
+      <tuv xml:lang="en"><seg>Rotate individual tiles</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>旋轉個別拼接</seg></tuv>
+    </tu>
+    <tu tuid="579">
+      <tuv xml:lang="en"><seg>Row / Column</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列 / 行</seg></tuv>
+    </tu>
+    <tu tuid="580">
+      <tuv xml:lang="en"><seg>Running General Settings Config...\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>執行一般設定組態...\n</seg></tuv>
+    </tu>
+    <tu tuid="581">
+      <tuv xml:lang="en"><seg>S7</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>S7</seg></tuv>
+    </tu>
+    <tu tuid="582">
+      <tuv xml:lang="en"><seg>SCSI Scan</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>SCSI 掃描</seg></tuv>
+    </tu>
+    <tu tuid="583">
+      <tuv xml:lang="en"><seg>Sa&amp;ve Media</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>儲存介質(&amp;V)</seg></tuv>
+    </tu>
+    <tu tuid="584">
+      <tuv xml:lang="en"><seg>Saturation Extreme</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>飽和度極致</seg></tuv>
+    </tu>
+    <tu tuid="585">
+      <tuv xml:lang="en"><seg>Save Linear Model as:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>另存線性型號為：</seg></tuv>
+    </tu>
+    <tu tuid="586">
+      <tuv xml:lang="en"><seg>Save the active document\nSave</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>儲存目前文件\n儲存</seg></tuv>
+    </tu>
+    <tu tuid="587">
+      <tuv xml:lang="en"><seg>Scale Up</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>增加比例</seg></tuv>
+    </tu>
+    <tu tuid="588">
+      <tuv xml:lang="en"><seg>Scan the row from Left to Right as instructed before.\nStart&gt;&gt;&gt;------------------&gt;&gt;&gt;Stop</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>依從前的指示將行從左至右掃描。\n開始&gt;&gt;&gt;------------------&gt;&gt;&gt;停止</seg></tuv>
+    </tu>
+    <tu tuid="589">
+      <tuv xml:lang="en"><seg>Scramble Swatch</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>拼湊色板</seg></tuv>
+    </tu>
+    <tu tuid="590">
+      <tuv xml:lang="en"><seg>Searching IP Address....please wait!</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>正在搜索 IP 地址....請等待！</seg></tuv>
+    </tu>
+    <tu tuid="591">
+      <tuv xml:lang="en"><seg>Select &apos;Create another media&apos; to return to the beginning of the Create New Media wizard and create another media.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選擇&quot;建立新介質&quot;以返回「建立新介質」精靈的開頭以建立其他介質。</seg></tuv>
+    </tu>
+    <tu tuid="592">
+      <tuv xml:lang="en"><seg>Select Icc Profile</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選擇 Icc 設定檔</seg></tuv>
+    </tu>
+    <tu tuid="593">
+      <tuv xml:lang="en"><seg>Select Mode:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選取模式：</seg></tuv>
+    </tu>
+    <tu tuid="594">
+      <tuv xml:lang="en"><seg>Select TWAIN_32 Source Select TWAIN_32 Source</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選取 TWAIN_32 來源 選取 TWAIN_32 來源</seg></tuv>
+    </tu>
+    <tu tuid="595">
+      <tuv xml:lang="en"><seg>Select a compatible Reference Standard:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選取相容的參考標準：</seg></tuv>
+    </tu>
+    <tu tuid="596">
+      <tuv xml:lang="en"><seg>Select an existing Calibration or create a new one.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選取現有校準或新建校準。</seg></tuv>
+    </tu>
+    <tu tuid="597">
+      <tuv xml:lang="en"><seg>Select options for the workflow</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選擇工作流程的選項</seg></tuv>
+    </tu>
+    <tu tuid="598">
+      <tuv xml:lang="en"><seg>Select the Ink Configuration to use</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選擇要使用的墨水組態</seg></tuv>
+    </tu>
+    <tu tuid="599">
+      <tuv xml:lang="en"><seg>Select the left and right margins set on the printer panel. These will be used when retrieving the page size from the printer.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選取印表機面板上設定的左邊界和右邊界。 從印表機擷取頁面大小時將會使用這些值。</seg></tuv>
+    </tu>
+    <tu tuid="600">
+      <tuv xml:lang="en"><seg>Select the print mode&apos;s resolution</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選擇列印模式的解析度</seg></tuv>
+    </tu>
+    <tu tuid="601">
+      <tuv xml:lang="en"><seg>Select/Deselect All</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>全選/取消全選</seg></tuv>
+    </tu>
+    <tu tuid="602">
+      <tuv xml:lang="en"><seg>Selects the current page</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>選擇當前頁面</seg></tuv>
+    </tu>
+    <tu tuid="603">
+      <tuv xml:lang="en"><seg>Send job to &quot;Ready to Print area&quot;</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>將工作傳送至「準備列印區」</seg></tuv>
+    </tu>
+    <tu tuid="604">
+      <tuv xml:lang="en"><seg>Separation Bar Width:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>分色欄寬度：</seg></tuv>
+    </tu>
+    <tu tuid="605">
+      <tuv xml:lang="en"><seg>Server cannot share the same port number with database.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>伺服器無法與資料庫分享同一個端口。</seg></tuv>
+    </tu>
+    <tu tuid="606">
+      <tuv xml:lang="en"><seg>Set As &amp;Active</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設定為現用(&amp;A)</seg></tuv>
+    </tu>
+    <tu tuid="607">
+      <tuv xml:lang="en"><seg>Set Dotted Top Marks</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設定上虛線標記</seg></tuv>
+    </tu>
+    <tu tuid="608">
+      <tuv xml:lang="en"><seg>Set Label Distance</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設定標籤距離</seg></tuv>
+    </tu>
+    <tu tuid="609">
+      <tuv xml:lang="en"><seg>Set Page Size to Image Size</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>將頁面大小設定為影像大小</seg></tuv>
+    </tu>
+    <tu tuid="610">
+      <tuv xml:lang="en"><seg>Set by Control Panel</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>由控制台設定</seg></tuv>
+    </tu>
+    <tu tuid="611">
+      <tuv xml:lang="en"><seg>Set to Defaults</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設為預設值</seg></tuv>
+    </tu>
+    <tu tuid="612">
+      <tuv xml:lang="en"><seg>Settings Changed</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設定已變更</seg></tuv>
+    </tu>
+    <tu tuid="613">
+      <tuv xml:lang="en"><seg>Setup print options for the active job\nPrint Setup</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>設定現行工作的列印選項\n列印設定</seg></tuv>
+    </tu>
+    <tu tuid="614">
+      <tuv xml:lang="en"><seg>Sharpness:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>清晰度：</seg></tuv>
+    </tu>
+    <tu tuid="615">
+      <tuv xml:lang="en"><seg>Show Current</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>顯示當前</seg></tuv>
+    </tu>
+    <tu tuid="616">
+      <tuv xml:lang="en"><seg>Show Steps</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>顯示步驟</seg></tuv>
+    </tu>
+    <tu tuid="617">
+      <tuv xml:lang="en"><seg>Show or hide the status bar\nToggle StatusBar</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>顯示或隱藏狀態列\n切換狀態列</seg></tuv>
+    </tu>
+    <tu tuid="618">
+      <tuv xml:lang="en"><seg>Side A prints with</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>A 面列印，以</seg></tuv>
+    </tu>
+    <tu tuid="619">
+      <tuv xml:lang="en"><seg>Silver Nozzles</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>銀色噴嘴</seg></tuv>
+    </tu>
+    <tu tuid="620">
+      <tuv xml:lang="en"><seg>Six Pass</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>6 色層</seg></tuv>
+    </tu>
+    <tu tuid="621">
+      <tuv xml:lang="en"><seg>Sizing (Perforated Board)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>縮放 (孔板)</seg></tuv>
+    </tu>
+    <tu tuid="622">
+      <tuv xml:lang="en"><seg>Slider5</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Slider5</seg></tuv>
+    </tu>
+    <tu tuid="623">
+      <tuv xml:lang="en"><seg>Smallest</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>最小</seg></tuv>
+    </tu>
+    <tu tuid="624">
+      <tuv xml:lang="en"><seg>Software protection key error!  There could be a faulty connection,\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>軟體加密鎖出錯！沒有連接好，\n</seg></tuv>
+    </tu>
+    <tu tuid="625">
+      <tuv xml:lang="en"><seg>Source Icons</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>來源圖示</seg></tuv>
+    </tu>
+    <tu tuid="626">
+      <tuv xml:lang="en"><seg>Spacing (inches):</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>間距 (英吋)：</seg></tuv>
+    </tu>
+    <tu tuid="627">
+      <tuv xml:lang="en"><seg>Specialty Ink Print Method:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>特殊墨水列印方法：</seg></tuv>
+    </tu>
+    <tu tuid="628">
+      <tuv xml:lang="en"><seg>SpectroProofer Error</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>SpectroProofer 錯誤</seg></tuv>
+    </tu>
+    <tu tuid="629">
+      <tuv xml:lang="en"><seg>Spin3</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Spin3</seg></tuv>
+    </tu>
+    <tu tuid="630">
+      <tuv xml:lang="en"><seg>Spooler online</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>排存程式在線上</seg></tuv>
+    </tu>
+    <tu tuid="631">
+      <tuv xml:lang="en"><seg>Spot 3</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>特別色 3</seg></tuv>
+    </tu>
+    <tu tuid="632">
+      <tuv xml:lang="en"><seg>Spot Color Print Mode:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>特別色列印模式：</seg></tuv>
+    </tu>
+    <tu tuid="633">
+      <tuv xml:lang="en"><seg>Spot colors to substitute with Black Linearization:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>要以黑色線性替代的特別色：</seg></tuv>
+    </tu>
+    <tu tuid="634">
+      <tuv xml:lang="en"><seg>Spot6</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>特別色6</seg></tuv>
+    </tu>
+    <tu tuid="635">
+      <tuv xml:lang="en"><seg>Standard Calcomp Printers</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>標準 Calcomp 印表機</seg></tuv>
+    </tu>
+    <tu tuid="636">
+      <tuv xml:lang="en"><seg>Standards Simulation</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>標準類比</seg></tuv>
+    </tu>
+    <tu tuid="637">
+      <tuv xml:lang="en"><seg>Start internal color calibration</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>啟動內部色彩校準</seg></tuv>
+    </tu>
+    <tu tuid="638">
+      <tuv xml:lang="en"><seg>StaticResolutionName</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>StaticResolutionName</seg></tuv>
+    </tu>
+    <tu tuid="639">
+      <tuv xml:lang="en"><seg>Status is loading...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>狀態載入中...</seg></tuv>
+    </tu>
+    <tu tuid="640">
+      <tuv xml:lang="en"><seg>Steps</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>步驟</seg></tuv>
+    </tu>
+    <tu tuid="641">
+      <tuv xml:lang="en"><seg>Stopping HTTP Service on port %d\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>在埠 %d 上停止 HTTP 服務\n</seg></tuv>
+    </tu>
+    <tu tuid="642">
+      <tuv xml:lang="en"><seg>Strikes:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>重印：</seg></tuv>
+    </tu>
+    <tu tuid="643">
+      <tuv xml:lang="en"><seg>Submit next side B job.\n\nWhat is on side A:\n    &quot;%s&quot;</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>提交下個 B 面 工作。\n\nA 面內容：\n    &quot;%s&quot;</seg></tuv>
+    </tu>
+    <tu tuid="644">
+      <tuv xml:lang="en"><seg>Substrate advance compensation</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>基紙進階補償</seg></tuv>
+    </tu>
+    <tu tuid="645">
+      <tuv xml:lang="en"><seg>Successfully upgraded database to version %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>已成功將資料庫升級至版本 %s</seg></tuv>
+    </tu>
+    <tu tuid="646">
+      <tuv xml:lang="en"><seg>SummaCut D620</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>SummaCut D620</seg></tuv>
+    </tu>
+    <tu tuid="647">
+      <tuv xml:lang="en"><seg>SummaSign T1400_PRO</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>SummaSign T1400_PRO</seg></tuv>
+    </tu>
+    <tu tuid="648">
+      <tuv xml:lang="en"><seg>Surface Colors</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>表面顏色</seg></tuv>
+    </tu>
+    <tu tuid="649">
+      <tuv xml:lang="en"><seg>Swatch Options</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>色板選項</seg></tuv>
+    </tu>
+    <tu tuid="650">
+      <tuv xml:lang="en"><seg>Swatch:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>色板：</seg></tuv>
+    </tu>
+    <tu tuid="651">
+      <tuv xml:lang="en"><seg>System Restart</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>重新啟動系統</seg></tuv>
+    </tu>
+    <tu tuid="652">
+      <tuv xml:lang="en"><seg>TRANSMITTING        DATA</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>傳輸        資料</seg></tuv>
+    </tu>
+    <tu tuid="653">
+      <tuv xml:lang="en"><seg>Take-up reel</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>捲紙軸</seg></tuv>
+    </tu>
+    <tu tuid="654">
+      <tuv xml:lang="en"><seg>Target Density:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>目標濃度：</seg></tuv>
+    </tu>
+    <tu tuid="655">
+      <tuv xml:lang="en"><seg>Templates have been disabled because the image is tiled</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>由於圖像經拼接，範本已被停用</seg></tuv>
+    </tu>
+    <tu tuid="656">
+      <tuv xml:lang="en"><seg>Testing TCP/IP Settings</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>正在測試TCP/IP設定</seg></tuv>
+    </tu>
+    <tu tuid="657">
+      <tuv xml:lang="en"><seg>The Color Management System could not be started.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法啟動「色彩系統管理員」。</seg></tuv>
+    </tu>
+    <tu tuid="658">
+      <tuv xml:lang="en"><seg>The ICC profile %s will be encoded with a &quot;watermark.&quot;\n It will only work in ONYX software.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>ICC 設定檔 %s 將使用 &quot;浮水印”編碼&quot;。\n 它只能在 ONYX 軟體中使用。</seg></tuv>
+    </tu>
+    <tu tuid="659">
+      <tuv xml:lang="en"><seg>The Mutoh KONA and SC Pro support up to 8 custom patterns per job.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Mutoh KONA 和 SC Pro 在每個工作中最多可支援  8 個自訂樣式。</seg></tuv>
+    </tu>
+    <tu tuid="660">
+      <tuv xml:lang="en"><seg>The Scan Speed is too large for the resolution specified.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>對於指定的解析度，&quot;掃描速度&quot;太高。</seg></tuv>
+    </tu>
+    <tu tuid="661">
+      <tuv xml:lang="en"><seg>The acquired image file has an invalid image file format.\n\nPlease try again.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>獲取的影像檔案有無效格式。\n\n請重試。</seg></tuv>
+    </tu>
+    <tu tuid="662">
+      <tuv xml:lang="en"><seg>The buffer passed to te SCSI request was not aligned properly.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>傳送給 SCSI 請求的暫存未正確對齊。</seg></tuv>
+    </tu>
+    <tu tuid="663">
+      <tuv xml:lang="en"><seg>The current media type does not have a calibration for this resolution. The image will be sent and will be printed as soon as a calibration is chosen.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>當前介質類型沒有此解析度的校準。 一旦選擇了某種校準後，將發送影像並列印它。</seg></tuv>
+    </tu>
+    <tu tuid="664">
+      <tuv xml:lang="en"><seg>The disk &quot;%s&quot; is invalid.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>磁碟 &quot;%s&quot; 無效。</seg></tuv>
+    </tu>
+    <tu tuid="665">
+      <tuv xml:lang="en"><seg>The first compatible media found will automatically be selected (Don&apos;t show this dialog again).</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>將會自動選取第一個找到的相容介質 (不再顯示此對話方塊)。</seg></tuv>
+    </tu>
+    <tu tuid="666">
+      <tuv xml:lang="en"><seg>The hardware key has been removed.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>已移除硬體加密鎖。</seg></tuv>
+    </tu>
+    <tu tuid="667">
+      <tuv xml:lang="en"><seg>The image is too large for the selected media\nPrintable Area %d Pixels\nImage Width %d Pixels</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>圖像對於選定的介質太大\n可列印區域 %d 圖元\n圖像寬度 %d 圖元</seg></tuv>
+    </tu>
+    <tu tuid="668">
+      <tuv xml:lang="en"><seg>The ink system is not primed.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>墨水系統未裝填。</seg></tuv>
+    </tu>
+    <tu tuid="669">
+      <tuv xml:lang="en"><seg>The list of medias is empty. Please verify that one or more media have been correctly loaded on the printer and in the Epson Control Dashboard.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>介質清單是空的。 請確定有一個或多個介質已正確載入到印表機和 Epson Control Dashboard 中。</seg></tuv>
+    </tu>
+    <tu tuid="670">
+      <tuv xml:lang="en"><seg>The media offset and image width is greater than the print width allowed. Please check your media options.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>介質偏移量和影像寬度大於允許的列印寬度。請檢查您的介質選項。</seg></tuv>
+    </tu>
+    <tu tuid="671">
+      <tuv xml:lang="en"><seg>The new media&apos;s color configuration may require ink restrictions in order to get good output.  If you would like to set ink restrictions now, press the Ink Restrictions button.  Otherwise press the Next button.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>新介質的色彩組態需要墨量限制才能輸出好的品質。如果您希望立即設定墨量限制，按「墨量限制」鍵。否則按「下一步」鍵。</seg></tuv>
+    </tu>
+    <tu tuid="672">
+      <tuv xml:lang="en"><seg>The print head temperature is too high. Please wait.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>列印頭溫度過高。請稍候。</seg></tuv>
+    </tu>
+    <tu tuid="673">
+      <tuv xml:lang="en"><seg>The printer has reported the following error(s):\n\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機報告下列錯誤：\n\n</seg></tuv>
+    </tu>
+    <tu tuid="674">
+      <tuv xml:lang="en"><seg>The printer is cooling the print heads. Please wait. (The ambient temperature must be decreased to avoid print interruption.) After 10 minutes of interruption, you can select to start or cancel the print.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機正在冷卻列印噴頭。 請稍候。 (必須降低環境溫度，以免列印中斷。) 您可在中斷過 10 分鐘後選取啟動或取消列印。</seg></tuv>
+    </tu>
+    <tu tuid="675">
+      <tuv xml:lang="en"><seg>The printer must be connected via TCP/IP to use get status information</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機必須透過 TCP/IP 連接，才能使用取得狀態資訊</seg></tuv>
+    </tu>
+    <tu tuid="676">
+      <tuv xml:lang="en"><seg>The printer&apos;s serial number matches the serial number entered in the &quot;Global Printer Options&quot; dialog</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機的序號和「全域印表機選項」對話方塊中輸入的序號相符</seg></tuv>
+    </tu>
+    <tu tuid="677">
+      <tuv xml:lang="en"><seg>The requested data was not found</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>找不到要求的資料</seg></tuv>
+    </tu>
+    <tu tuid="678">
+      <tuv xml:lang="en"><seg>The selected print mode is invalid.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>所選的列印模式無效。</seg></tuv>
+    </tu>
+    <tu tuid="679">
+      <tuv xml:lang="en"><seg>The source must be given a name</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>必須為來源提供一個名稱</seg></tuv>
+    </tu>
+    <tu tuid="680">
+      <tuv xml:lang="en"><seg>The swatch format is not valid. Please check your values.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>色板格式無效。請檢查您的值。</seg></tuv>
+    </tu>
+    <tu tuid="681">
+      <tuv xml:lang="en"><seg>The write has failed</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>寫入失敗</seg></tuv>
+    </tu>
+    <tu tuid="682">
+      <tuv xml:lang="en"><seg>There are no paths to cut</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>沒有要裁剪的路徑</seg></tuv>
+    </tu>
+    <tu tuid="683">
+      <tuv xml:lang="en"><seg>There is currently no key data available.  Please refresh the view or open a valid .keyfile file.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>目前沒有可用的加密鎖資料。  請重新整理檢視或開啟有效的 .keyfile 檔案。</seg></tuv>
+    </tu>
+    <tu tuid="684">
+      <tuv xml:lang="en"><seg>There may be problems when the width is less than %.1f inches (%.1f cm).</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>寬度不到 %.1f 英吋 (%.1f 公分) 時可能會有問題。</seg></tuv>
+    </tu>
+    <tu tuid="685">
+      <tuv xml:lang="en"><seg>There was an error during processing!</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>處理時出錯！</seg></tuv>
+    </tu>
+    <tu tuid="686">
+      <tuv xml:lang="en"><seg>There was an error setting the resolution for the Scitex Screen.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Scitex Screen 解析度設置出錯。</seg></tuv>
+    </tu>
+    <tu tuid="687">
+      <tuv xml:lang="en"><seg>Thin</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>薄</seg></tuv>
+    </tu>
+    <tu tuid="688">
+      <tuv xml:lang="en"><seg>This column can not be hidden</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>此欄無法隱藏</seg></tuv>
+    </tu>
+    <tu tuid="689">
+      <tuv xml:lang="en"><seg>This dialog allows you to reassign the printer driver&apos;s default output channels to different color bars on the printer. Each output channel must have a unique number from 1-8.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>此對話方塊可讓您將印表機驅動程式的預設輸出通道重新指派給印表機上不同的色軸。 每個輸出通道必須要有 1-8 中的唯一號碼。</seg></tuv>
+    </tu>
+    <tu tuid="690">
+      <tuv xml:lang="en"><seg>This job is still waiting to be printed. It can not be reprinted.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>此工作仍在等候列印。 無法重新列印該工作。</seg></tuv>
+    </tu>
+    <tu tuid="691">
+      <tuv xml:lang="en"><seg>This step is used to verify that the adjustments made in the G7® Grayscale Correction step are within G7® Grayscale tolerances.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>此步驟用於確認 G7® Grayscale 校正步驟中做出的調整處於 G7® Grayscale 容差之內。</seg></tuv>
+    </tu>
+    <tu tuid="692">
+      <tuv xml:lang="en"><seg>Tiff File Options</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Tiff 檔案選項</seg></tuv>
+    </tu>
+    <tu tuid="693">
+      <tuv xml:lang="en"><seg>Tile Outline Options</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>拼接輪廓選項</seg></tuv>
+    </tu>
+    <tu tuid="694">
+      <tuv xml:lang="en"><seg>Tile(s) for %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>%s 的拼接</seg></tuv>
+    </tu>
+    <tu tuid="695">
+      <tuv xml:lang="en"><seg>Time Period</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>時期</seg></tuv>
+    </tu>
+    <tu tuid="696">
+      <tuv xml:lang="en"><seg>To &amp;Bottom</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>到最後面(&amp;B)</seg></tuv>
+    </tu>
+    <tu tuid="697">
+      <tuv xml:lang="en"><seg>To: %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>到：%s</seg></tuv>
+    </tu>
+    <tu tuid="698">
+      <tuv xml:lang="en"><seg>Too many media modes are available for this virtual printer -  the OS limits each virtual printer to %d modes for selection.\nPlease delete all unnecessary media using the Configure Printer dialog.\n\nNOTE: You must rebuild the ppd once you&apos;ve removed all unnecessary media.\nTo do this, simply disable then re-enable the printer within Printer Manager.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>此虛擬印表機可用的介質模式太多 - 作業系統對每個虛擬印表機有 %d 種模式的選擇限制。\n請使用「設定印表機」對話方塊刪除所有不必要的介質。\n\n注意：刪除所有不必要的介質後，您必須重新建立 ppd。\n若要執行此動作，只需在「印表機管理員」中停用然後重新啟用印表機即可。</seg></tuv>
+    </tu>
+    <tu tuid="699">
+      <tuv xml:lang="en"><seg>Top Layer:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>頂端圖層：</seg></tuv>
+    </tu>
+    <tu tuid="700">
+      <tuv xml:lang="en"><seg>Total Area:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>總區域：</seg></tuv>
+    </tu>
+    <tu tuid="701">
+      <tuv xml:lang="en"><seg>Total Printed Area</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>總列印區域</seg></tuv>
+    </tu>
+    <tu tuid="702">
+      <tuv xml:lang="en"><seg>Transitions</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>轉換</seg></tuv>
+    </tu>
+    <tu tuid="703">
+      <tuv xml:lang="en"><seg>Tray 4</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>紙匣 4</seg></tuv>
+    </tu>
+    <tu tuid="704">
+      <tuv xml:lang="en"><seg>Tweak Color Profiles</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>微調色彩設定檔</seg></tuv>
+    </tu>
+    <tu tuid="705">
+      <tuv xml:lang="en"><seg>Type: %s</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>類型：%s</seg></tuv>
+    </tu>
+    <tu tuid="706">
+      <tuv xml:lang="en"><seg>USB connection error</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>USB 連接錯誤</seg></tuv>
+    </tu>
+    <tu tuid="707">
+      <tuv xml:lang="en"><seg>UV Lamp:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>紫外燈：</seg></tuv>
+    </tu>
+    <tu tuid="708">
+      <tuv xml:lang="en"><seg>Unable to Close TWAIN source:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法關閉 TWAIN 來源：</seg></tuv>
+    </tu>
+    <tu tuid="709">
+      <tuv xml:lang="en"><seg>Unable to build the list of frames.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法建立畫面清單。</seg></tuv>
+    </tu>
+    <tu tuid="710">
+      <tuv xml:lang="en"><seg>Unable to create start file &apos;%s&apos;\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法建立啟始檔 &apos;%s&apos;\n</seg></tuv>
+    </tu>
+    <tu tuid="711">
+      <tuv xml:lang="en"><seg>Unable to find default browser.  Please visit http://www.printmetryx.com to view PrintMetryx.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>找不到預設瀏覽器。  請造訪 http://www.printmetryx.com 以檢視 PrintMetryx。</seg></tuv>
+    </tu>
+    <tu tuid="712">
+      <tuv xml:lang="en"><seg>Unable to initialize Color Device Libarary.\nPlease check installation.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法初始化色彩裝置庫。\n請檢查安裝。</seg></tuv>
+    </tu>
+    <tu tuid="713">
+      <tuv xml:lang="en"><seg>Unable to open a connection to the selector software. Port cannot be configured.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法開啟選擇器軟體的連線。 無法設定連接埠。</seg></tuv>
+    </tu>
+    <tu tuid="714">
+      <tuv xml:lang="en"><seg>Unable to process image (</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法處理圖像（</seg></tuv>
+    </tu>
+    <tu tuid="715">
+      <tuv xml:lang="en"><seg>Unable to send print data to the printer.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無法將列印資料發送到印表機。</seg></tuv>
+    </tu>
+    <tu tuid="716">
+      <tuv xml:lang="en"><seg>Undefined</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>未定義的</seg></tuv>
+    </tu>
+    <tu tuid="717">
+      <tuv xml:lang="en"><seg>Unexpected bus free.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>匯流排意外空閒。</seg></tuv>
+    </tu>
+    <tu tuid="718">
+      <tuv xml:lang="en"><seg>Uniform Area</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>一致區域</seg></tuv>
+    </tu>
+    <tu tuid="719">
+      <tuv xml:lang="en"><seg>Unknown Error</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>不明錯誤</seg></tuv>
+    </tu>
+    <tu tuid="720">
+      <tuv xml:lang="en"><seg>Unknown error 0x34</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>不明錯誤 0x34</seg></tuv>
+    </tu>
+    <tu tuid="721">
+      <tuv xml:lang="en"><seg>Unknown warning 0x0C</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>不明警告 0x0C</seg></tuv>
+    </tu>
+    <tu tuid="722">
+      <tuv xml:lang="en"><seg>Unknown warning 0x3A</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>不明警告 0x3A</seg></tuv>
+    </tu>
+    <tu tuid="723">
+      <tuv xml:lang="en"><seg>Unknown warning 0x5D</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>不明警告 0x5D</seg></tuv>
+    </tu>
+    <tu tuid="724">
+      <tuv xml:lang="en"><seg>Unregistered Version -</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>未註冊的版本 -</seg></tuv>
+    </tu>
+    <tu tuid="725">
+      <tuv xml:lang="en"><seg>Update Driver</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>更新驅動程式</seg></tuv>
+    </tu>
+    <tu tuid="726">
+      <tuv xml:lang="en"><seg>Update the hardware key\nUpdate Key</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>更新硬體加密鎖\n更新加密鎖</seg></tuv>
+    </tu>
+    <tu tuid="727">
+      <tuv xml:lang="en"><seg>Upgrade to Version 5</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>升級至版本 5</seg></tuv>
+    </tu>
+    <tu tuid="728">
+      <tuv xml:lang="en"><seg>Use &quot;G7 Native CMY&quot;</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>使用「G7 Native CMY」</seg></tuv>
+    </tu>
+    <tu tuid="729">
+      <tuv xml:lang="en"><seg>Use Compression</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>使用壓縮</seg></tuv>
+    </tu>
+    <tu tuid="730">
+      <tuv xml:lang="en"><seg>Use Enhanced Print Mode</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>使用加強列印模式</seg></tuv>
+    </tu>
+    <tu tuid="731">
+      <tuv xml:lang="en"><seg>Use Light Ink at 100% Color Density</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>使用 100% 色彩濃度的淡墨</seg></tuv>
+    </tu>
+    <tu tuid="732">
+      <tuv xml:lang="en"><seg>Use Pre Heater</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>使用前置加熱器</seg></tuv>
+    </tu>
+    <tu tuid="733">
+      <tuv xml:lang="en"><seg>Use Watermark</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>使用水印</seg></tuv>
+    </tu>
+    <tu tuid="734">
+      <tuv xml:lang="en"><seg>Use default EPSON AccuPhoto light ink separations and ink restrictions.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>使用預設 EPSON AccuPhoto 淡墨水分色與墨量限制。</seg></tuv>
+    </tu>
+    <tu tuid="735">
+      <tuv xml:lang="en"><seg>Use profile-based substrate correction</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>使用基於設定檔的基紙校正</seg></tuv>
+    </tu>
+    <tu tuid="736">
+      <tuv xml:lang="en"><seg>Used ink tank is full.\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>使用的墨水匣是滿的。\n</seg></tuv>
+    </tu>
+    <tu tuid="737">
+      <tuv xml:lang="en"><seg>User defined data</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>使用者自訂的資料</seg></tuv>
+    </tu>
+    <tu tuid="738">
+      <tuv xml:lang="en"><seg>VALID SETTINGS</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>有效設定</seg></tuv>
+    </tu>
+    <tu tuid="739">
+      <tuv xml:lang="en"><seg>VSD4 (Variable Dot-4)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>VSD4 (可變點-4)</seg></tuv>
+    </tu>
+    <tu tuid="740">
+      <tuv xml:lang="en"><seg>Value (0-100)</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>值 (0-100)</seg></tuv>
+    </tu>
+    <tu tuid="741">
+      <tuv xml:lang="en"><seg>Variable Dot Curves</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>可變網點曲線</seg></tuv>
+    </tu>
+    <tu tuid="742">
+      <tuv xml:lang="en"><seg>Varnish Ink End</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>上光墨水用完</seg></tuv>
+    </tu>
+    <tu tuid="743">
+      <tuv xml:lang="en"><seg>Version 2.x</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>版本 2.x</seg></tuv>
+    </tu>
+    <tu tuid="744">
+      <tuv xml:lang="en"><seg>Vertical Repeats</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>垂直重複</seg></tuv>
+    </tu>
+    <tu tuid="745">
+      <tuv xml:lang="en"><seg>View Measurements...</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>檢視測量...</seg></tuv>
+    </tu>
+    <tu tuid="746">
+      <tuv xml:lang="en"><seg>Views</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>檢視</seg></tuv>
+    </tu>
+    <tu tuid="747">
+      <tuv xml:lang="en"><seg>WARNING: Do not use the buttons on the table, or move the device out of range.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>警告：不要使用表中的按鈕, 否則將把裝置移到範圍外。</seg></tuv>
+    </tu>
+    <tu tuid="748">
+      <tuv xml:lang="en"><seg>Wait for the preset to be installed before clicking OK.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>在按一下「確定」前先等候安裝預設。</seg></tuv>
+    </tu>
+    <tu tuid="749">
+      <tuv xml:lang="en"><seg>Waiting to Rip</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>等待 RIP</seg></tuv>
+    </tu>
+    <tu tuid="750">
+      <tuv xml:lang="en"><seg>Warning Message Countdown Time</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>警告訊息倒數時間</seg></tuv>
+    </tu>
+    <tu tuid="751">
+      <tuv xml:lang="en"><seg>Warning:  Use of any non-Normal mode may result in loss of communication to the hardware protection key.  This will prevent you from performing some tasks.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>警告：使用任何非正常模式可能導致與硬體加密鎖的通訊中斷。這將使您不能執行某些任務。</seg></tuv>
+    </tu>
+    <tu tuid="752">
+      <tuv xml:lang="en"><seg>Warning: continuing may delete any existing swatch readings.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>警告： 繼續可能刪除任何現有的色板讀數。</seg></tuv>
+    </tu>
+    <tu tuid="753">
+      <tuv xml:lang="en"><seg>Watermark</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>水印</seg></tuv>
+    </tu>
+    <tu tuid="754">
+      <tuv xml:lang="en"><seg>Web Portal</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>網站入口</seg></tuv>
+    </tu>
+    <tu tuid="755">
+      <tuv xml:lang="en"><seg>When enabled, this will add a drop-shadow to the text.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>啟用此選項時，會將一個墨滴陰影加入文字中。</seg></tuv>
+    </tu>
+    <tu tuid="756">
+      <tuv xml:lang="en"><seg>White After</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>白色後</seg></tuv>
+    </tu>
+    <tu tuid="757">
+      <tuv xml:lang="en"><seg>White Ink Options</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>白色墨水選項</seg></tuv>
+    </tu>
+    <tu tuid="758">
+      <tuv xml:lang="en"><seg>White Plotting</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>白色繪圖</seg></tuv>
+    </tu>
+    <tu tuid="759">
+      <tuv xml:lang="en"><seg>White2:</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>白色2：</seg></tuv>
+    </tu>
+    <tu tuid="760">
+      <tuv xml:lang="en"><seg>Windowed</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>視窗型</seg></tuv>
+    </tu>
+    <tu tuid="761">
+      <tuv xml:lang="en"><seg>Work offline?</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>離線工作？</seg></tuv>
+    </tu>
+    <tu tuid="762">
+      <tuv xml:lang="en"><seg>Wrap</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>包裝</seg></tuv>
+    </tu>
+    <tu tuid="763">
+      <tuv xml:lang="en"><seg>Wrong paper path</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>錯誤紙張路徑</seg></tuv>
+    </tu>
+    <tu tuid="764">
+      <tuv xml:lang="en"><seg>Xerox ES</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Xerox ES</seg></tuv>
+    </tu>
+    <tu tuid="765">
+      <tuv xml:lang="en"><seg>Y Repeat Interval</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>Y 重複間隔</seg></tuv>
+    </tu>
+    <tu tuid="766">
+      <tuv xml:lang="en"><seg>Yellow 2</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>黃色 2</seg></tuv>
+    </tu>
+    <tu tuid="767">
+      <tuv xml:lang="en"><seg>Yes, stop creating this mode and save changes</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>是，停止建立此模式並儲存變更</seg></tuv>
+    </tu>
+    <tu tuid="768">
+      <tuv xml:lang="en"><seg>You are about to delete a Resolution. This action cannot be undone.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>您將要刪除解析度。此動作無法復原。</seg></tuv>
+    </tu>
+    <tu tuid="769">
+      <tuv xml:lang="en"><seg>You have successfully edited this mode.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>您已成功編輯此模式。</seg></tuv>
+    </tu>
+    <tu tuid="770">
+      <tuv xml:lang="en"><seg>You need to edit Step &amp;&amp; Repeat jobs with Job Editor</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>您必須使用 Job Editor 編輯步驟與重複工作</seg></tuv>
+    </tu>
+    <tu tuid="771">
+      <tuv xml:lang="en"><seg>Your hardware key could not be found.  Please check that you have access to a network key (enter localhost:1947 in your internet browser to view all keys on the network) or that the proper key is connected to a USB port on this machine. If there is a key, verify that the correct security device drivers are installed.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>找不到您的硬體加密鎖。  請檢查您是否擁有存取網路加密鎖的權限 (在您的網際網路瀏覽器中輸入 localhost:1947 以檢視網路上的所有加密鎖) ，或者正確的加密鎖是否已連接至這台機器上的 USB 連接埠。 如果有加密鎖，請確認是否已安裝正確的安全裝置驅動程式。</seg></tuv>
+    </tu>
+    <tu tuid="772">
+      <tuv xml:lang="en"><seg>Your hardware key is programmed to ONLY run BETA software.  Please contact your dealer for a key upgrade.\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>您的硬體加密鎖被設定為只執行 BETA 軟體。請與經銷商連絡做加密鎖的升級。\n</seg></tuv>
+    </tu>
+    <tu tuid="773">
+      <tuv xml:lang="en"><seg>Your operating sytem does not meet the minimum requirements.\nThis software requires Windows 2000, XP Pro, or later.\nAborting installation.</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>眤穨╰参ぃ骸ì程皌竚璶―\nセ硁砰惠璶 Windows 2000XP Pro ┪蔼セ\nいゎ杆</seg></tuv>
+    </tu>
+    <tu tuid="774">
+      <tuv xml:lang="en"><seg>Zero-line Marks</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>基準線標記</seg></tuv>
+    </tu>
+    <tu tuid="775">
+      <tuv xml:lang="en"><seg>Zooms in to the next default zoom level</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>放大到下一個預設縮放級別</seg></tuv>
+    </tu>
+    <tu tuid="776">
+      <tuv xml:lang="en"><seg>[Process-</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>[處理-</seg></tuv>
+    </tu>
+    <tu tuid="777">
+      <tuv xml:lang="en"><seg>\nLoaded substrate:\n</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>\n已載入基紙：\n</seg></tuv>
+    </tu>
+    <tu tuid="778">
+      <tuv xml:lang="en"><seg>\t\n\r\\ ()&lt;&gt;[]{}/%</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>\t\n\r\\ ()&lt;&gt;[]{}/%</seg></tuv>
+    </tu>
+    <tu tuid="779">
+      <tuv xml:lang="en"><seg>borderless</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>無邊框</seg></tuv>
+    </tu>
+    <tu tuid="780">
+      <tuv xml:lang="en"><seg>fail</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>失敗</seg></tuv>
+    </tu>
+    <tu tuid="781">
+      <tuv xml:lang="en"><seg>lm</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>lm</seg></tuv>
+    </tu>
+    <tu tuid="782">
+      <tuv xml:lang="en"><seg>n%</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>n%</seg></tuv>
+    </tu>
+    <tu tuid="783">
+      <tuv xml:lang="en"><seg>printer</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>印表機</seg></tuv>
+    </tu>
+    <tu tuid="784">
+      <tuv xml:lang="en"><seg>running</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>執行中</seg></tuv>
+    </tu>
+    <tu tuid="785">
+      <tuv xml:lang="en"><seg>toolBar</seg></tuv>
+      <tuv xml:lang="zh-TW"><seg>工具列</seg></tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,64 @@
+/*************Filter Feature*************/
+
+- Some Symbols do not work such as, with words in XML that include them with regular expression
+"+" , "*", "?", "\"
+
+- Putting a sequence of  "." filters the strings incorrectly.
+
+- Clear filter Button DOES NOT WORK
+
+/********English String Table***********/
+
+Words are loded directly from the xml  without any cleaning of the following
+1- escape characters
+"%.2" , "%d", "%s", "\n"
+2- unnessary symobls 
+",", "%", "&"
+
+-Double pressing on an element in the row to edit, points to the next element on the list, not the selected one.
+
+- The list is not fully sorted alphabetically , the end of the English string tables there are words such as 
+"fail", "printer" 
+
+- double-clicking on any of the unsorted words cases the software to crash.
+
+- Double-clicking on any English that includes the following cases the software to crash
+ " " ,  "?"
+
+- pointer problem with editing the string the cases it to crash.
+
+-Data can be selected, edited with any sort of mouse clicks, left click, right click scroll click.. etc
+
+/******* Translation Table *******/
+
+- After Editing a word by double click on it in a language, you can't double click and open the edit open 
+
+-Data can be selected, edited with any sort of mouse clicks, left click, right-click scroll click.. etc
+
+/*********Adding a new string *****/
+
+- Adding a new string only shows the first two lines in English String and Translation textbox.
+for example "1 \n 2 \n 3 \n 4" shows as "12"
+
+- Empty String of " " can be added.
+
+- adding a non-english letter cases the software to crash.
+
+/*******Searching in English and all other languages *****/ 
+
+- Searching a symbol that does not exist such as "$", "^"
+ returns an error message.
+
+- Other Symbols do not work as intended such as "(", "+"
+
+- click after opening the Search in English and all other language window, clicking escape cause it to close and never be able to open it again.
+
+- The first column's font is too large that numbers are hard to read.
+
+-Save As feature doesn't save the file as any extension type, preferred to be .txt
+
+
+/***********Search Mismatch of format *********/
+
+- click after opening the Search in English and all other language windows, clicking escape cause it to close and never be able to open it again.
+
